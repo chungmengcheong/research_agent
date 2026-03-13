@@ -4,51 +4,45 @@ Read these files first:
 - the current monthly file in notes/daily/
 - recent adjacent daily notes files as needed for evidence
 
-Your task is to update notes/synthesized-implications.md conservatively.
+Your task is to review and update notes/synthesized-implications.md conservatively.
 
 This document is not a recap of daily news.
-It should capture only durable, higher-signal implications supported by repeated evidence or by clearly material developments.
+It is the slower-moving synthesis layer for durable implications.
 
-When evaluating whether to update the synthesis:
-- look for themes repeated across multiple daily entries
-- look for developments that materially strengthen, weaken, or challenge an existing implication
-- avoid overreacting to a single day of news unless it is a genuine step-change event with durable strategic significance
+Follow the structure and rules in AGENTS.md.
 
-Allowed actions:
-- strengthen an existing implication
-- weaken an existing implication
-- materially challenge an existing implication
-- add a new implication if evidence is strong enough
-- add contradictory / disconfirming evidence to an existing implication
-- revise the contrarian view for an implication
-- move a tentative theme into the watchlist section
-- leave the document unchanged if evidence is insufficient
+Additional run-specific instructions:
+- Treat this as a daily review, not a required daily rewrite.
+- No change is a normal outcome.
+- Most runs should result in either no edit or only small targeted edits.
+- Update the document only when recent daily evidence:
+  1. materially strengthens an existing implication
+  2. materially weakens or challenges an existing implication
+  3. adds real contradictory / disconfirming evidence
+  4. justifies promoting a watchlist theme
+  5. represents a genuine step-change event with durable strategic significance
 
-For each active implication, maintain:
-- title
-- status
-- confidence
-- time horizon
-- what is happening
-- why it matters
-- evidence base
-- contradictory / disconfirming evidence
-- potential implications for markets / public equities, industry structure, startup formation, and product strategy
-- contrarian view
-- what would change the view
+Evidence discipline:
+- Use "Contradictory / disconfirming evidence" only for actual observed facts or outcomes that cut against the thesis.
+- Do not place hypothetical objections or alternative interpretations there.
+- Put those in "Contrarian view" instead.
+- If there is no real new disconfirming evidence, leave that section unchanged.
 
-Rules:
-- Be conservative.
-- Prefer small targeted edits over rewriting the whole document.
+Potential implications:
+- Include illustrative company, product, or category examples when they make the point more concrete.
+- Use examples to clarify the implication, not to overstate certainty.
+- Prefer phrasing like "may favor", "relatively more favorable for", or "illustrative examples include".
+
+Conservatism rules:
 - Do not mirror the daily notes.
-- If evidence is not durable enough, keep it in Watchlist implications not yet promoted.
-- Explicitly cite evidence by date from the daily notes.
-- Represent both the main view and the strongest reasonable case against it.
-- If recent evidence is mixed, reflect that in status, confidence, contradictory evidence, and contrarian view rather than pretending the signal is one-directional.
-- Most runs should make no change or only small targeted changes.
+- Do not add a new active implication unless the evidence is clearly durable enough.
+- If a theme is interesting but not yet durable, keep it in Watchlist implications not yet promoted.
+- Do not use the synthesis doc as a place to brainstorm speculative ideas.
+- If evidence is mixed, reflect that in status, confidence, contradictory evidence, and contrarian view.
 
 At the end, provide a short changelog:
-- what changed
-- what was strengthened, weakened, or materially challenged
-- which contrarian views were updated
-- which themes were reviewed but not promoted
+- whether the synthesis changed
+- what was strengthened, weakened, challenged, or left unchanged
+- what contradictory / disconfirming evidence was added, if any
+- which watchlist themes were reviewed but not promoted
+- any notable uncertainty

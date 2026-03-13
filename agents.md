@@ -129,6 +129,36 @@ For each active implication, maintain:
 In `Potential implications`, include illustrative company, product, or category examples when they make the point more concrete.
 Use examples to clarify the implication, not to overstate certainty.
 
+## Lookback windows for synthesis
+Use different evidence windows for different synthesis tasks.
+
+### Default windows
+- **New implication promotion:** prioritize the last **2–4 weeks** of daily notes
+- **Updating existing implications:** prioritize the last **6–12 weeks** of daily notes
+- **Long-term memory:** use the full `notes/synthesized-implications.md` document as the durable record of prior views
+
+### How to apply these windows
+- When deciding whether to create or promote a **new implication**, focus mainly on whether a theme appears repeatedly and meaningfully within the last **2–4 weeks**
+- When deciding whether to **strengthen, weaken, or materially challenge** an existing implication, consider the last **6–12 weeks** of daily notes, along with the current synthesis entry
+- When adding **contradictory / disconfirming evidence**, recent evidence may be enough if it is a real observed fact that clearly cuts against an existing implication
+
+### Promotion rule
+A new theme should usually be promoted into an active implication only when:
+- it appears meaningfully on at least **3 separate days within roughly 2–4 weeks**, or
+- a single development is clearly a **step-change event** with durable strategic significance
+
+### Search discipline
+- Do not scan the entire daily-note history indiscriminately for every synthesis run
+- Avoid stitching together sparse mentions across distant periods and calling them a durable trend
+- Use recent daily notes to assess what is happening now
+- Use the synthesis document to preserve longer-term memory of prior views
+
+### Practical default
+Unless there is a reason to go further back, a synthesis run should usually review:
+- the current monthly daily file
+- the prior monthly daily file if needed
+- the full `notes/synthesized-implications.md` document
+
 ## Ideas
 Separate ideas into:
 - **Higher-conviction ideas**

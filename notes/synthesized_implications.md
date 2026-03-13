@@ -5,114 +5,115 @@ _Last updated: 2026-03-13_
 ## How to read this document
 This document captures durable, higher-signal implications derived from repeated observations or clearly material developments.
 
-It is not a recap of daily news.
+It is not a recap of daily news.  
 It should change more slowly than the daily notes.
 
 A theme should usually be promoted into an active implication only when:
 - it appears repeatedly across multiple daily entries, or
 - a development is significant enough to constitute a step-change event.
 
-Mixed evidence should remain mixed.
+Mixed evidence should remain mixed.  
 Contradictory evidence should be represented explicitly.
 
 ---
 
 ## Active implications
 
-### 1. AI differentiation is shifting from generic chat toward workflow-native surfaces with proprietary context
+### 1. After software engineering, the next economically meaningful AI disruption targets are likely legal services, IT services / tech consulting, and customer support — not because they are easiest, but because they combine high labor spend with unusually machine-readable work
 **Status:** Strengthening  
 **Confidence:** Medium  
-**Time horizon:** Medium-term
-
-**What is happening**  
-AI value is increasingly moving from generic chatbot access toward products embedded in existing workflows, proprietary data, permissions, and repeated user intent.
-
-**Why it matters**  
-Distribution, workflow ownership, and context may matter more than raw model access alone. This favors companies that already control the surface where work gets done.
-
-**Evidence base**
-- Bret Taylor argues AI is pushing software toward outcomes-based models and that applied AI plus vertical specialization represent some of the biggest opportunities.  
-- a16z’s work on voice agents argues that successful AI applications are often workflow-specific and still rely on human-in-the-loop support in sensitive settings.  
-- a16z’s “messy inbox” thesis argues that successful AI apps often wedge into concrete workflows rather than competing as generic assistants.  
-- Bessemer’s work on Intercom argues that leading incumbents are not just adding AI features, but reimagining themselves as AI-native businesses.
-
-**Contradictory / disconfirming evidence**
-- Microsoft’s 2025 global AI adoption report shows rapid adoption of broadly accessible AI tools, including free/open offerings such as DeepSeek, especially in underserved markets. This suggests horizontal, low-friction access can still matter a great deal.
-
-**Potential implications**
-- **Markets / public equities:** May favor platforms with strong distribution and proprietary data loops over thinner standalone assistant layers (illustrative examples: Microsoft (MSFT), Google (GOOG), ServiceNow (NOW), Salesforce (CRM)).
-- **Industry structure:** Workflow control may matter more than raw model access alone (e.g., Microsoft 365, Google Workspace, ServiceNow, Salesforce).
-- **Startup formation:** Better openings may exist in vertical or workflow-specific copilots than in generic chat wrappers.
-- **Product strategy:** Prioritize embedded copilots tied to repeated tasks, permissions, and domain context.
-
-**Contrarian view**  
-Users may still consolidate around a small number of horizontal assistants, making many workflow-native copilots shallow features rather than durable products.
-
-**What would change the view**
-- Strong evidence that generic assistants capture retention and monetization across many workflows
-- Weak engagement or ROI from workflow-native AI features
-
----
-
-### 2. Enterprise AI is broadening, but the bottleneck is scaling and operationalization, not awareness
-**Status:** Strengthening  
-**Confidence:** High  
 **Time horizon:** Near-term to medium-term
 
 **What is happening**  
-Enterprises are adopting AI more broadly, but the hard part is no longer experimentation. It is redesigning workflows, governance, and operating models so AI produces repeatable business value.
+Software engineering remains the clearest early proof-point for agentic labor substitution, but it is probably not the biggest profit pool. The next wave is more likely to hit professions where three conditions hold at once: (1) labor is expensive enough that compute can clear the ROI hurdle, (2) work products are largely digital and reviewable, and (3) the task can be decomposed into bounded workflows. On that screen, legal work, tech consulting / systems implementation, and customer support look more economically interesting than many glamorous “AI replaces white collar work” narratives.
 
 **Why it matters**  
-The winners may be companies that help enterprises operationalize AI safely and repeatedly, not just companies with the strongest base models.
+The right question is not “which jobs can AI technically do?” It is “where does the labor bill sit far enough above compute + supervision cost to create real value capture?” High-wage, high-volume, digitally native service categories matter more than low-value administrative work because that is where marginal savings can plausibly offset marginal model cost.
 
 **Evidence base**
-- McKinsey’s 2025 State of AI work says the management practices correlated with AI value span strategy, talent, operating model, technology, data, and adoption/scaling.  
-- McKinsey’s 2025 global survey says organizations are redesigning workflows and putting senior leaders in AI governance roles to drive bottom-line impact.  
-- Bessemer’s Intercom case argues that becoming AI-native requires rethinking the company, not just layering on features.  
-- a16z’s services-led thesis argues that replacing core systems of record is harder than it looks and often requires deeper implementation work.
+- Sequoia says software engineering accounts for over half of all AI tool usage across professions, while every other category remains in single digits — useful as a baseline for what the first real breakout looks like.
+- U.S. lawyers earned median pay of $151,160 in May 2024, above software developers at $133,080 and computer systems analysts at $103,790 — exactly the wage level where partial automation can matter economically even with human review.
+- The U.S. law-firm market is estimated at $426.7 billion in 2026, while the alternative legal services market reached $28.5 billion in 2023 — evidence that buyers already separate high-volume, process-heavy legal work when cost and speed matter.
 
 **Contradictory / disconfirming evidence**
-- Intercom’s AI business has reportedly scaled quickly, with Fin on track to reach substantial ARR, suggesting some incumbents can move faster than the “pilot purgatory” narrative implies.
-- Microsoft’s report shows some countries achieving rapid consumer AI uptake, suggesting adoption can outpace formal enterprise operating-model readiness in some contexts.
+- BLS still projects lawyer employment to grow 4% from 2024 to 2034, with about 31,500 openings per year, which is not what immediate labor collapse would look like.
+- Reuters reported U.S. legal employment hit a record 1,237,600 jobs in February 2026, up 8.2% versus five years earlier, even as broader professional and business services shed jobs.
+- Morgan Stanley’s AlphaWise survey found CIOs plan to increase software spending by 3.9% in 2026, and the firm argues AI coding should create more software work rather than simply eliminate developers.
 
 **Potential implications**
-- **Markets / public equities:** More favorable setup for platforms that combine AI with workflow depth, deployment muscle, and governance (illustrative examples: Microsoft (MSFT), ServiceNow (NOW), Palantir (PLTR), CrowdStrike (CRWD)).
-- **Industry structure:** “AI systems of record,” orchestration layers, and implementation-heavy vendors may capture more value than pure model access.
-- **Startup formation:** Opportunity in implementation, evaluation, observability, orchestration, and human-in-the-loop workflow tooling.
-- **Product strategy:** Build for adoption, controls, integration, and change management, not just model quality.
+- **Markets / public equities:** The most exposed labor pools may be legal tech, CX / BPO, and IT services rather than broad “white-collar labor” abstractions.
+- **Industry structure:** The early winners may not be generalist copilots, but domain-specific vendors that own a narrow, reviewable workflow.
+- **Startup formation:** The best opportunities may be in expensive, repetitive professional sub-work — contract review, compliance research, implementation tasks, L1/L2 support, claims intake, collections, reconciliations.
+- **Product strategy:** Optimize for auditability, human sign-off, and ROI on labor replaced, not for “full autonomy” as a branding claim.
 
 **Contrarian view**  
-Model-native products may become so strong that much of the orchestration/governance layer gets compressed or bundled.
+Software engineering may remain unusually special because code is the most machine-native professional medium. Other professions may prove much slower because human trust, liability, and exception handling dominate the economics.
 
 **What would change the view**
-- Evidence that enterprises standardize directly on a few model-native products without much workflow middleware
-- Weak demand for evaluation, governance, or orchestration tooling
+- Repeated proof that legal, support, or consulting workflows can sustain production-grade AI substitution with clear labor savings
+- Or evidence that supervision, liability, and workflow messiness keep these categories permanently “copilot-shaped”
 
 ---
 
-### 3. AI software is pushing business models toward outcomes, services, and tighter workflow ownership
-**Status:** Emerging  
-**Confidence:** Medium  
-**Time horizon:** Medium-term
+### 2. Tech consulting looks like the most credible short-term AI winner because the bottleneck is implementation, not model access
+**Status:** Strengthening  
+**Confidence:** High  
+**Time horizon:** Near-term
 
 **What is happening**  
-AI is pressuring traditional SaaS pricing and delivery models. In some categories, value may shift from seat-based subscription models toward outcomes-based pricing, embedded services, and deeper workflow ownership.
+The market is still early enough that enterprises do not mainly need another model; they need help redesigning workflows, integrating data, standing up controls, and proving ROI. That shifts value toward tech consulting, systems integrators, and AI implementation shops.
 
 **Why it matters**  
-This may reward companies that can own measurable business outcomes, while pressuring incumbents whose products remain detached from the actual work.
+This is the practical answer to the “software vs. services” debate. In the short term, the constraint is not raw intelligence. It is change management, workflow redesign, integration, observability, and organizational adoption. That is much closer to consulting than to classic self-serve SaaS.
 
 **Evidence base**
-- Bret Taylor argues AI is driving a shift from subscription-based pricing to outcomes-based models.  
-- a16z argues AI agents can bring formerly outsourced work in-house “at the speed, quality, and scalability of software.”  
-- a16z’s services-led thesis argues forward-deployed implementation can become a moat when startups are replacing legacy systems of record.  
-- Bessemer’s State of AI 2025 predicts more M&A as incumbents buy AI capabilities and notes that strong moats plus embedded workflows create leverage.
+- Accenture reported fiscal 2025 advanced-AI revenue of $2.7 billion, advanced-AI bookings of $5.9 billion, and more than 6,000 advanced-AI projects in the year.
+- TCS said it had around 580 AI-led business engagements in Q4 FY25, over 150 specialized agentic AI solutions, and that more than one-third of client engagements now use AI / GenAI for accelerated outcomes.
+- IBM’s 2025 CEO study reports average AI ROI of 14% among Chief AI Officers, suggesting there is enough realized value to fund implementation projects — but not yet enough maturity to make implementation disappear.
 
 **Contradictory / disconfirming evidence**
-- Many enterprises still buy software through familiar seat- and contract-based procurement motions, and outcome-based pricing may be hard to operationalize in practice.
-- Lightweight wrappers continue to launch, suggesting the market has not yet fully rejected thin software models.
+- Accenture’s FY2025 GAAP operating margin was 14.7%, roughly flat year over year, suggesting that large AI bookings are not yet obviously translating into structurally better consulting economics.
+- OpenAI said in February 2026 that more than 9 million paying business users rely on ChatGPT for work, which is evidence that a model-native platform can reach scale directly rather than purely through consultants.
+- OpenAI also said in November 2025 that ChatGPT for Work had surpassed 7 million seats and ChatGPT Enterprise seats had grown 9x year over year, implying that some enterprise adoption is already becoming more plug-and-play than the consulting thesis assumes.
 
 **Potential implications**
-- **Markets / public equities:** More favorable setup for companies that can connect AI to measurable outcomes or durable workflow ownership (illustrative examples: Salesforce (CRM), ServiceNow (NOW), HubSpot (HUBS), as well as AI-native challengers in category-specific workflows).
+- **Markets / public equities:** Near-term AI monetization may show up faster in consulting and managed services than in many application vendors.
+- **Industry structure:** The short-term fight is likely among consultancies, global SIs, BPOs, and vertical AI startups, all competing for the same “make AI real” budget.
+- **Startup formation:** “AI implementation firm disguised as software company” is a more realistic near-term model than pristine horizontal SaaS.
+- **Product strategy:** Sell time-to-value, workflow redesign, and measurable operational gains; do not assume model access is a moat.
+
+**Contrarian view**  
+Consulting may enjoy the spending wave but still fail to capture the long-term economics if the durable margin pool eventually compresses back into software and infrastructure.
+
+**What would change the view**
+- Evidence that implementation-heavy AI vendors re-expand margins after deployment at scale
+- Or evidence that enterprise adoption becomes plug-and-play faster than consulting capacity can monetize it
+
+---
+
+### 3. The clearest business-model transition is not “software to services” in general; it is seats to resolutions, licenses to delivered work, and billable hours to managed outcomes
+**Status:** Strengthening  
+**Confidence:** Medium  
+**Time horizon:** Near-term to medium-term
+
+**What is happening**  
+The market is finally producing observable examples of AI vendors and service providers changing the unit of monetization. The most advanced transitions are happening where work is measurable: customer support, some CX operations, and selected implementation-heavy enterprise workflows.
+
+**Why it matters**  
+This is more than pricing cosmetics. When the unit changes from seat or hour to resolution or outcome, value capture shifts from “how many humans touch the tool?” to “how much work got done?” That creates a path for software vendors to pull budget from labor and outsourcing lines, not just software budgets.
+
+**Evidence base**
+- Zendesk has formally moved AI agent pricing to automated resolutions, replacing the earlier MAU / legacy bot model.
+- Sierra says it charges on a resolution-based basis and only gets paid when the customer’s issue is fully solved.
+- Sequoia’s “Services: The New Software” frames the shift cleanly: buyers increasingly want the books closed or the issue resolved, not another dashboard seat.
+
+**Contradictory / disconfirming evidence**
+- ServiceNow generated $3.466 billion of subscription revenue in Q4 2025, up 21% year over year, which is a reminder that the dominant enterprise monetization model is still recurring software subscription, not outcomes.
+- Salesforce and most other large enterprise software vendors still report the vast majority of revenue as subscription or support revenue, not resolution-based or labor-displacement revenue.
+- Zendesk’s public pricing still anchors automated resolutions at roughly $1.50 to $2.00 each, which shows outcome pricing exists — but also suggests that many categories are still in the early stages of proving how much value can actually be captured per completed task.
+
+**Potential implications**
+- **Markets / public equities:** More favorable setup for companies that can connect AI to measurable outcomes or durable workflow ownership.
 - **Industry structure:** More blending of software and services; more pressure on “tool-only” vendors.
 - **Startup formation:** Attractive openings in software that replaces outsourced labor, especially in customer support, operations, and regulated services.
 - **Product strategy:** Design around measurable business outcomes and implementation success, not just feature breadth.
@@ -126,193 +127,195 @@ Most enterprise software may remain largely subscription-priced, with “outcome
 
 ---
 
-### 4. AI infrastructure remains constrained by power, grid access, and physical capacity
+### 4. The binding constraint in AI is increasingly physical infrastructure, not model ambition
 **Status:** Strengthening  
 **Confidence:** High  
 **Time horizon:** Near-term to medium-term
 
 **What is happening**  
-AI scaling is still constrained by physical infrastructure: power, grid interconnection, cooling, data-center buildout, and the availability of high-quality capacity.
+The bottleneck is increasingly power, grid access, data-center conversion, cooling, and financing. AI demand can still grow faster than useful capacity, which means scarcity is migrating down the stack toward semis, networking, power equipment, grid access, and the largest financed buyers of compute.
 
 **Why it matters**  
-Scarce physical inputs can preserve pricing power, shape value capture, and make infrastructure-adjacent exposure strategically important even if application narratives dominate headlines.
+This shifts the economic center of gravity. If power and AI-capable capacity remain scarce, then a surprising share of value accrues not to the most exciting application layer, but to the owners of scarce physical inputs and to the firms with the balance sheet to secure them.
 
 **Evidence base**
-- Goldman Sachs says data-center power demand is now expected to grow 220% by 2030 versus 2023 levels.  
-- Goldman also says rising hyperscaler reinvestment is reshaping the economics of electricity demand and infrastructure.  
-- JLL’s 2026 Global Data Center Outlook says the sector could nearly double to 200GW amid an AI-driven investment supercycle.  
-- JLL also highlights energy and sustainability challenges as development constraints.  
-- Reuters reported record data-center dealmaking in 2025 amid AI demand.
+- Goldman Sachs’ November 2025 base case is that data-center power demand will rise 175% by 2030 versus 2023 levels.
+- Morgan Stanley estimates U.S. data-center demand could reach 74 GW by 2028 with roughly a 49 GW power-access shortfall.
+- JPMorgan says only about 20 GW of the world’s roughly 125 GW of data-center capacity is currently AI-capable and that at least 100 GW of new power generation will be needed to support projected demand.
 
 **Contradictory / disconfirming evidence**
-- Goldman notes server productivity and other “6 Ps” could help offset some demand pressure over time.
-- If model efficiency or inference optimization improves sharply, the bottleneck may ease faster than current narratives imply.
+- Goldman’s framework explicitly includes server productivity and compute efficiency as major offsetting forces, meaning the demand curve is not pure straight-line extrapolation.
+- JLL’s 2026 Global Data Center Outlook says global data-center capacity could nearly double to 200 GW by 2030, implying that supply is scaling materially even if it remains constrained.
+- Janus Henderson estimates only about 85 GW of new data-center power capacity is likely to come online this decade, versus much larger headline announcements — which cuts both ways, but also warns against assuming every announced bottleneck becomes durable pricing power.
 
 **Potential implications**
-- **Markets / public equities:** More favorable setup for semis, networking, power, cooling, and grid-linked beneficiaries (illustrative examples: NVIDIA (NVDA), Broadcom (AVGO), Vertiv (VRT), Eaton (ETN), GE Vernova (GEV), Constellation Energy (CEG)).
-- **Industry structure:** Physical infrastructure and energy access remain strategic bottlenecks, not procurement details.
-- **Startup formation:** Better openings in infrastructure software, power optimization, cooling, cluster management, and energy-aware scheduling than in undifferentiated app layers.
-- **Product strategy:** Design around cost, latency, and capacity variability.
+- **Markets / public equities:** Continued support for semis, networking, cooling, power equipment, grid infrastructure, and select utilities / developers.
+- **Industry structure:** Frontier-model companies without distribution or platform control risk being price-takers on top of an expensive infrastructure base.
+- **Startup formation:** Stronger openings in energy-aware scheduling, cluster efficiency, cooling, data-center conversion, and power orchestration than in thin AI wrappers.
+- **Product strategy:** Design assuming inference is constrained and variable in cost — not cheap and infinite.
 
 **Contrarian view**  
-Application-layer value capture may still far exceed infrastructure value once capacity normalizes.
+This may become a classic overbuild story. If supply arrives just as application monetization disappoints, infrastructure returns could compress quickly.
 
 **What would change the view**
-- Sustained evidence of easing constraints without infrastructure margin support
-- Sharp efficiency gains that materially reduce training/inference intensity
+- Sustained easing in power scarcity without corresponding pricing power in infrastructure
+- Or evidence that compute efficiency improves faster than useful AI demand grows
 
 ---
 
-### 5. Governance, security, and assurance are becoming core AI product requirements, not overlays
+### 5. AI does not just create compliance requirements; it creates a new attack surface made of agents, model permissions, machine identities, and autonomous actions — which implies both a new cyber risk layer and a new security spend cycle
 **Status:** Strengthening  
 **Confidence:** High  
-**Time horizon:** Near-term
+**Time horizon:** Near-term to medium-term
 
 **What is happening**  
-As AI gets embedded into real workflows, buyers increasingly care about evaluation, monitoring, permissions, policy controls, and security as first-order product requirements.
+As AI shifts from chat to action, the security problem changes. The risk is no longer only prompt leakage or model misuse. It is that agents are being given read / write access to enterprise systems, low-code employees are deploying agents faster than security teams can see them, and attackers are beginning to target the AI control plane itself.
 
 **Why it matters**  
-Trust, auditability, and resilience may become purchase criteria rather than afterthoughts, especially in enterprise, public-sector, and regulated domains.
+This is materially different from ordinary B2B governance. Traditional SaaS software generally exposed data. Agentic systems can expose credentials, workflows, permissions, and autonomous execution. That makes AI security a genuine product category, not just a checklist.
 
 **Evidence base**
-- McKinsey says companies capturing AI value are making workflow and governance changes, not just model experiments.  
-- ITU’s 2025 governance report argues for proactive, inclusive, and adaptive governance as AI accelerates globally.  
-- Trend Micro’s AI security work points to growing security exposure as AI adoption rises.
+- Microsoft’s February 2026 Cyber Pulse report says over 80% of the Fortune 500 is deploying active agents built with low-code / no-code tools.
+- CrowdStrike’s 2025 Threat Hunting Report says adversaries are directly targeting tools used to build AI agents, including credential theft and malware deployment through agent-building infrastructure.
+- CrowdStrike also documented real exploitation of Langflow AI in 2025, showing that AI workflow tooling is already being used as an initial access vector.
 
 **Contradictory / disconfirming evidence**
-- a16z’s work on BPO disruption suggests some buyers will prioritize speed, cost, and automation gains even if assurance layers are still immature.
-- Fast-moving teams and SMBs may accept “good enough” governance rather than buying dedicated control layers.
+- Less than half of organizations currently have generative-AI-specific security controls in place, which suggests the spend category is still early rather than already mature.
+- Much of the actual attack surface overlaps with existing IAM, PAM, cloud security, and application-security categories, so new budget may flow to incumbents rather than to a clean standalone “AI security” layer.
+- The current evidence base is still concentrated in a small number of agent-building tools and early incidents, rather than in a broad set of disclosed losses large enough to guarantee a separate durable category.
 
 **Potential implications**
-- **Markets / public equities:** Favors companies positioned around enterprise trust, control, and security (illustrative examples: Microsoft (MSFT), CrowdStrike (CRWD), Palo Alto Networks (PANW), Zscaler (ZS)).
-- **Industry structure:** Governance and security may become standard platform features in enterprise AI stacks.
-- **Startup formation:** Openings in evals, red-teaming, model monitoring, agent governance, and policy control.
-- **Product strategy:** Treat observability and permissioning as product features, not compliance sidecars.
+- **Markets / public equities:** Identity, privileged access, cloud security, data-security posture management, and observability vendors should benefit before “AI-native security” winners are fully clear.
+- **Industry structure:** Security control is moving closer to the AI runtime: permissions, audit trails, memory, tools, agent behavior, and machine identity.
+- **Startup formation:** Best openings likely sit in agent identity, permissioning, eval / monitoring, secure tool use, and forensic replay rather than generic “AI governance” dashboards.
+- **Product strategy:** Treat observability and permission design as core product primitives, not post hoc enterprise features.
 
 **Contrarian view**  
-Much of this category may get bundled into larger platforms, limiting standalone pricing power.
+The security layer may prove less novel than it looks. Incumbent identity and cloud-security vendors may absorb most of the spend.
 
 **What would change the view**
-- Evidence that platform-native controls are “good enough” for most buyers
-- Or continued willingness to pay for best-of-breed assurance layers
+- Clear evidence that AI-specific attack patterns create a durable independent budget line
+- Or evidence that incumbent security platforms solve the problem well enough without major category creation
 
 ---
 
-### 6. Sovereign and regionally controlled AI stacks are becoming a real strategic theme
-**Status:** Emerging  
-**Confidence:** Medium  
-**Time horizon:** Medium-term
-
-**What is happening**  
-Countries and regions increasingly want more control over compute, data, model access, and deployment architecture amid geopolitical and regulatory tension.
-
-**Why it matters**  
-“Sovereign AI” may become a real procurement and infrastructure category, affecting vendor choice, cloud architecture, and regional champions.
-
-**Evidence base**
-- Microsoft’s diffusion report shows AI adoption is uneven and shaped by local infrastructure, policy, and language/product fit.  
-- The report also highlights DeepSeek’s strong traction in markets underserved by traditional providers, showing how accessibility and geopolitical alignment can shape adoption.  
-- ITU’s governance work emphasizes global competition alongside governance needs.  
-- Reuters reported new investment aimed at domestically operated AI data-center capacity in Europe.
-
-**Contradictory / disconfirming evidence**
-- Microsoft’s own report shows broad adoption benefits when tools are accessible and usable, suggesting many markets may still prefer low-cost global platforms over expensive local stacks.
-- Global hyperscalers still retain scale advantages that may be hard to replicate regionally.
-
-**Potential implications**
-- **Markets / public equities:** May support global vendors that can offer localized control models, while also improving the setup for regional cloud/data-center providers.
-- **Industry structure:** Procurement may increasingly favor vendors that satisfy residency, auditability, and strategic-control requirements.
-- **Startup formation:** Openings in localized infrastructure, compliance tooling, and sovereign-control software layers.
-- **Product strategy:** Build for residency, policy control, and deployment flexibility.
-
-**Contrarian view**  
-Sovereign AI may remain more political than economic, with many buyers unwilling to bear the cost of local duplication.
-
-**What would change the view**
-- Larger budget commitments and procurement mandates for regional AI stacks
-- Or evidence that global platforms satisfy sovereignty concerns cheaply enough
-
----
-
-### 7. Global AI diffusion is rising, but uneven access may become a major business and geopolitical fault line
+### 6. Open-weight and low-cost models are likely to dominate cost-sensitive regions and many enterprise use cases, which puts structural pressure on the economics of frontier-model providers
 **Status:** Strengthening  
 **Confidence:** Medium  
-**Time horizon:** Medium-term
+**Time horizon:** Near-term to medium-term
 
 **What is happening**  
-AI adoption is growing globally, but unevenly. Infrastructure, language fit, pricing, and policy all shape who benefits first.
+The model market is segmenting. Frontier closed models still matter for premium performance, but open-weight and lower-cost reasoning models are increasingly good enough for many real workloads, especially where buyers care more about cost, control, localization, or deployment flexibility than absolute benchmark leadership.
 
 **Why it matters**  
-The next wave of growth may not come from the same geographies or business models as the first. Accessibility and affordability may be strategic, not just social, variables.
+This challenges the assumption that frontier labs will capture most of the long-term economics. If enough demand clears at “good enough + much cheaper + locally deployable,” then the model layer starts to look structurally more competitive and less monopolistic.
 
 **Evidence base**
-- Microsoft reports that global AI adoption reached 16.3% of the world’s population in H2 2025, up from 15.1% in H1.  
-- Microsoft also reports that adoption in the Global North grew almost twice as fast as in the Global South.  
-- The same report says the U.S. leads in infrastructure and frontier-model development but still ranked only 24th in AI usage among working-age populations.  
-- The report highlights DeepSeek’s traction in underserved markets and points to accessibility as a driver of diffusion.
+- a16z’s 100-trillion-token State of AI study says open-source models are rising quickly, particularly reasoning-forward models such as DeepSeek R1 and Kimi K2, because of cost efficiency and flexibility.
+- The same study, based on OpenRouter data, shows more than 50% of usage originates outside the United States, which matters because cost and local fit often matter more in those markets than frontier prestige.
+- Goldman Sachs’ December 2025 U.S.-China tech-race note says all leading open-source and open-weight generative AI models at that point were from Chinese firms such as Alibaba, Baidu, Tencent, Moonshot, and Zhipu.
 
 **Contradictory / disconfirming evidence**
-- High-income and already digitized economies still dominate many of the fastest adoption gains, suggesting the advantage may compound rather than flatten.
-- Frontier model leadership and infrastructure remain concentrated despite diffusion growth.
+- OpenAI said in February 2026 that more than 9 million paying business users rely on ChatGPT for work, which is strong evidence that closed-model platforms can still win at scale despite open-model progress.
+- Anthropic said in February 2026 that Claude Code’s run-rate revenue had exceeded $2.5 billion, showing that premium closed systems can still monetize strongly when they own a high-value use case.
+- OpenRouter’s own study notes that its dataset is observational and shaped by platform composition, pricing, and developer preferences, so the open-model share gains there should not be treated as a complete picture of the whole enterprise market.
 
 **Potential implications**
-- **Markets / public equities:** Could favor companies able to localize price points, language support, and distribution (illustrative examples: Microsoft (MSFT), Google (GOOG), regional cloud/telco ecosystems, and open-model distributors).
-- **Industry structure:** Accessibility, not just quality, may shape global market share.
-- **Startup formation:** Openings in localized interfaces, low-cost deployment, language-specific tooling, and region-specific AI applications.
-- **Product strategy:** Optimize for affordability, distribution, and language/context fit rather than assuming frontier quality alone wins.
+- **Markets / public equities:** Pressure on the long-term profit pool of pure frontier-model providers; more upside for distributors, application owners, and infra that serves both open and closed ecosystems.
+- **Industry structure:** Expect regional model fragmentation and a more heterogeneous stack than “one winner takes all.”
+- **Startup formation:** Stronger opportunities in routing, orchestration, fine-tuning, enterprise deployment, localization, and model-management layers.
+- **Product strategy:** Architect products to be model-portable and cost-aware; do not assume one premium frontier provider will remain economically dominant.
 
 **Contrarian view**  
-The market may still consolidate around a few frontier providers, with regional variation mattering less than expected.
+The market may still consolidate around a small number of frontier platforms because the best models improve faster than “good enough” alternatives can close the gap.
 
 **What would change the view**
-- More evidence that localized/open offerings sustain adoption share
-- Or stronger consolidation around a few global platforms despite local differences
+- Continued share gains for open / low-cost models in production traffic and enterprise deployments
+- Or proof that premium closed models retain a widening quality advantage large enough to justify their price
 
 ---
 
-### 8. Physical AI and robotics are moving from narrative toward platform buildout, but commercialization will lag enthusiasm
-**Status:** Emerging  
-**Confidence:** Medium  
-**Time horizon:** Long-term
+### 7. The true application moat is shifting from raw model quality to workflow control, context ownership, and distribution at the point of work
+**Status:** Strengthening  
+**Confidence:** High  
+**Time horizon:** Near-term to medium-term
 
 **What is happening**  
-Robotics, autonomous systems, and “physical AI” are moving closer to the strategic center of the AI stack, especially for major compute vendors and industrial automation players.
+As model quality diffuses, the winning application pattern is becoming clearer: own the workflow entry point, accumulate proprietary context, and become the system that decides what the agent is allowed to do. The moat is not “we call the best LLM”; it is “we sit where work starts, where data is interpreted, and where action is approved.”
 
 **Why it matters**  
-This could become the next leg of AI platform expansion, but timelines and monetization remain much slower and messier than in software.
+This means many application companies are less defensible than they look, while some incumbents and workflow-native startups are more defensible than the market assumes. It also means distribution and implementation can beat pure capability.
 
 **Evidence base**
-- Jensen Huang’s CES 2025 keynote emphasized autonomous vehicles, robotics, and agentic AI, and described the next era as “physical AI.”  
-- Recent reporting on Nvidia and ABB shows commercial partnerships aimed at self-training industrial robots and broader deployment in logistics and manufacturing.
+- a16z’s recent context-layer thesis argues enterprise data agents fail without a robust semantic layer that unifies business definitions across systems.
+- a16z’s “messy inbox” framing says the best wedges start inside ugly, unstructured operational workflows rather than in generic chat surfaces.
+- Sequoia’s latest services thesis argues that as models improve, workflow ownership compounds while standalone tools risk becoming features.
 
 **Contradictory / disconfirming evidence**
-- Commercial availability in the Nvidia/ABB example is still in the future, underscoring deployment lag.
-- Robotics remains much more capital intensive and operationally difficult than software deployment.
+- OpenAI said in November 2025 that ChatGPT for Work had surpassed 7 million seats and in February 2026 that more than 9 million paying business users rely on ChatGPT for work, which shows a horizontal platform can still penetrate real workflows at scale.
+- Microsoft’s AI diffusion report put global generative-AI adoption at 16.3% in H2 2025, up from 15.1% in H1, suggesting mass-distribution assistants still matter materially even without deep proprietary context.
+- DeepSeek’s reported traction in cost-sensitive and underserved markets shows that accessibility and price can sometimes outrun workflow depth as the immediate driver of adoption.
 
 **Potential implications**
-- **Markets / public equities:** Illustrative beneficiaries may include NVIDIA (NVDA), ABB, Rockwell Automation (ROK), Siemens, and other automation/compute-adjacent players, but timing risk is high.
-- **Industry structure:** Platform suppliers may benefit before application winners become clear.
-- **Startup formation:** Better openings in simulation, safety, tooling, and narrow industrial workflows than in broad humanoid narratives.
-- **Product strategy:** Prioritize constrained environments and clear labor ROI.
+- **Markets / public equities:** Systems of record, workflow platforms, and deeply embedded enterprise vendors may defend better than thin AI overlays.
+- **Industry structure:** The battle is moving toward control planes: context, permissions, memory, routing, human approval, and task orchestration.
+- **Startup formation:** Best openings are in workflow-native verticals and context-rich operating layers, not generic assistant shells.
+- **Product strategy:** Build where work begins and where approval happens; context is a product, not plumbing.
 
 **Contrarian view**  
-Physical AI may remain a compelling narrative that commercializes much more slowly than markets expect.
+Model platforms may absorb enough of the context layer that many “workflow moats” end up thinner than hoped.
 
 **What would change the view**
-- More repeated production deployments with measurable ROI
-- Or continued slippage in real-world deployment timelines
+- Clear retention and monetization outperformance by context-rich, workflow-native products
+- Or evidence that platform-native tooling becomes sufficient for most enterprise workflows
+
+---
+
+### 8. Machine-identity explosion is becoming a durable spend driver even outside the AI trade
+**Status:** Emerging  
+**Confidence:** Medium  
+**Time horizon:** Medium-term
+
+**What is happening**  
+Even without taking a directional view on frontier AI, enterprises are adding more machine identities, more cloud services, more APIs, more automation, and more privileged workflows. AI accelerates this, but the underlying trend is broader: the enterprise control plane is getting more crowded, more fragmented, and more security-critical.
+
+**Why it matters**  
+This is one of the few non-AI tech areas where spend feels less discretionary. You can delay a new workflow app. You cannot indefinitely delay identity, privilege, observability, or access controls once your environment becomes too complex to reason about manually.
+
+**Evidence base**
+- Microsoft and CrowdStrike both point to machine-speed intrusions, cloud-focused attacks, and the expansion of machine identities and autonomous tooling as major changes in the threat landscape.
+- Microsoft’s agent-security work suggests the same control-plane problem is being amplified by AI, but it is not dependent on AI alone.
+- Enterprise buyers increasingly treat identity, permissioning, and security telemetry as foundational controls rather than optional add-ons.
+
+**Contradictory / disconfirming evidence**
+- Cybersecurity remains cyclical at the margin, and platform consolidation can compress standalone category growth even when the underlying problem worsens.
+- Some of the apparent growth in control-plane spending is likely reallocation from other security budgets rather than purely net-new budget creation.
+- This remains a market where large incumbents already control many of the distribution channels, which could limit greenfield upside for new entrants.
+
+**Potential implications**
+- **Markets / public equities:** Identity, privileged access, cloud-security, and observability remain among the cleaner secular enterprise spend areas.
+- **Industry structure:** Control-plane vendors may gain strategic importance relative to point tools.
+- **Startup formation:** Opportunity exists in machine identity, privilege controls, policy automation, and security observability.
+- **Product strategy:** Build for control, auditability, and interoperability across messy environments.
+
+**Contrarian view**  
+This may remain an incumbent-led market with limited room for new breakout winners.
+
+**What would change the view**
+- Evidence that machine-identity and privileged-access complexity keeps rising faster than platform consolidation can absorb it
+- Or evidence that large incumbents fully commoditize the layer
 
 ---
 
 ## Watchlist implications not yet promoted
 
-### 9. Voice may become the wedge, not the product
+### A. Legal services may become the first major non-engineering profession where AI is adopted top-down rather than bottom-up
 **Why it is on the watchlist**  
-a16z argues AI voice is becoming more viable, but the durable opportunity may be workflow ownership rather than standalone voice interfaces.
+The economics are compelling and the workflow fit is improving, but the liability, trust, and buyer-behavior questions are still unresolved.
 
-### 10. Agentic commerce and search/discovery economics may shift from retrieval toward task completion
+### B. Frontier-model providers may eventually resemble capital-intensive component suppliers unless they also own distribution, workflow, or end-market demand
 **Why it is on the watchlist**  
-The logic is increasingly plausible, but durable user-behavior change and monetization structure are still unsettled.
+The economics point in this direction, but the market structure is still too fluid to treat it as a stable active implication.
 
 ---
 
