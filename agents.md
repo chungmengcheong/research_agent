@@ -201,3 +201,20 @@ At the end of each run, provide a short changelog stating:
 - whether the synthesis changed
 - what was strengthened, weakened, challenged, or left unchanged
 - any notable uncertainty
+
+## Monthly file rollover for daily notes
+Daily notes are stored in one file per calendar month in `notes/daily/`, using the filename format:
+
+`YYYY-MM.md`
+
+When updating daily notes:
+- determine today's date first
+- use the file for the current calendar month
+- if that file does not exist, create it
+- if creating a new monthly file, initialize it with a top-level title:
+
+`# YYYY-MM Daily Notes`
+
+- then append the new dated entry under that file
+
+Never append a new month's dated entries to the prior month's file.
