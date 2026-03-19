@@ -1,6 +1,6 @@
 # Synthesized Implications
 
-_Last updated: 2026-03-13_
+_Last updated: 2026-03-19_
 
 ## How to read this document
 This document captures durable, higher-signal implications derived from repeated observations or clearly material developments.
@@ -34,6 +34,7 @@ The most economically meaningful disruption is unlikely to begin where work is e
 - Legal-specific AI adoption doubled year over year from 21% to 42%, showing that domain-specific systems are moving from experimentation toward normal workflow use.
 - 94% of legal AI users report measurable productivity gains, with 25% saving more than six hours per week.
 - U.S. lawyers earned median pay of $151,160 in May 2024, while the U.S. law-firm market is estimated at $426.7 billion in 2026 — exactly the sort of cost pool where partial automation can be economically meaningful.
+- PwC leadership explicitly said partners who resist AI have no place at the firm and that parts of its services will be turned into AI-powered automated tools, reinforcing that major professional-services firms are moving from labor resale toward workflow automation.
 
 **Contradictory / disconfirming evidence**
 - Reuters reported U.S. legal employment reached a record 1,237,600 jobs in February 2026, up 8.2% versus five years earlier.
@@ -61,7 +62,7 @@ Software engineering may remain unusually special because code is fully machine-
 **Time horizon:** Near-term to medium-term
 
 **What is happening**  
-Enterprises still do not mainly need another model. They need workflow redesign, integration, controls, change management, and proof of ROI. That means implementation-heavy firms — consultancies, systems integrators, managed-service providers, and AI-native vendors with forward-deployed teams — have the clearest short-term monetization path. But the deeper structural shift is that pricing and value capture are moving away from seats and hours toward delivered work, resolutions, and managed outcomes.
+Enterprises still do not mainly need another model. They need workflow redesign, integration, controls, change management, and proof of ROI. That means implementation-heavy firms — consultancies, systems integrators, managed-service providers, and AI-native vendors with forward-deployed teams — have the clearest short-term monetization path. But the deeper structural shift is that pricing and value capture are moving away from seats and hours toward delivered work, resolutions, and managed outcomes, with large incumbents increasingly making that shift explicit rather than implied.
 
 **Why it matters**  
 This reframes the “software vs. services” debate. In the short term, services win because implementation is the bottleneck. In the medium term, the winner is whoever can turn implementation into durable workflow ownership and then re-price from access to results. The key distinction is not software vs. services in the abstract; it is whether a company owns the budget line tied to actual work getting done.
@@ -70,6 +71,7 @@ This reframes the “software vs. services” debate. In the short term, service
 - Accenture reported $2.7 billion of advanced-AI revenue, $5.9 billion of advanced-AI bookings, and more than 6,000 advanced-AI projects in fiscal 2025.
 - TCS said it had around 580 AI-led business engagements in Q4 FY25 and that more than one-third of client engagements now use AI / GenAI for accelerated outcomes.
 - Zendesk has formally shifted AI-agent pricing toward automated resolutions, while Sierra prices on resolved issues rather than on user seats.
+- PwC said it plans to turn some services into AI-powered automated tools while moving away from pure hourly billing, adding a major incumbent-services example of the same outcome-linked pricing transition.
 
 **Contradictory / disconfirming evidence**
 - Accenture’s FY2025 GAAP operating margin was 14.7%, roughly flat year over year, suggesting AI demand is not yet clearly improving consulting economics.
