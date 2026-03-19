@@ -102,6 +102,35 @@ Determine labels by comparing today’s developments against:
 - **Market / industry implications:** broader sector or industry readthroughs
 - **Implied ideas:** downstream interpretations, not restatements of the news
 
+## Better idea generation
+The goal is not to generate the first obvious adjacent idea.
+The goal is to generate a small number of ideas that are non-obvious, plausible, and valuable.
+
+When producing startup or product ideas:
+- Prefer second-order consequences, bottlenecks, enabling layers, workflow wedges, governance layers, pricing shifts, and distribution changes.
+- Avoid generic wrappers, generic copilots, and "AI for X" ideas unless there is a specific reason they are newly attractive.
+- Ask:
+  - What valuable problem becomes newly solvable?
+  - What bottleneck becomes more painful?
+  - Where does value accrue if this trend is true?
+  - What does the consensus miss?
+
+Evaluate candidate ideas on:
+- plausibility
+- non-obviousness
+- value
+- specificity
+- distinctness
+
+Only include ideas that are strong on at least 3 of those dimensions.
+
+For each idea, briefly state:
+- why now
+- why this is non-obvious
+- what it depends on
+
+When in doubt, prefer ideas built around bottlenecks, control points, or workflow failure modes rather than end-user novelty.
+
 ## Synthesis
 Do not mirror the daily notes.
 Update the synthesis only when there is durable evidence, repeated support, or a clearly material development.
