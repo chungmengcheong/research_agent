@@ -1,306 +1,265 @@
 # Synthesized Implications
-_Last updated: 2026-03-19_
+_Last updated: 2026-03-20_
 
 ## How to read this document
 
-This document tracks the slower-moving implications behind the daily notes. It is not a recap of daily news.
+This document tracks the slower-moving views behind the daily notes. It is not a recap of daily news.
 
-A theme should usually be promoted into an active implication only when:
+The point is to maintain a small set of sharp, testable house views that can drive investing, business strategy, and product strategy.
+
+A view should usually be promoted into an active hypothesis only when:
 - it shows up repeatedly across multiple daily entries, or
 - a development is large enough to change the baseline view on its own
 
-Mixed evidence should stay mixed. Real counter-evidence should be stated directly.
+The system should be conservative about promotion, but not conservative about noticing.
 
 ---
 
-## Active implications
+## Active hypotheses
 
-### 1. AI is taking a material, and increasing, portion of repeatable knowledge work, while humans still own trust, exceptions, and accountability
+### 1. Horizontal LLMs will kill many power-user productivity tools. Workflow software survives only if it becomes the context and harness layer for hybrid AI-human work.
 
 **Status:** Strengthening  
 **Confidence:** High  
 **Time horizon:** Near-term to medium-term
 
-**What is happening**
+**Why we believe this**
 
-Software engineering is still the clearest example, but the broader pattern matters more. In professional services, AI is increasingly handling work that is digital, reviewable, and repeatable: research, drafting, triage, implementation tasks, documentation, and routine customer interaction.
+Routine cognition is getting commoditized by horizontal LLMs.
 
-The work that still looks more defensible for humans is different. It sits in client trust, escalation handling, fiduciary responsibility, and judgment under ambiguity.
+That is bad for standalone productivity tools built for power users if their main value was helping a skilled human think, draft, or manipulate information faster. A strong general model can often do enough of that out of the box.
 
-**Why it matters**
+Workflow software has a better chance, but only if it evolves. It needs to become the place where the work context lives, where approvals happen, where the AI is harnessed, and where outputs get produced inside a real operating loop.
 
-This is one of the clearest places where AI can matter economically in the near term. Labor costs are high, the output is often digital, and buyers already think in terms of throughput, turnaround time, and cost reduction.
+The core point is not just that AI helps software. It is that software is entering an existential sorting process:
+- thin productivity layers get squeezed
+- workflow systems survive only if they become the context and control layer for hybrid AI-human work
 
-The real question is not whether AI can do parts of the work. It is whether it can take enough of the labor out without creating similar costs elsewhere in supervision, liability, and trust. AI will be imemented until its Marginal acost equals its Marginal Return. 
+**Current evidence**
+- Anthropic added charts, diagrams, and interactive visualizations to Claude. That reinforces the shift from answer engines to usable work products inside general-purpose models.
+- Google Maps added Gemini features and Microsoft launched Copilot Health. Both moves push AI into products with trusted context and repeated user intent.
+- OpenAI plans to merge ChatGPT, Codex, and its browser into a desktop superapp and acquire Astral. That suggests the fight is moving toward owning the full work environment, not just the model.
+- Adobe beat on revenue and announced a CEO transition, but the stock still fell. That suggests investors already care about whether mature software companies can turn AI into real workflow power, not just whether they can tell an AI story.
 
-**Evidence base**
-- 94% of legal AI users report measurable productivity gains, with 25% saving more than six hours a week.
-- PwC said partners who resist AI have no place at the firm and that it plans to turn some services into AI-powered tools. That is a major incumbent saying the delivery model is changing. [Material]
+**Evidence against**
+- General-purpose assistants continue to grow, but that does not yet prove that workflow owners will capture the durable value.
+- Some specialized tools may keep stronger retention than expected if they offer enough domain depth, trust, or embedded workflow.
+- The current daily notes still show more logic than hard company-level proof on which specific software names are actually getting squeezed.
 
-**Contradictory / disconfirming evidence**
-- Reuters reported U.S. legal employment reached a record 1,237,600 jobs in February 2026, up 8.2% from five years earlier.
-- BLS still projects lawyer employment growth of 4% from 2024 to 2034, with about 31,500 openings per year.
+**Implications**
 
-**Potential implications**
-- **Markets / public equities:** The clearest labor-pool exposure may be in legal tech, CX / BPO, and IT services, not in vague “white-collar AI” baskets.
-- **Industry structure:** Domain-specific workflow owners may benefit more than general-purpose copilots.
-- **Startup formation:** Good openings may include contract review, compliance research, implementation workflows, claims intake, L1/L2 support, and other bounded sub-work.
-- **Product strategy:** Build for reviewability, auditability, and measurable labor ROI instead of marketing “full autonomy.”
+- **Investments**
+  - **Longs:** workflow systems, systems of record, and software that can become the context and harness layer for AI-human work
+  - **Shorts:** thin productivity software for power users, AI wrappers that do not own context, and software companies caught between horizontal LLMs and stronger workflow owners
 
-**Contrarian view**
+- **Business / product strategy**
+  - If you own a workflow, move fast to become the place where context, approvals, routing, and outputs live.
+  - If you are a thin productivity layer, assume you are in an existential fight, not just a feature race.
+  - Product strategy should focus less on adding chat and more on turning AI into usable outputs inside a real work loop.
 
-Software engineering may be unusually exposed because code is fully machine-native. Other professional categories may stay more human than expected because the economics still depend heavily on trust, exception handling, and accountability.
-
-**What would change the view**
-- Repeated proof of production-grade substitution in legal, consulting, or support workflows with visible labor savings
-- Or evidence that supervision, liability, and trust costs keep these categories permanently copilot-shaped
+- **Startup ideas**
+  - Build products that become the harness layer for hybrid AI-human work in vertical workflows.
+  - Look for categories where horizontal LLMs weaken incumbents but no workflow owner has clearly locked in the context layer yet.
 
 ---
 
-### 2. In the near term, AI money is flowing first to implementation and service delivery. Over time, value may move toward outcome-based pricing.
+### 2. AI transitions over-reward implementation first for about five years, then shift value to firms that own business outcomes. There is also a buy-and-transform opportunity in labor-heavy service businesses.
+
+**Status:** Strengthening  
+**Confidence:** Medium-High  
+**Time horizon:** Medium-term
+
+**Why we believe this**
+
+This looks like a familiar enabling-technology pattern.
+
+In the early years, enterprises need help deploying the technology. That creates a revenue window for consultants, integrators, managed-service providers, and other implementation-heavy vendors. The current guess is that this accelerated implementation phase could last around five years, not forever.
+
+But implementation is not the end state. Over time, more value should move to firms that own the business outcome rather than just install the tooling.
+
+That creates two linked opportunities:
+1. implementation-heavy firms can see a strong but time-bounded revenue window
+2. labor-heavy service businesses can be bought and turned into AI-powered outcome businesses
+
+In fragmented categories like tax prep, bookkeeping, compliance support, paralegal support, insurance admin, and similar back-office work, there may be a PE-style roll-up opportunity: buy human-powered firms, consolidate them, and then use AI to change the operating model.
+
+**Current evidence**
+- PwC said partners who resist AI have no place at the firm and that it plans to turn services into AI-powered tools while moving away from pure hourly billing.
+- Fal’s reported growth suggests customers are paying for the operating stack around model deployment, not just for models.
+- The daily notes repeatedly point to implementation and delivered work as one of the clearest monetization layers right now.
+- Multiple March entries reinforce that the bottleneck is making AI work inside real workflows, not just accessing a powerful model.
+
+**Evidence against**
+- The current daily notes still do not show strong proof that implementation-heavy firms can hold onto the margin pool after the deployment wave.
+- There is not yet enough direct evidence in the notes that PE-style buy-and-transform roll-ups are working in practice rather than just looking attractive in theory.
+- Classic software vendors could still absorb more of the value directly than this hypothesis assumes.
+
+**Implications**
+
+- **Investments**
+  - **Longs:** implementation-heavy vendors, managed-service providers, model-operations layers, and firms that can move from deployment into recurring workflow ownership
+  - **Shorts:** service firms that keep selling labor by the hour while competitors automate the same work; pure implementation firms that never make the jump to outcome ownership
+
+- **Business / product strategy**
+  - Treat implementation as a bridge, not the destination.
+  - The more valuable move is to go from “we deploy AI for you” to “we run this business outcome for you.”
+  - Pricing should move toward throughput, resolution, and delivered work when the product can support it.
+  - The tension here is execution: many firms will see the opportunity but fail to change the operating model fast enough.
+
+- **Startup ideas**
+  - Build implementation-heavy software businesses that can become recurring operators over time.
+  - Look for fragmented human-powered service categories where consolidation plus AI can change unit economics.
+  - Explore roll-up strategies in back-office or compliance-heavy categories where work is repetitive, auditable, and expensive.
+
+---
+
+### 3. Demand for intelligence is far above supply. Frontier compute is strategic infrastructure, so allocation will be shaped by price, politics, and security risk.
 
 **Status:** Strengthening  
 **Confidence:** High  
 **Time horizon:** Near-term to medium-term
 
-**What is happening**
+**Why we believe this**
 
-Most enterprises do not mainly need another model. They need workflow redesign, integration, controls, change management, and proof of ROI.
+There is more economically useful demand for intelligence than available frontier compute can satisfy.
 
-That is why implementation-heavy firms such as consultancies, systems integrators, managed-service providers, and AI-native vendors with forward-deployed teams have one of the clearest short-term monetization paths. The deeper shift is that pricing is starting to move away from seats and hours toward delivered work, resolutions, and outcomes.
+That supply is throttled by power, cooling, interconnects, foundry access, advanced packaging, upstream industrial inputs, export controls, and geopolitics. This means compute is not just scarce. It is strategically scarce.
 
-**Why it matters**
+As a result, the best compute will not be allocated evenly. It will go first to:
+- those who can pay the most
+- those with political or regulatory access
+- those whose workloads produce the highest marginal return
 
-This reframes the “software versus services” debate. In the short term, services can win because implementation is the bottleneck. In the medium term, the winner may be whoever turns implementation into durable workflow ownership and then prices against results.
+That implies a strong allocation pattern:
+- expensive knowledge work gets premium intelligence first
+- lower-value use cases get pushed toward cheaper, slower, or local models
+- political economy matters because compute is increasingly strategic infrastructure
 
-The key distinction is not software versus services in the abstract. It is who owns the budget line tied to the work getting done.
+This view also has a darker implication. Strategic infrastructure becomes a target. If frontier compute matters economically and politically, expect lobbying, regulatory capture, cyberattack, sabotage, and potentially physical attacks or disruption attempts aimed at slowing or degrading compute availability.
 
-**Evidence base**
-- Accenture reported $2.7 billion of advanced-AI revenue, $5.9 billion of advanced-AI bookings, and more than 6,000 advanced-AI projects in fiscal 2025.
-- Zendesk has moved AI-agent pricing toward automated resolutions, and Sierra prices on resolved issues rather than seats.
-- PwC said it plans to turn some services into AI-powered tools and move away from pure hourly billing. [Material]
+**Current evidence**
+- Reports said drone attacks shut a major Qatari helium production hub. That reinforces that compute bottlenecks are broader than GPUs and include non-obvious upstream inputs.
+- Multiple reports highlighted that AI demand is crowding TSMC’s advanced-node capacity and widening its lead. That reinforces foundry concentration.
+- Reuters reported Meta may cut around 20% of staff while AI infrastructure costs rise. That suggests scarce compute has real economic tradeoffs, even at large tech companies.
+- AWS’s willingness to mix first-party and third-party silicon also points to a world where compute has to be actively allocated and routed, not simply bought in a frictionless market.
 
-**Contradictory / disconfirming evidence**
-- Accenture’s FY2025 GAAP operating margin was 14.7%, roughly flat year over year, so AI demand is not yet clearly improving consulting economics.
-- ServiceNow generated $3.466 billion of subscription revenue in Q4 2025, up 21% year over year, which shows classic recurring software is still very strong.
-- OpenAI said more than 9 million paying business users rely on ChatGPT for work, showing model-native platforms can also scale directly.
+**Evidence against**
+- The current daily notes do not yet show strong direct evidence that compute allocation is being shaped by politics as much as by economics, even if the logic is compelling.
+- There is not yet repeated direct evidence in the notes of sabotage or physical attacks specifically aimed at degrading AI compute infrastructure.
+- Efficiency gains and heterogeneous inference supply could ease some pressure faster than this hypothesis assumes.
 
-**Potential implications**
-- **Markets / public equities:** Near-term AI monetization may show up faster in consulting and managed services than in many application vendors.
-- **Industry structure:** Consultancies, SIs, BPOs, and workflow-native AI vendors are increasingly competing for the same “make AI real” budget.
-- **Startup formation:** An implementation-heavy software company may be a more realistic near-term model than pristine horizontal SaaS.
-- **Product strategy:** Sell time-to-value and measurable workflow improvement first, then move pricing toward completed work where possible.
+**Implications**
 
-**Contrarian view**
+- **Investments**
+  - **Longs:** semis, networking, cooling, power equipment, foundry-adjacent suppliers, infrastructure resilience layers, and firms with priority access to scarce compute
+  - **Shorts:** application vendors assuming cheap abundant compute; businesses dependent on constrained infrastructure without resilience or supply security
 
-Consulting may benefit from the spending wave without owning the long-term economics. The durable margin pool could still compress back into software, infrastructure, or platforms.
+- **Business / product strategy**
+  - Design around variable compute cost, workload routing, and graceful degradation.
+  - Premium intelligence should be reserved for workflows with high marginal economic value.
+  - Political economy matters more than most software teams assume. Supply access, regulation, and resilience planning should be part of product and company strategy.
+  - The tension here is timing: scarcity is real, but some bottlenecks may ease unevenly.
 
-**What would change the view**
-- Evidence that implementation-heavy vendors expand margins after deployment at scale
-- Or evidence that enterprise AI becomes plug-and-play faster than implementation capacity can monetize it
+- **Startup ideas**
+  - Build supply-risk intelligence, compute allocation, routing, and resilience tooling.
+  - Look for products that help buyers decide which workloads deserve premium compute and which should shift to cheaper models.
+  - Explore tools that help enterprises manage infrastructure dependence under political, regulatory, or physical-risk scenarios.
 
 ---
 
-### 3. The real bottleneck in AI is in physical infrastructure: power, cooling, interconnects, and where inference runs.
+### 4. AI will increase cybercrime and make security more central because offense gets cheaper and agents expand the attack surface.
 
 **Status:** Strengthening  
-**Confidence:** High  
+**Confidence:** Medium-High  
 **Time horizon:** Near-term to medium-term
 
-**What is happening**
+**Why we believe this**
 
-The AI stack is becoming more constrained by physical infrastructure than by algorithmic ambition alone. Demand is running into limits in power access, data-center conversion, cooling, networking, and financing.
+AI lowers the cost of offense.
 
-At the same time, the workload mix is shifting from training-heavy bursts toward more persistent inference demand. That changes where compute needs to sit and how companies think about latency, sovereignty, and cost.
+It should improve the scale, speed, and quality of phishing, impersonation, fraud, reconnaissance, malware adaptation, and social engineering. At the same time, agentic systems expand the attack surface because they carry identity, permissions, memory, tools, and workflow access.
 
-**Why it matters**
+So this is not just a story about “AI security” as a category. It is a broader claim:
+- cybercrime should rise
+- attack surfaces should get wider
+- more value should move toward identity, permissioning, monitoring, auditability, and runtime controls
 
-This pulls value down the stack. If power and AI-capable capacity stay scarce, application-layer economics can look weaker than expected, while semis, networking, cooling, power equipment, utilities, and infrastructure financing matter more.
+This matters more as AI stops being just a chat layer and starts acting inside real systems.
 
-It also means inference placement is now a product and business decision, not just a technical one.
+**Current evidence**
+- The recent daily notes have increasingly focused on products that sit inside real workflows and can take action, not just answer questions. That supports the logic that permissioned action surfaces are becoming more important.
+- OpenAI’s move toward a more integrated work environment reinforces the idea that AI systems will have more context, more tools, and more opportunities to act inside workflows.
+- The broader pattern in the notes is that AI is moving closer to execution, which increases the consequences of poor identity, monitoring, and tool control.
 
-**Evidence base**
-- Morgan Stanley estimates U.S. data-center demand could reach 74 GW by 2028, with roughly a 49 GW power-access shortfall.
-- JPMorgan says only about 20 GW of the world’s roughly 125 GW of data-center capacity is currently AI-capable and that at least 100 GW of new generation will be needed to support projected demand.
-- March daily notes also added a reminder that upstream inputs such as helium can become real chokepoints, not just GPUs and leading-edge chips. [Material]
+**Evidence against**
+- The recent March daily flow has been more focused on workflow control and infrastructure than on direct security incidents, so the security thesis is still more logic-backed than daily-note-backed right now.
+- The notes do not yet show repeated concrete evidence of rising AI-enabled cybercrime in the current period.
+- Existing security vendors may absorb much of this without creating as much new market structure as the hypothesis suggests.
 
-**Contradictory / disconfirming evidence**
-- JLL’s 2026 Global Data Center Outlook says global data-center capacity could nearly double to 200 GW by 2030, so supply is scaling even if it remains constrained.
-- Goldman’s framework also includes server productivity and compute efficiency as meaningful offsets.
-- Some enterprises report cloud repatriation and more localized deployment, which suggests the hyperscale bottleneck may be partly bypassed for some workloads.
+**Implications**
 
-**Potential implications**
-- **Markets / public equities:** Continued support for semis, networking, cooling, power equipment, and selected utilities and developers.
-- **Industry structure:** Frontier-model providers without distribution or platform control risk becoming expensive component suppliers on top of scarce infrastructure.
-- **Startup formation:** Better openings may sit in scheduling, efficiency, cooling, conversion, and power orchestration than in thin AI wrappers.
-- **Product strategy:** Design for inference placement, variable cost, and deployment flexibility rather than assuming cheap, abundant compute.
+- **Investments**
+  - **Longs:** identity, privileged access, observability, runtime-control, and policy-enforcement vendors
+  - **Shorts:** companies deploying agents without strong control layers; businesses exposed to high trust risk but weak permissioning and auditability
 
-**Contrarian view**
+- **Business / product strategy**
+  - Treat identity, permissions, monitoring, and replayability as core product primitives, not enterprise add-ons.
+  - Assume AI-mediated systems will create both more attack surface and more compliance pressure.
+  - The tension here is that many teams will ship agentic products before they build the control layer those products need.
 
-This could become an overbuild story if supply ramps just as application monetization disappoints.
-
-**What would change the view**
-- Sustained easing in power scarcity without matching pricing power in infrastructure
-- Or evidence that compute efficiency improves faster than useful AI demand grows
-
----
-
-### 4. Better models alone are not enough. The stronger moat is increasingly who owns the workflow, the context, and the ability to act.
-
-**Status:** Strengthening  
-**Confidence:** High  
-**Time horizon:** Near-term to medium-term
-
-**What is happening**
-
-As model performance spreads, the winning application pattern is becoming clearer. The more defensible products are not just those that call the best model. They are the ones that sit where work starts, where proprietary context builds up, and where the system has permission to take action.
-
-In practice, workflow ownership is becoming more important than generic assistant quality.
-
-**Why it matters**
-
-This favors incumbents and startups that control the operating surface, not just the intelligence layer.
-
-It also means many AI applications are less defensible than they first appeared. Context, integration, permissions, and policy control may matter more than prompt quality.
-
-**Evidence base**
-- a16z’s “messy inbox” thesis argues that the best AI wedges start inside ugly, high-friction workflows rather than generic chat.
-- a16z’s context-layer work argues enterprise agents fail without a semantic layer that unifies business definitions across systems.
-- The strongest monetization examples in the current notes sit inside repeated operational loops such as customer support, legal workflows, and implementation-heavy systems.
-- Recent daily notes also reinforce this through Google Maps, Microsoft Copilot Health, and OpenAI’s effort to bundle chat, coding, browsing, and developer tooling into one work environment. [Material]
-
-**Contradictory / disconfirming evidence**
-- OpenAI said ChatGPT for Work surpassed 7 million seats in late 2025 and that more than 9 million paying business users rely on ChatGPT for work.
-- Broad AI adoption through general-purpose assistants continues to rise, which suggests convenience and distribution still matter.
-- Some incumbents are adding AI successfully without fully rebuilding around workflow ownership, so the moat may not always require a full operating-model change.
-
-**Potential implications**
-- **Markets / public equities:** Systems of record, workflow platforms, and deeply embedded enterprise vendors may defend better than thin AI overlays.
-- **Industry structure:** The battle is moving toward context, permissions, routing, memory, approval, and task orchestration.
-- **Startup formation:** The best openings may be in workflow-native verticals and context-rich operating layers, not generic assistant shells.
-- **Product strategy:** Build where work begins and where approval happens. Context should be treated as a core product asset, not back-end plumbing.
-
-**Contrarian view**
-
-Users may still consolidate around a small number of horizontal assistants, which would make many workflow-native copilots shallower than expected.
-
-**What would change the view**
-- Clear retention and monetization outperformance by context-rich, workflow-native products
-- Or evidence that platform-native assistants become good enough for most enterprise workflows
+- **Startup ideas**
+  - Build products for agent identity, tool-use controls, runtime monitoring, audit trails, and policy enforcement.
+  - Look for security products that govern actions, not just model inputs and outputs.
 
 ---
 
-### 5. AI is creating a new security control plane around identity, permissions, memory, and autonomous execution.
+## Candidate hypotheses not yet promoted
 
-**Status:** Strengthening  
-**Confidence:** High  
-**Time horizon:** Near-term to medium-term
+### A. Clearer crypto rules may create real product and market openings, but it is still too early to call the winners
 
-**What is happening**
+**Why it might matter**
 
-As AI moves from chat to action, the security problem changes. The risk is no longer just data leakage or model misuse. It is that agents are getting read/write access across systems, low-code users can deploy them faster than security teams can govern them, and attackers are starting to target the tooling and identities that agents rely on.
+The SEC/CFTC guidance appears important because it reduces classification uncertainty and could help regulated access layers, compliance tooling, custody, issuance, and trusted operators.
 
-**Why it matters**
+**Current evidence**
+- The daily notes treat the SEC/CFTC guidance as a meaningful reduction in classification uncertainty and suggest it could shift advantage toward regulated access layers and trusted operators.
 
-This is more than another compliance layer. Traditional software mostly exposed data. Agentic systems can expose credentials, workflows, permissions, and autonomous execution.
+**What is still missing**
+- More evidence that the clearer rules actually translate into listings, issuance, custody activity, throughput, or durable margin expansion.
 
-That shifts the core questions toward authorization, access, monitoring, and replayability.
+**Why it is not promoted yet**
+- The rule change looks important, but the next step is adoption. The market-structure implications are still too early to call.
 
-**Evidence base**
-- Microsoft’s February 2026 Cyber Pulse report says more than 80% of the Fortune 500 is deploying active agents built with low-code or no-code tools.
-- CrowdStrike’s 2025 Threat Hunting Report says adversaries are targeting tools used to build AI agents, including through credential theft and malware.
-- 64% of organizations now have formal processes to assess AI tool security, up from 37% in 2025.
+### B. There may be a growing short book in software names that look “AI-exposed” but are actually caught between horizontal LLMs and workflow owners
 
-**Contradictory / disconfirming evidence**
-- Fewer than half of organizations currently have generative-AI-specific security controls in place, so the category is still early.
-- Much of the real attack surface overlaps with existing IAM, PAM, cloud security, and application-security categories, which means incumbents may capture a lot of the budget.
-- Standardization efforts could shrink the standalone category if they are absorbed into large platforms.
+**Why it might matter**
 
-**Potential implications**
-- **Markets / public equities:** Identity, privileged access, cloud security, and observability vendors may benefit before pure-play AI security winners are clear.
-- **Industry structure:** Security control is moving closer to the runtime: permissions, audit trails, memory, tools, and machine identity.
-- **Startup formation:** Good openings may exist in agent identity, secure tool use, monitoring, policy enforcement, and forensic replay.
-- **Product strategy:** Treat permissions and observability as core product primitives, not enterprise add-ons.
+If hypothesis #1 is right, many software companies could be squeezed from both sides:
+- horizontal LLMs commoditize their useful features
+- stronger workflow owners capture the context and control layer
 
-**Contrarian view**
+**Current evidence**
+- Adobe’s stock reaction despite a revenue beat supports the idea that investors are already distinguishing between generic AI positioning and true workflow power.
+- The daily notes increasingly support the idea that convergence is happening at the workflow level, not just at the feature level.
 
-The category may prove less novel than it first appears if incumbent identity and cloud-security vendors absorb most of the spend.
+**What is still missing**
+- More repeated company-level evidence identifying which names are actually losing pricing power, retention, or strategic relevance.
 
-**What would change the view**
-- Clear evidence that AI-specific attack patterns create a durable new budget line
-- Or evidence that incumbent platforms solve the problem well enough without major category expansion
+**Why it is not promoted yet**
+- The logic is strong, but the candidate list is still too broad. It needs more repeated company-level evidence before becoming a stronger active view.
 
----
+### C. A PE-style roll-up of fragmented human service firms may become one of the best AI operating plays
 
-### 6. The model layer is fragmenting. Open-weight, cheaper, and on-device models will win a large share of cost-sensitive and embedded use cases.
+**Why it might matter**
 
-**Status:** Strengthening  
-**Confidence:** Medium  
-**Time horizon:** Near-term to medium-term
+If implementation wins first and outcome ownership wins later, then buying fragmented labor-heavy service firms and turning them into AI-powered operators could be a strong strategy.
 
-**What is happening**
+**Current evidence**
+- The daily notes support the direction of travel: services firms are trying to turn labor into AI-enabled workflows, and pricing is beginning to move away from pure hourly billing.
+- The logic is strongest in repetitive, auditable, expensive service categories.
 
-The model market is no longer one-dimensional. Frontier closed models still matter for the highest-end performance, but open-weight, cheaper, and increasingly capable on-device models are becoming good enough for many workloads.
+**What is still missing**
+- More direct evidence that consolidation plus automation is already producing durable advantage in real categories.
 
-That points to a segmented market: premium cloud reasoning at the top, and cheaper, portable, or local inference for many enterprise, regional, and consumer use cases.
-
-**Why it matters**
-
-This weakens the idea that frontier labs will automatically capture most of the long-term profit pool.
-
-If more demand clears at “good enough, cheaper, and deployable where the data is,” more value may sit with distributors, workflow owners, and infrastructure layers than with any one model provider.
-
-**Evidence base**
-- a16z’s State of AI work shows open-source and open-weight reasoning models gaining share, with more than half of observed usage coming from outside the U.S.
-- Distilled 8B models are now beating much larger 70B-class base models on selected math and coding benchmarks.
-- Hardware and quantization improvements are making on-device reasoning increasingly viable.
-
-**Contradictory / disconfirming evidence**
-- OpenAI said more than 9 million paying business users rely on ChatGPT for work, showing premium closed platforms can still scale.
-- Anthropic said Claude Code’s run-rate revenue exceeded $2.5 billion, showing that premium closed systems can monetize strongly in high-value workflows.
-- Smaller local models still struggle with broad world knowledge and generalization outside their distillation sets.
-
-**Potential implications**
-- **Markets / public equities:** More pressure on the long-term profit pool of pure frontier-model providers, and more upside for distributors, application owners, and infrastructure that serves both open and closed ecosystems.
-- **Industry structure:** Expect more regional fragmentation, hybrid model stacks, and routing across providers and deployment modes.
-- **Startup formation:** Good openings include orchestration, fine-tuning, enterprise deployment, localization, and model management.
-- **Product strategy:** Build for model portability, cost awareness, and hybrid deployment rather than assuming one premium provider will stay dominant.
-
-**Contrarian view**
-
-The market may still consolidate around a small number of frontier platforms if their quality advantage widens faster than cheaper alternatives improve.
-
-**What would change the view**
-- Continued share gains for open, low-cost, and local models in production
-- Or proof that premium closed models maintain a widening enough quality gap to justify their price
-
----
-
-## Watchlist implications not yet promoted
-
-### A. Physical AI may become the next major platform buildout, but commercialization still looks slower and more constrained than software bulls assume.
-
-**Why it is on the watchlist**
-
-The signals are getting more real, including world models, robotics investment, industrial pilots, and platform buildout. But deployment timelines, safety requirements, and real-world reliability still look too uncertain to promote this above the more immediate software, infrastructure, and security implications.
-
-### B. Biocomputing and other post-silicon architectures may eventually matter, but they are still too early and operationally fragile to anchor near-term strategy.
-
-**Why it is on the watchlist**
-
-The energy-efficiency upside is intellectually important, but technical reliability, manufacturability, and ethics remain too unresolved for this to be a core business or investment implication today.
-
----
-
-## Promotion rules
-
-A watchlist implication should usually be promoted only when:
-- it appears across multiple daily entries, or
-- a development is clearly large enough to change the baseline view
-
-## Retirement / downgrade rules
-
-An active implication should be weakened, moved back to the watchlist, or retired when:
-- contradictory evidence builds up,
-- the original thesis stops receiving support, or
-- the expected strategic consequences fail to show up
+**Why it is not promoted yet**
+- The opportunity looks real, but the evidence is still more conceptual than proven in the current daily flow.

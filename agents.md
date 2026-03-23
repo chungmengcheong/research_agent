@@ -2,14 +2,14 @@
 
 ## Purpose
 
-This repository tracks business- and capability-focused intelligence from Techmeme.
+This repository tracks business-, capability-, and market-focused intelligence from Techmeme.
 
-The goal is not to summarize news for its own sake. The goal is to identify implications that matter for:
-- markets and macro-sensitive sectors
-- industry structure and competition
-- investment watchlists
-- startup opportunities
+The goal is not to summarize news for its own sake. The goal is to build and maintain a small set of sharp, testable views that matter for:
+- investing
+- business strategy
 - product strategy
+- startup formation
+- industry structure
 
 ## Core files
 
@@ -23,14 +23,18 @@ This repository has two layers:
 1. **Daily notes**
    - additive
    - closer to the news flow
-   - capture changes that matter for capability / technology, strategy / markets, or downstream ideas
+   - capture developments that matter for capability / technology, strategy / markets, or downstream ideas
+   - act as evidence for, against, or outside the current synthesis
 
 2. **Synthesized implications**
    - slower-moving
-   - capture only durable, higher-signal implications
-   - should change only when repeated evidence or a clearly material development justifies it
+   - maintain a small set of active house views
+   - track candidate hypotheses not yet promoted
+   - should change only when repeated evidence or a clearly important development justifies it
 
 Daily notes should inform the synthesis. The synthesis should inform how daily items are classified.
+
+The system should be conservative about promotion, but not conservative about noticing.
 
 If `notes/synthesized_implications.md` does not yet exist or is materially thin:
 - compare primarily against recent daily notes
@@ -41,13 +45,14 @@ If `notes/synthesized_implications.md` does not yet exist or is materially thin:
 
 - Prioritize signal over completeness.
 - Prefer fewer, sharper bullets over broad coverage.
-- Omit items that do not change the strategic picture.
-- Do not infer a durable industry shift from a single company datapoint unless it is clearly a step-change event.
+- Omit items that do not change the picture in a meaningful way.
+- Do not infer a durable shift from a single company datapoint unless it is clearly a step-change event.
 - When uncertain, downgrade to `Watch`.
 - Mixed evidence should remain mixed.
 - Do not force a coherent narrative when the evidence is contradictory.
 - Do not force a startup, product, or market implication unless it is reasonably supported.
 - Important but not yet interpretable developments are allowed. Capture them as `Watch` bullets instead of forcing a stronger read than the evidence supports.
+- Do not force all meaningful developments into the existing hypothesis set. Preserve repeated or surprising signals even when they do not fit the current map.
 
 ## Style
 
@@ -62,13 +67,11 @@ Requirements:
 - Do not use hype.
 - Do not use consultant, VC, or strategy jargon unless it is clearly the simplest term.
 - If a sentence sounds impressive but not natural, rewrite it more simply.
+- Prefer sharp claims over mushy summaries, but do not overstate the evidence.
 
 Avoid phrases like:
-- "value accrues"
 - "workflow-native"
-- "control point"
 - "moat formation"
-- "compression risk"
 - "narrative support"
 - "machine-readable execution"
 - "relationship-bearing judgment"
@@ -86,6 +89,7 @@ Before writing each section, ask:
 - Would a smart reader say this out loud in conversation?
 - Can I replace an abstract noun with a concrete verb?
 - Can I cut this sentence by 30% without losing meaning?
+- Is this observation sharp enough to matter for capital allocation, company-building, or product design?
 
 ## Daily notes
 
@@ -97,15 +101,15 @@ For each meaningful bullet, use one short inline signal label at the end:
 
 Determine labels by comparing today’s developments against:
 - recent daily notes
-- active implications
-- watchlist implications
-- recorded disconfirming evidence in the synthesis
+- active hypotheses
+- candidate hypotheses
+- recorded evidence against in the synthesis
 
 ### Label guidance
 
 - Use `[New]` when a development introduces a genuinely new implication and is strong enough that the synthesis should likely be updated now.
-- Use `[Reinforcing]` when a development supports an existing implication without changing the basic shape of the view.
-- Use `[Challenging]` when a development pushes against an existing implication or prior read, whether mildly or directly.
+- Use `[Reinforcing]` when a development supports an existing active or candidate hypothesis without changing the basic shape of the view.
+- Use `[Challenging]` when a development pushes against an existing active or candidate hypothesis, whether mildly or directly.
 - Use `[Watch]` when a development looks important but is still too early, ambiguous, or underdetermined to interpret confidently.
 
 `[Watch]` is the default home for:
@@ -113,6 +117,7 @@ Determine labels by comparing today’s developments against:
 - one-off but notable signals
 - developments that may matter if they repeat
 - important facts whose readthrough is not yet clear
+- signals that may point to a missing hypothesis
 
 `[New]` should be used sparingly.
 It does not mean merely novel.
@@ -163,6 +168,7 @@ Only include items that lead to at least one of:
 - a strategic / market implication
 - a meaningful implied idea
 - a `Watch` item that looks important but is not yet interpretable
+- a signal that may point to a missing hypothesis
 
 If a news item does not change the picture in one of those ways, omit it.
 
@@ -206,6 +212,7 @@ Strategic / market implications:
 - distribution
 - cost structure
 - industry structure
+- political economy
 - cross-company or sector-level readthroughs
 
 Do not split company-level and industry-level implications into separate sections.
@@ -222,7 +229,7 @@ When a development seems important but the readthrough is still unclear:
 The goal is not to generate the first obvious adjacent idea. The goal is to generate a small number of ideas that are non-obvious, plausible, and valuable.
 
 When producing startup or product ideas:
-- Prefer real bottlenecks, painful new constraints, enabling layers, pricing shifts, and distribution changes.
+- Prefer real bottlenecks, painful new constraints, enabling layers, pricing shifts, distribution changes, and workflow breakdowns.
 - Avoid generic wrappers, generic copilots, and "AI for X" ideas unless there is a specific reason they are newly attractive.
 - Ask:
   - What valuable problem becomes newly solvable?
@@ -246,11 +253,41 @@ For each idea, briefly state:
 - why it is not obvious
 - what it depends on
 
-When in doubt, prefer ideas built around bottlenecks, workflow failure modes, or changes in buyer behavior rather than novelty for its own sake.
+Investment watchlist ideas may include:
+- likely longs
+- likely shorts
+- likely roll-up or buy-and-transform opportunities
+
+When in doubt, prefer ideas built around bottlenecks, workflow failure modes, changes in buyer behavior, or mispriced transition dynamics rather than novelty for its own sake.
+
+## House-view synthesis
+
+The synthesis document is not just a maintenance layer for existing views.
+It should also help discover important hypotheses that the current synthesis may be missing.
+
+The synthesis should maintain:
+- a small set of active house views
+- a small set of candidate hypotheses not yet promoted
+
+Daily notes should be treated as evidence that:
+- reinforces an active hypothesis
+- challenges an active hypothesis
+- creates a new active hypothesis
+- or points to a potentially important missing hypothesis
+
+A good synthesis review should ask:
+- What active views were reinforced?
+- What active views were challenged?
+- What important hypothesis may be missing from the current synthesis?
+- Are any current hypotheses too broad, too narrow, overlapping, or stale?
+- Are we missing a second-order effect that matters more than the obvious first-order story?
+
+Do not force all meaningful developments into the existing hypothesis set.
+Preserve repeated or important signals even when they do not fit the current map.
 
 ## Synthesis
 
-Do not mirror the daily notes. Update the synthesis only when there is durable evidence, repeated support, or a clearly material development.
+Do not mirror the daily notes. Update the synthesis only when there is durable evidence, repeated support, or a clearly important development.
 
 The synthesis should follow the same tone rules as the daily notes:
 - plain English
@@ -259,41 +296,48 @@ The synthesis should follow the same tone rules as the daily notes:
 - specific
 - no jargon for its own sake
 
-But unlike the daily notes, the synthesis should make the framework more explicit.
+But unlike the daily notes, the synthesis should be more explicit, more hypothesis-driven, and more useful for edge.
 
-For each active implication, maintain:
-- title
+The synthesis should maintain a small number of sharp, testable house views.
+
+Each active hypothesis should include:
+- hypothesis
 - status
 - confidence
 - time horizon
-- what is happening
-- why it matters
-- evidence base
-- contradictory / disconfirming evidence
-- potential implications
-- contrarian view
-- what would change the view
+- why we believe this
+- current evidence
+- evidence against
+- implications
+  - investments
+    - longs
+    - shorts
+  - business / product strategy
+  - startup ideas
+
+Each candidate hypothesis should include:
+- hypothesis
+- why it might matter
+- current evidence
+- what is still missing
+- why it is not promoted yet
 
 ### Synthesis writing guidance
 
-- Titles should be understandable on first read.
-- Prefer direct titles over thesis-style or conference-slide titles.
-- Prefer "X is happening" over "X is bifurcating" or "value is moving."
-- Keep each section clear and concrete.
-- Do not use the synthesis to sound smarter than the evidence.
-- Keep the "so what" explicit, but write it in normal language.
-- Use examples to make points concrete, not to overstate certainty.
+- Keep the synthesis evidence-centric.
+- `Current evidence` should be drawn from recent daily notes and should contain concrete observed support for the hypothesis.
+- `Evidence against` should also be drawn from recent daily notes and should contain concrete observed signals that cut against the hypothesis.
+- Do not fill either section with generic theory, hypothetical signposts, or abstract “things to watch.”
+- Use `Business / product strategy` to discuss operating tensions, adoption friction, or strategic tradeoffs that matter if the hypothesis is true.
+- Keep each view sharp enough to drive investment, strategy, or operating edge.
+- The point is not to be neutral. The point is to be clear, grounded, and testable.
 
 ### Evidence discipline
 
-- `Contradictory / disconfirming evidence` must contain actual observed facts or outcomes that cut against the thesis.
-- Do not place hypothetical objections there.
-- If no disconfirming evidence exists yet, say so explicitly.
-- `Contrarian view` should contain the strongest reasonable opposing interpretation.
-
-### Tangible examples
-
-In `Potential implications`, include illustrative company, product, or category examples when they make the point more concrete. Use examples to clarify the implication, not to overstate certainty.
+- Current evidence should include actual observed facts, patterns, or developments that support the view.
+- Evidence against should include actual observed facts or patterns from daily notes that cut against the view.
+- Do not create fake certainty out of sparse evidence.
+- If evidence is mixed, say so plainly.
 
 ## Lookback windows for synthesis
 
@@ -301,20 +345,20 @@ Use different evidence windows for different synthesis tasks.
 
 ### Default windows
 
-- **New implication promotion:** prioritize the last **2–4 weeks** of daily notes
-- **Updating existing implications:** prioritize the last **6–12 weeks** of daily notes
+- **New hypothesis promotion:** prioritize the last **3–6 weeks** of daily notes
+- **Updating existing hypotheses:** prioritize the last **6–12 weeks** of daily notes
 - **Long-term memory:** use the full `notes/synthesized_implications.md` document as the durable record of prior views
 
 ### How to apply these windows
 
-- When deciding whether to create or promote a **new implication**, focus mainly on whether a theme appears repeatedly and meaningfully within the last **2–4 weeks**
-- When deciding whether to **strengthen, weaken, or materially challenge** an existing implication, consider the last **6–12 weeks** of daily notes, along with the current synthesis entry
-- When adding **contradictory / disconfirming evidence**, recent evidence may be enough if it is a real observed fact that clearly cuts against an existing implication
+- When deciding whether to create or promote a **new hypothesis**, focus mainly on whether a theme appears repeatedly and meaningfully within the last **3–6 weeks**
+- When deciding whether to **strengthen or challenge** an existing hypothesis, consider the last **6–12 weeks** of daily notes, along with the current synthesis entry
+- A single development may justify immediate promotion if it is clearly a step-change event with durable strategic significance
 
 ### Promotion rule
 
-A new theme should usually be promoted into an active implication only when:
-- it appears meaningfully on at least **3 separate days within roughly 2–4 weeks**, or
+A new theme should usually be promoted into an active hypothesis only when:
+- it appears meaningfully on at least **3 separate days within roughly 3–6 weeks**, or
 - a single development is clearly a **step-change event** with durable strategic significance
 
 ### Search discipline
@@ -372,7 +416,7 @@ Bad:
 - The application moat is moving away from raw model quality and toward workflow control, proprietary context, and permission to act.
 
 Better:
-- Better models alone are not enough. The winners are more likely to be products that already own the workflow, hold useful data, and can actually do things on the user’s behalf.
+- Better models alone are not enough. The stronger products are the ones that already own the workflow, hold useful context, and can actually do things inside it.
 
 Bad:
 - Premium closed-model vendors may gain pricing and partnership leverage faster than expected.
@@ -391,7 +435,8 @@ Better:
 At the end of each run, provide a short changelog stating:
 - what was added
 - whether the synthesis changed
-- what was strengthened, challenged, promoted, or left unchanged
+- what was strengthened, challenged, promoted, merged, split, or left unchanged
+- any candidate hypotheses added or reviewed
 - any notable uncertainty
 
 ## Monthly file rollover for daily notes
