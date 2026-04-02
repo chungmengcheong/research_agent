@@ -1,11 +1,13 @@
 # Synthesized Implications
-_Last updated: 2026-03-29_
+_Last updated: 2026-03-30_
 
 ## How to read this document
 
 This document tracks the slower-moving views behind the daily notes. It is not a recap of daily news.
 
 The point is to maintain a small set of sharp, testable house views that can drive investing, business strategy, and product strategy.
+
+Where public companies are named in the investment sections, treat them as representative public-market proxies for the view, not direct buy or short calls. On the short side, many are cleaner as underweight or avoid names than as outright shorts.
 
 A view should usually be promoted into an active hypothesis only when:
 - it shows up repeatedly across multiple daily entries, or
@@ -46,7 +48,11 @@ The core point is not just that AI helps software. It is that software is enteri
 
 - **Investments**
   - **Longs:** workflow systems, systems of record, and software that can become the context and harness layer for AI-human work
+    Representative public proxies: ServiceNow (NOW), Salesforce (CRM), and monday.com (MNDY).
+    These are closer to workflow or system-of-record ownership than to a thin assistant layer.
   - **Shorts:** thin productivity software for power users, AI wrappers that do not own context, and software companies caught between horizontal LLMs and stronger workflow owners
+    Representative public proxies: Asana (ASAN) and Dropbox (DBX).
+    These are closer to stand-alone work surfaces that could get squeezed if the context layer moves elsewhere.
 
 - **Business / product strategy**
   - If you own a workflow, move fast to become the place where context, approvals, routing, and outputs live.
@@ -90,7 +96,11 @@ In fragmented categories like tax prep, bookkeeping, compliance support, paraleg
 
 - **Investments**
   - **Longs:** implementation-heavy vendors, managed-service providers, model-operations layers, and firms that can move from deployment into recurring workflow ownership
+    Representative public proxies: Accenture (ACN) and Genpact (G).
+    Accenture is a clear implementation proxy. Genpact is closer to the “own the business outcome” end of the view.
   - **Shorts:** service firms that keep selling labor by the hour while competitors automate the same work; pure implementation firms that never make the jump to outcome ownership
+    Representative public proxies: Wipro (WIT) and Infosys (INFY).
+    These are the cleaner public labor-arbitrage proxies if hours-based delivery stays the default.
 
 - **Business / product strategy**
   - Treat implementation as a bridge, not the destination.
@@ -142,7 +152,11 @@ This view also has a darker implication. Strategic infrastructure becomes a targ
 
 - **Investments**
   - **Longs:** semis, networking, cooling, power equipment, foundry-adjacent suppliers, infrastructure resilience layers, and firms with priority access to scarce compute
+    Representative public proxies: TSMC (TSM), Vertiv (VRT), and Arista Networks (ANET).
+    These own bottleneck layers in foundry capacity, power and cooling, and AI networking.
   - **Shorts:** application vendors assuming cheap abundant compute; businesses dependent on constrained infrastructure without resilience or supply security
+    Representative public proxies: C3.ai (AI) and SoundHound AI (SOUN).
+    These are closer to AI application demand without the same control over compute supply or economics.
 
 - **Business / product strategy**
   - Design around variable compute cost, workload routing, and graceful degradation.
@@ -188,7 +202,11 @@ This matters more as AI stops being just a chat layer and starts acting inside r
 
 - **Investments**
   - **Longs:** identity, privileged access, observability, runtime-control, and policy-enforcement vendors
+    Representative public proxies: Okta (OKTA), Palo Alto Networks (PANW), and Zscaler (ZS).
+    These sit in identity, policy, and runtime-control layers. Palo Alto is the cleaner broad public proxy now that CyberArk is no longer public.
   - **Shorts:** companies deploying agents without strong control layers; businesses exposed to high trust risk but weak permissioning and auditability
+    Representative public proxies: Zoom (ZM) and Teladoc Health (TDOC).
+    These are weaker and less clean shorts. The better expression of the view may still be owning the control layer rather than shorting the surfaces.
 
 - **Business / product strategy**
   - Treat identity, permissions, monitoring, and replayability as core product primitives, not enterprise add-ons.
