@@ -1,0 +1,5791 @@
+Bite Dance is the most advanced AI
+
+
+company in the world. You know, it's
+
+
+very underappreciated by the Western
+
+
+world. Today we have Mitchell Green at
+
+
+Lead Edge joining us. In a world of
+
+
+fluff and framework thinking investors,
+
+
+Mitchell Green is a money maker.
+
+
+Mitchell has co-led or led investments
+
+
+in insane companies like Alibaba,
+
+
+Benchling, Bite Dance, Graphana among
+
+
+many others. I think 50% of people in
+
+
+the venture business should not actually
+
+
+be in this. There's too much money and
+
+
+there's like too many tourists. 50 60%
+
+
+of people in this industry that actually
+
+
+probably add negative value to
+
+
+companies. People that spin out of like
+
+
+anthropic or open AI and raise money at
+
+
+like$2 billion dollars for a freaking
+
+
+idea. Like there's nothing more than an
+
+
+idea in a napkin. Talisite seems
+
+
+complete lunacy. There's going to be a
+
+
+really big downturn. Markets just don't
+
+
+go up forever. And I think it's going to
+
+
+happen in the next 10 years. Buying is
+
+
+glamorous. Selling is the job. Don't
+
+
+count China out. I bet they win the AI
+
+
+world.
+
+
+>> Ready to go.
+
+
+Mitchell, dude, it is so good to have
+
+
+you back in the studio. I love doing
+
+
+these with you and Larry are my
+
+
+favorites. You know why?
+
+
+>> You got to have us on together.
+
+
+>> No, I It' be great to have you on
+
+
+together. If you're in London together,
+
+
+we should do it. And we should do it
+
+
+actually over like a dinner and mic
+
+
+everyone up.
+
+
+>> Be amazing. Uh listen, I want to start
+
+
+with um something that's actually quite
+
+
+disarming for a lot of investors today,
+
+
+which is bluntly the SAS apocalypse, the
+
+
+sassacre, and we're looking at the
+
+
+markets and they're just in the [ __ ]
+
+
+And I think there's a lot of people who
+
+
+are questioning whether they are
+
+
+actually good investors or whether we
+
+
+were just in a bulliant cycle. Is this
+
+
+justified in terms of the downturn or is
+
+
+this an overreaction to AI and anthropic
+
+
+product releases?
+
+
+>> We are buyers. We're buying software
+
+
+stocks right now. You know, portion of
+
+
+our funds can be invested in public
+
+
+equities. So, we're buying companies
+
+
+like Procore, Workday, Appion.
+
+
+Um, you know, we love Clear Water
+
+
+Analytics, but it's in the process of
+
+
+being taken private, so the stock
+
+
+doesn't move. Um, we're big investors in
+
+
+Toast, which we've been buying back. We
+
+
+were early investors in it and sold and
+
+
+are rebying.
+
+
+These companies aren't going anywhere.
+
+
+Like, the incumbents have distribution,
+
+
+data, and balance sheets. You know it's
+
+
+it's a fool's errand to think all these
+
+
+companies are going to go away. That
+
+
+being said, in any period when there is
+
+
+big periods of disruption, you know, you
+
+
+know, there will be new companies that
+
+
+are created. There will be incumbents
+
+
+that thrive and adapt and there will be
+
+
+some incumbents that blow up. Help me
+
+
+understand. I I love your perspective,
+
+
+but I don't understand it. Workday is at
+
+
+6.8% growth now. We're seeing the
+
+
+cannibalization of the seat model. We're
+
+
+seeing bluntly no impressive use of any
+
+
+agent products within the existing
+
+
+incumbent set. Uh well, Workday's AI
+
+
+business is growing super fast inside
+
+
+it. Uh keep in mind they are $10 billion
+
+
+of revenue and like $3 billion of free
+
+
+cash flow. So there is you know law of
+
+
+large numbers uh for a lot of these
+
+
+companies. You know look it is not
+
+
+normal for companies to grow like
+
+
+Anthropic or open a have and oh by the
+
+
+way you know
+
+
+you know workday does it with serious
+
+
+profits or a company like bite dance
+
+
+grows it you know 30% a year with
+
+
+massive profits like let's see what
+
+
+these companies would how they would
+
+
+grow if they had profits but the seat
+
+
+seat look I mean for seatbased pricing
+
+
+for workday I mean workday is is more
+
+
+tied to like employment you know
+
+
+employment growth in the United States
+
+
+but you know the company you know is
+
+
+it's like
+
+
+high low, you know, low teens, high
+
+
+single digits grower. But again, it is a
+
+
+huge business. It is like a $10 billion
+
+
+revenue company. I actually think what
+
+
+people got wrong and why a lot of these
+
+
+stocks, software stocks have actually
+
+
+sold off looking back in hindsight is if
+
+
+you went if you looked at the end of
+
+
+last year,
+
+
+street numbers
+
+
+were too high for this year just in
+
+
+general. Like they didn't show enough
+
+
+del. And what I mean by that is you'd
+
+
+have a company that was forecasted to
+
+
+grow like, you know, that grew 20% last
+
+
+year where the street thought they would
+
+
+grow like 19.5% this year. It's a lot of
+
+
+large numbers. As companies get really
+
+
+big, they they desell um and street
+
+
+numbers in general AC all across
+
+
+software were were too high. And so what
+
+
+what's hap what will happen is, you
+
+
+know, Wall Street analysts, sellside
+
+
+analysts are like, you know, pigeons
+
+
+like you know, squirrels. and as the
+
+
+stock goes down, they're like, "Oh, now
+
+
+now we got to lower my numbers and take
+
+
+the numbers down." And no, and you know,
+
+
+a lot of big public hedge funds or
+
+
+public market investors, you don't want
+
+
+to own stocks when numbers need to come
+
+
+down. You want to like own them when
+
+
+numbers are about to go up. So,
+
+
+estimates are about to go up. So, what
+
+
+you're going to see is they're going to
+
+
+take numbers down at a bunch of
+
+
+companies. Give it a quarter or two.
+
+
+Companies will start to then, you know,
+
+
+beat numbers. They'll then they'll raise
+
+
+the numbers and the stocks will start to
+
+
+work, but it's probably dead money for a
+
+
+little while. I was always a big fan of
+
+
+Howard Marx and his investor letters.
+
+
+And one of his big things is, you know,
+
+
+never try and catch a falling knife. And
+
+
+so
+
+
+>> I see what you see in terms of the
+
+
+opportunity, but I'm like, I have no
+
+
+idea where this is going to go. And
+
+
+honestly, a month ago, I was looking at
+
+
+Duolingo going, "Wow, what a buying
+
+
+opportunity." And the lesson I have on
+
+
+Duo is, "Wow, there really is no floor."
+
+
+If you don't have earnings or IBIDA,
+
+
+there is no floor in a lot of these
+
+
+things. What we tell people is if you
+
+
+want to own them, just buy them over
+
+
+like, you know, buy them over a
+
+
+month-long period or buy them on down
+
+
+days. But just like if a stocks, if
+
+
+you're an individual and you think you
+
+
+want to own a million bucks, $200,000 of
+
+
+some name, buy $50,000 every time it,
+
+
+you know, it it dips and sells off hard
+
+
+and maybe you'll never get fully filled,
+
+
+but you just you won't you won't catch a
+
+
+bottom. But the funny thing is if you
+
+
+actually do the like long-term analysis
+
+
+on buying just indexes like the NASDAQ
+
+
+or the you know S&P it actually turns
+
+
+out just like if you look at like very
+
+
+long-term like longitudinal data that if
+
+
+you just actually just buy it on a big
+
+
+down day it's it's nearly impossible to
+
+
+try to try time it we mentioned workday
+
+
+we also have seen recently in workday
+
+
+Anil Busher the founder coming back not
+
+
+specifically about workday but I'm
+
+
+unwaveringly negative on companies where
+
+
+the founder is not the CEO and we're in
+
+
+this AI transformation. Do you share
+
+
+that non-founder like companies are
+
+
+inherently disadvantaged?
+
+
+>> I would agree with that partially.
+
+
+I though I do think there are very good
+
+
+CEOs. You need like a growth mindset and
+
+
+I believe that there are companies that
+
+
+are run for growth and there are
+
+
+companies that are run for margins and I
+
+
+believe in anytime you have big
+
+
+technological transformations
+
+
+that um you want the entreprene you want
+
+
+the management team that is run by the
+
+
+company that is focused on growth that
+
+
+are like they're grow and by the way
+
+
+those are often times entrepreneurs you
+
+
+know another way to think about it is
+
+
+often times And companies are run for
+
+
+margin
+
+
+earnings or even margin they're
+
+
+oftentimes heavily levered where I think
+
+
+the biggest opportunity to disrupt
+
+
+incumbents today is
+
+
+soft software tech enabled services any
+
+
+company actually can be a manufacturing
+
+
+company it doesn't matter any company
+
+
+with a bunch of leverage on it because
+
+
+those companies don't have the cash flow
+
+
+to innovate and by the way you can look
+
+
+at 99 in 2000 and look what happened and
+
+
+so we if we had sat here in 99 we would
+
+
+have debated are all the traditional
+
+
+retailers is going to go bust and are
+
+
+all these e-commerce companies going to
+
+
+be gigantic? If you look today at the 10
+
+
+largest e-commerce companies in the
+
+
+United States, you know, six or seven
+
+
+out of 10 of them are traditional
+
+
+retailers. There are people that were
+
+
+around way before 99. Walmart, Target,
+
+
+Home Depot, Lowe's. However, there were
+
+
+a bunch that went bust too. Sears,
+
+
+Kmart, you know, Montgomery Ward, Bed
+
+
+Bath and Beyond. And you you have to ask
+
+
+yourself why. And most of those
+
+
+companies had huge amounts of leverage
+
+
+so they couldn't innovate. Whereas like
+
+
+Walmart, we didn't have leverage and
+
+
+like we're going all in. We're going to
+
+
+like bet the company on this stuff. And
+
+
+you're going to see the same thing. I
+
+
+think today there's many things I wanted
+
+
+to somehow. You said you run a company
+
+
+for growth. You run a company for
+
+
+margins. Yeah. If we take like a master,
+
+
+he's running it for growth, which is why
+
+
+free cash flow is in the drains. I mean
+
+
+now I think it's valued like a,100x free
+
+
+cash flow.
+
+
+>> Um
+
+
+>> well the capex burn for all these things
+
+
+>> and he's being pummeled for it.
+
+
+>> Yeah. Is it right to pummel him forward
+
+
+or is he in the right mindset for
+
+
+growth? This is the milliondoll
+
+
+question. Is Apple right or is Google,
+
+
+Microsoft and Meta, right? And you know,
+
+
+like Apple spending very little right
+
+
+right now, you know, and those other
+
+
+three or four companies are spending
+
+
+insane amounts of money.
+
+
+Time will tell. We It's probably
+
+
+somewhere in between is actually
+
+
+probably the right answer. Um, you know,
+
+
+I I would argue though, you know, if if
+
+
+you are um, you know, it's interesting
+
+
+if
+
+
+Mark Zuckerberg deserves to to go for
+
+
+it. Like, he's it's his business. He
+
+
+built the damn business. Like, I don't
+
+
+think you really have much to say to be
+
+
+like, "Oh, don't bet on the guy." And by
+
+
+the way, he he kind of has to because
+
+
+his competitors are are doing the same
+
+
+thing as well. So um look I mean our
+
+
+view is that bite dance is the most
+
+
+advanced AI company in the world um in
+
+
+ter and you know it's very
+
+
+underappreciated by the western world
+
+
+like you know how much AI they use um
+
+
+and how much they're investing in it.
+
+
+Our view like AI is going to change the
+
+
+world. It's an incredible thing like
+
+
+it's going to now again though we sat
+
+
+here in 99 the word social media doesn't
+
+
+show up. We would never have talked
+
+
+about Facebook or anything right? It's
+
+
+$3 trillion of value now. AI is not
+
+
+going to be about the next call center
+
+
+company or the next like workday. I
+
+
+truly believe what we're seeing right
+
+
+now in the AI and like people investing
+
+
+in a lot of these AI companies across
+
+
+the board. Look, some of them are going
+
+
+to be gigantic. A whole bunch of them
+
+
+are going to bust out are going to bust.
+
+
+But like I actually think it's the stuff
+
+
+that's going to start over the next like
+
+
+two to five years. Those are going to be
+
+
+like the giant businesses and I don't
+
+
+even know what it is. I mean
+
+
+>> we're going to go back to bite dance.
+
+
+But then do you agree with the play the
+
+
+game on the field analogy or do you
+
+
+actually think there is such moving
+
+
+sands that actually an optimal strategy
+
+
+is to be conservative not invest a ton
+
+
+right now given the transients of
+
+
+markets and sit and wait for some form
+
+
+of new equilibrium to emerge?
+
+
+>> That's a great question. I think it
+
+
+depends on what business you're in. If
+
+
+you are an early stage venture fund
+
+
+where returns are made, you know, 100x's
+
+
+or zeros, you should be invested in
+
+
+stuff. Now, I think you should, we like
+
+
+to always ask if I make an investment
+
+
+and it grows for like 18 months and it
+
+
+hits my numbers, am I like now in the
+
+
+money? The problem is when you invest at
+
+
+100 times revenues or something, you go
+
+
+18, you can go some crazy rate for 18
+
+
+months and you're like, I'm still
+
+
+nowhere near in the money. So, we always
+
+
+like to ask ourselves that, but if
+
+
+you're trying like we're in the business
+
+
+of trying to make two to five times our
+
+
+money in three to seven years for like a
+
+
+25 IRRa
+
+
+and like we we don't drive zeros like we
+
+
+don't we also don't have 20 X's. I think
+
+
+we've had like two 10Xs ever or
+
+
+something like that, but we've only had
+
+
+like, you know, one or two zeros ever.
+
+
+And so, it's this environment for us is
+
+
+just kind of weird. It's just it's
+
+
+different. Like,
+
+
+>> are you finding it hard? It is
+
+
+definitely harder to invest today than
+
+
+it was in 2017 for sure. Although
+
+
+there's like different pockets of
+
+
+opportunity, you know, like the
+
+
+secondary market for us right now and is
+
+
+like exploding and like our special sits
+
+
+business, you know, we just did a deal
+
+
+in a company
+
+
+>> that, you know, in a special sit and put
+
+
+200 million to work and the company is
+
+
+there's the company is now raising
+
+
+around at like 2x the price, you know,
+
+
+we invested at and literally it happened
+
+
+a month ago.
+
+
+I don't understand when you look at a
+
+
+lot of the growth equity investments
+
+
+that you and a lot of people have made
+
+
+in the last few years are they not made
+
+
+a lot more vulnerable in the new
+
+
+environment that we sit in the like
+
+
+wellpriced company up north in the UK
+
+
+that's doing like accounting whatever
+
+
+>> look one of our companies is is
+
+
+Graphfana Labs like it just it's a giant
+
+
+business growing crazy fast and like you
+
+
+know It's b it's it's benefiting from a
+
+
+lot of this like AI spend. Their
+
+
+customers are a bunch of are some of
+
+
+these big AI companies.
+
+
+>> But I would say that's a straight down
+
+
+the fairway Silicon Valley deal. It's
+
+
+was it was Sequoa and
+
+
+>> Yeah. But like when we invested, nobody
+
+
+knew what the company was. Like it was a
+
+
+bootstrap $12 million software company.
+
+
+Like us and Lightseed were the first two
+
+
+investors. It was bootstrapped. The guy
+
+
+actually built like a $12 million
+
+
+company.
+
+
+>> How did you find it?
+
+
+>> We cold calling him. Cold calling the
+
+
+CEO. You cold call. So we have a team of
+
+
+18 22 to 24 year olds like pounding the
+
+
+phones calling companies all day long
+
+
+and
+
+
+>> learned from insight.
+
+
+>> Learned from Yeah. So by the way and
+
+
+they just replicated it with Summit and
+
+
+T8 it um Yeah. So by the way
+
+
+>> I just had Jerry Murdo on the show.
+
+
+>> Yeah. Yeah. He's fantastic. So if you if
+
+
+the company calls you back it's like
+
+
+hang up the phone. It's a CO call every
+
+
+two days for a month. That's who you
+
+
+want to get on the phone. And look at
+
+
+people are building like amazing
+
+
+companies. Like we have a business down
+
+
+in Florida that makes called Pacemate.
+
+
+Uh it makes cardiac monitoring software.
+
+
+So if you put like a pacemaker in your
+
+
+body or a defibrillator, it takes the
+
+
+data off the device. That data then is
+
+
+sent to the manufacturers's like
+
+
+website. There's lots of different
+
+
+manufacturers, lots of different models.
+
+
+This is like single pane of glass
+
+
+software for um for cardiac clinics. By
+
+
+the way, it is like a 99% gross dollar
+
+
+retention business. They these guys when
+
+
+we first invested it was like 20 million
+
+
+of revenue
+
+
+uh had only had raised eight to get
+
+
+there but only burned three was growing
+
+
+like 50% a year. I don't know it
+
+
+probably did like 45 million revenue
+
+
+last year a few years after we invested.
+
+
+Um by the way we're going we're using AI
+
+
+to benefit like we have a huge amount of
+
+
+people in the call center or like in the
+
+
+customer service like analyzing the data
+
+
+making sure all this stuff is like is
+
+
+working. the company can now continue to
+
+
+grow and not act I mean they don't have
+
+
+to fight they're not gonna fart all
+
+
+these people but they can they can keep
+
+
+the same number of people and make
+
+
+people much more productive and I think
+
+
+that's what people are missing that like
+
+
+I think there's two things one this is
+
+
+going to lead to a giant productivity
+
+
+boom
+
+
+um and two
+
+
+um in ter like software companies have
+
+
+never been about like R&D this is not
+
+
+semiconductor investing like it's very
+
+
+different. So if you were to look at
+
+
+your average software company that goes
+
+
+public,
+
+
+you know, if you look at cumulative
+
+
+spend since inception, it's usually
+
+
+around like 30% is R&D. So like a huge
+
+
+amount of these businesses are about
+
+
+like sales and marketing, distribution,
+
+
+customer support, things like that. But
+
+
+like AI will help a lot of those things.
+
+
+Are you wide that we might see I'm sure
+
+
+you read the Catrini research piece um
+
+
+or saw it come out and you wipe billions
+
+
+off the stock market essentially saying
+
+
+that
+
+
+>> but that's a more incredible thing
+
+
+>> what
+
+
+>> some random person can write a research
+
+
+report imagine if we had Twitter in 2008
+
+
+like it's incredible like why don't it's
+
+
+amazing that people are listening to
+
+
+some random research firm versus
+
+
+listening to people like Stan Ducken
+
+
+Miller Howard Marx Ken Griffin Steve
+
+
+Cohen like Mark Beni off people like
+
+
+Mark Zuckerberg uh you know Jensen Wong
+
+
+who's like software is not dead at all
+
+
+like yet a random research report can
+
+
+you know get 25 million views and takes
+
+
+itself in the stock market it's crazy
+
+
+>> is this not the ultimate sign though
+
+
+that we're seeing the casinoization of
+
+
+public markets
+
+
+>> which actually makes it by the way
+
+
+that's the opportunity for long-term
+
+
+investors like you buy you know as
+
+
+Warren Buff said you buy when people are
+
+
+scared like and you can make you'll be
+
+
+able to make lots of money
+
+
+>> or the flip side you don't want to take
+
+
+part in entirely irrational markets
+
+
+which are no longer tied to value.
+
+
+>> Look, I was working at a hedge fund
+
+
+seated by Julian Robertson in 2008 and
+
+
+2009. This is nothing like this. This is
+
+
+like amateur hour. This is like nothing.
+
+
+Like this isn't even volatile compared
+
+
+to like what was going on back then. The
+
+
+market was whipping the the indexes were
+
+
+whipping up and down like 8% in like
+
+
+intraday in intraday moves. Like you'd
+
+
+have 15% swings like this. But that
+
+
+presents the opportunity. By the way,
+
+
+had you bought in early in like 09 or
+
+
+late '08, you know, and bought great
+
+
+companies, you could make a ton of
+
+
+money. And so, like, this is the
+
+
+opportunity to buy stuff on sale. Now,
+
+
+again, you
+
+
+>> Okay, I'm going to push back on you
+
+
+there and say there was no fundamental
+
+
+like technology inflection point in
+
+
+2008, which could render an incumbent
+
+
+set relatively redundant, which there is
+
+
+today.
+
+
+>> The mainframe business is still a $5.5
+
+
+billion market. Mainframes, they came
+
+
+out in 1950. Most banks are run off of
+
+
+mainframes. Oracle is a legacy software
+
+
+company. Microsoft is a legacy software
+
+
+company. SAP is a legacy software
+
+
+company. They are some of the biggest
+
+
+software companies in the world. These
+
+
+companies are not going away. I will bet
+
+
+any amount of money on it. Now though
+
+
+there will be some that will. So focus
+
+
+focus on the companies that have 90 95
+
+
+98% gross dollar retention. Now there
+
+
+will be new giant companies created
+
+
+100%. But not like most of these
+
+
+incumbents will not disappear. They will
+
+
+like some of them will innovate and
+
+
+become exponentially bigger. Some of
+
+
+them will grow 5 10 percent a year. I
+
+
+mean there are a ton of software
+
+
+companies that have been around you know
+
+
+20 30 years that are still growing. Um
+
+
+and you know I actually think the
+
+
+biggest disruption you're going to see
+
+
+is in like manufacturing is in like
+
+
+healthcare is in um you know think about
+
+
+like the companies that can figure out
+
+
+how to get drugs to market much faster
+
+
+than anybody else. Like I think I think
+
+
+AI could potentially like it's a huge
+
+
+part of cancer could be solved. Dementia
+
+
+could be solved because you can run drug
+
+
+trials faster. Think about
+
+
+manufacturing. If AI and robotics can
+
+
+come about, the company that, you know,
+
+
+if you have two competing companies that
+
+
+make cars, one's levered, one's not
+
+
+levered, the one that's not levered is
+
+
+probably going to be able to invest a
+
+
+lot of resources into, you know,
+
+
+completely, you know,
+
+
+it's going to be hugely beneficial for
+
+
+him.
+
+
+>> Totally get that. Going back to what we
+
+
+were just talking about, you were saying
+
+
+about the casinoization, how crazy it
+
+
+is. We mentioned productivity increases.
+
+
+Are you worried that we will see
+
+
+productivity increases,
+
+
+but with that less and less consumers
+
+
+having jobs and a weakening of consumer
+
+
+wallets?
+
+
+Not really. There were a couple million
+
+
+switchboard operators in 1980. There's
+
+
+been lots of jobs that have been, you
+
+
+know, lost over the years. Think about
+
+
+all the number of re, you know, there's
+
+
+been retailers over the years have gone
+
+
+bust. People innovate. And it's funny, I
+
+
+was just talking to somebody at one of
+
+
+the world's largest banks, very senior
+
+
+person at one of the world's largest
+
+
+banks this week in London. And his point
+
+
+was, look, we have hundreds of thousands
+
+
+of people in like back in middle office.
+
+
+Those people have we've trained them for
+
+
+five to 25 30 years, right? These people
+
+
+are not all going to we're not getting
+
+
+rid of them all. We're going to retrain
+
+
+them. And by the way, the people that
+
+
+don't want to be retrained
+
+
+will be okay, fine, go work for the
+
+
+government then because you know you can
+
+
+do like old school jobs there. But like
+
+
+a lot of these like companies will
+
+
+retrain people, they'll do different
+
+
+things. It's a it's remarkable
+
+
+throughout history. There's been like
+
+
+lots of technological disruption over
+
+
+the last hundred years and like people
+
+
+find new things. If you're if
+
+
+everybody's worried about uh everybody's
+
+
+going to lose their job, you got then
+
+
+don't invest in any of these companies
+
+
+because it's going to be a it would be a
+
+
+complete disaster. It's like I would I
+
+
+guess I tell people like if you're
+
+
+worried about China invading Taiwan, you
+
+
+really shouldn't worry about your bite
+
+
+dance position because you're going to
+
+
+have a lot bigger things to worry about.
+
+
+Um, at some point by the way the
+
+
+government would get very involved like
+
+
+if if all of a sudden all these jobs
+
+
+start to disappear and you have 10 20
+
+
+30% inflation sorry unemployment. It's
+
+
+not it's not happening. First of all
+
+
+people always think this change comes
+
+
+faster than it does. Most big companies
+
+
+that are like financially regulated you
+
+
+can't even go on to claude or chat GBT.
+
+
+Like you can't even like get on the
+
+
+system to do work. And by the way we're
+
+
+still 5 years in. It's literally like
+
+
+people woke up a month and a half ago
+
+
+and we're like, "Oh my gosh, all these
+
+
+companies are going to go away." And
+
+
+like unemployment is going to 30%. Like
+
+
+it's it's it's it's nonsense. It's
+
+
+silly. Like we're going to sit here in
+
+
+10 years and we're going to have like
+
+
+it's going to be an amazing time to
+
+
+invest. You're going to have a bunch of
+
+
+amazing new companies come created.
+
+
+Well, you're going to have a bunch of
+
+
+them. You'll have some some legacy in
+
+
+companies that went to zero. Not all of
+
+
+them or anywhere near all of them. You
+
+
+know, you're still going to go to
+
+
+retailers. you're still gonna get your
+
+
+haircut like but the um I just think
+
+
+it's gonna be like an amazing time to
+
+
+invest and by the way during periods of
+
+
+volatility and you know the
+
+
+casinoization of the stock market you
+
+
+want to buy fundamentally good
+
+
+businesses on multiples of earnings.
+
+
+>> Do you do you worry that the world is
+
+
+just being me that the world is being
+
+
+calcified and calcium the world is just
+
+
+a [ __ ] calcium poly markets replica?
+
+
+>> It's totally insane. Like I
+
+
+>> is that a momentary thing or is this a
+
+
+new world of social media dopamine
+
+
+junkies real time?
+
+
+>> It's a great question. Look, I mean I'
+
+
+I've joked for years that that social
+
+
+media is like the demise of society. Um
+
+
+look, I mean Jonathan uh I guess has
+
+
+done a amazing research on like you know
+
+
+this stuff needs to be regulated. It
+
+
+will be regulated. Um it is incredible
+
+
+though how fast information moves, you
+
+
+know, right? And um just imagine if like
+
+
+Twitter had been around in 2000 been you
+
+
+know big in like 2008 and 2009. It's
+
+
+absolutely incredible. And now um I will
+
+
+say that this look the makeup of the
+
+
+stock market is different today than it
+
+
+was you know 20 years ago. Passive you
+
+
+know passive ETFs are much bigger. The
+
+
+retail stuff comes and goes um like
+
+
+retail trading but um
+
+
+you just have to buy good businesses
+
+
+when they're on sale. like buy good
+
+
+businesses at multiples of fundamental
+
+
+if you don't have earnings there is no
+
+
+floor um but if you have earnings like
+
+
+and free cash flow then you know um
+
+
+another thing that people well reason a
+
+
+lot of these stock or stocks and
+
+
+internet stocks are actually still not
+
+
+cheap is because the stockbased count
+
+
+like the stockbased comp in a lot of
+
+
+these companies is totally nuts like the
+
+
+amount of equity compensation and
+
+
+dilution to founder of like of like
+
+
+shareholders is is very high and I'm
+
+
+actually surprised more people don't
+
+
+talk about it.
+
+
+>> Why are we not talking about it? What do
+
+
+we not know that we should know? Are we
+
+
+in a new norm for the Snapchats and Open
+
+
+AIs of the world to have unreasonably
+
+
+high SBC and no one question it?
+
+
+>> It's, you know, some of the big public
+
+
+market investors have been questioning
+
+
+it for a while. It's surprising that
+
+
+more people don't talk about it. And
+
+
+just look how much like stock option
+
+
+dilution there is and a bunch of these
+
+
+big Silicon Valley companies. It's not
+
+
+as bad outside of Silicon Valley, but
+
+
+like the delilution is real. Like uh I'm
+
+
+surprised more people don't talk about
+
+
+it.
+
+
+>> What should happen? Like if you're a
+
+
+SNAP holder, Evan is running a a gifting
+
+
+program right now.
+
+
+>> Yeah.
+
+
+>> Like
+
+
+>> I don't know. It's like we're not
+
+
+activist shareholders and I and I um at
+
+
+all. You would like I have a lot of
+
+
+respect
+
+
+for entrepreneurs like Larry Ellison who
+
+
+effectively did a levered recap of
+
+
+Oracle. You know, he he basically was
+
+
+like, I have all this I have all this
+
+
+free cash flow. I'm going to borrow debt
+
+
+and buy back an enormous amount of
+
+
+stock. And what did he do in the
+
+
+process? He didn't sell any of his own.
+
+
+So, he just kept making it. you make the
+
+
+share con go down not up. Um people
+
+
+forget that in companies there's you
+
+
+know it's market cap equals number of
+
+
+shares times price of shares. Um and so
+
+
+like you know and so companies that
+
+
+respect you know that have discipline on
+
+
+that I think are are powerful. We
+
+
+>> we've seen so many names that are so
+
+
+well known be in the dumps and a lot of
+
+
+people are questioning oh well are the
+
+
+CEOs in the management team buying when
+
+
+they're in the dumps. you know, Service
+
+
+Now CEO who bought $3 million worth
+
+
+>> and I think Salesforce just came out and
+
+
+said they're going to buy $50 billion of
+
+
+stock or some crazy number was like from
+
+
+the earnings report last night. No, I
+
+
+agree with you. By the way, companies
+
+
+should be buying back stock. Those that
+
+
+aren't buying back stock, you should
+
+
+question and ask why.
+
+
+>> Okay, but Service Now's bought $3
+
+
+million worth.
+
+
+>> Okay. Which is less than his car
+
+
+collection.
+
+
+>> Yeah, but I don't know. Is the company
+
+
+buying a lot of stock back? I don't
+
+
+know. But you have to ask also ask like
+
+
+how much stock does the CEO of Service
+
+
+Now already own? does he own $300
+
+
+million of stock? Um, but like that
+
+
+should tell you something. The companies
+
+
+that the found where the like founders
+
+
+are buying or the companies are buying
+
+
+huge amounts of stock back like that
+
+
+that to us would make one more bullish
+
+
+on that company versus like another
+
+
+company 100%. H
+
+
+>> I I would suspect over the next you will
+
+
+as our names come through you know you
+
+
+will see more things like like sales
+
+
+like Salesforce people put in place big
+
+
+buyback programs to start buying back
+
+
+stock here. I think you'll see it.
+
+
+>> We we spoke about bite dance a little
+
+
+bit.
+
+
+>> Mhm.
+
+
+>> Everyone for years has been like oh the
+
+
+bite dance discount. It's so cheap. Bite
+
+
+dance is insane cuz there's the China
+
+
+discount and bite dance is the China
+
+
+discount on the China discount.
+
+
+That sounds great, but it's only good
+
+
+for you as an investor if that discount
+
+
+chasm shrinks.
+
+
+What's it going to take for the discount
+
+
+casm to shrink? I think it already it to
+
+
+some degree already is. So private
+
+
+market implied valuation multiple should
+
+
+be should be, you know, determined by
+
+
+public market investments. So like you
+
+
+should argue a software company today
+
+
+like should be getting done in the
+
+
+private markets cheaper than public
+
+
+markets. It's definitely doesn't always
+
+
+occur like that. So look, B, so Alibaba
+
+
+and Tencent should be, you know, two
+
+
+giant um, you know, Chinese companies
+
+
+should represent roughly how Bidan
+
+
+should trade. I haven't looked at them
+
+
+in the last like couple weeks or month.
+
+
+They were trading like mid- teens
+
+
+earnings multiples, not eBay, not
+
+
+revenue, earnings multiples, and they
+
+
+don't really grow. Now this is a
+
+
+business that you know grows grows fast
+
+
+grows 25 30% plus a year generates a
+
+
+tremendous amount of earnings and you
+
+
+can stick like an earnings multiple on
+
+
+those companies on this company and get
+
+
+to a very very big number like
+
+
+fundamental earnings. Um I think
+
+
+Facebook's trading like 25 30 times
+
+
+earnings right now like stick that
+
+
+multiple but that's maybe that's too
+
+
+high because it's a western company. So
+
+
+then pick like put the China company
+
+
+multiples on it. I think it is possible
+
+
+to see in a few years that this
+
+
+company's doing, you know, 70, 80, 100
+
+
+billion of earnings in the next five
+
+
+years. Um,
+
+
+>> yeah, but in a del globalized Trump
+
+
+world, I'm just doing the the kind of
+
+
+alternate argument here just to
+
+
+understand. In a del globalized Trump
+
+
+world, it's not going to list in the US,
+
+
+is it?
+
+
+>> 0% chance it'll list in the US. No, I
+
+
+answer I have no clue, but no, it'll
+
+
+list in Hong Kong. like um that that's
+
+
+where you know a lot of these but you
+
+
+know people have been talking for years
+
+
+that they're going to like delist all
+
+
+these U these Chinese companies BU [ __ ]
+
+
+Baba they never did like um and
+
+
+keep in mind like Alibaba and 10 cents
+
+
+Alibaba stock is like doubled off the
+
+
+lows over the last year. So like
+
+
+sentiment today on China is a lot better
+
+
+than it was 18 months ago. I mean we
+
+
+were buy you know when we were buying
+
+
+bite when we were buying bitean stock
+
+
+like you know you know we were we were
+
+
+buying it at prices like sub you know
+
+
+around $200 billion like we we thought
+
+
+the risk adjusted reward given the
+
+
+earnings power was just like incredible.
+
+
+I also think that that um
+
+
+>> don't count China out. I bet they win
+
+
+the AI world. I bet they win it. that
+
+
+when it's not right but like look the
+
+
+great thing in China is you can build a
+
+
+nuclear power plant in a couple years
+
+
+you can build power plants like no
+
+
+problem we in the US we are going to run
+
+
+into major issues around power
+
+
+>> why do you think they win the AI award
+
+
+just because of the power
+
+
+>> because of the power resources
+
+
+consumption like number of PhDs like how
+
+
+much they value science and technology
+
+
+and um I think power is a real and like
+
+
+look there's things that could totally
+
+
+change it like nobody's really talking
+
+
+about quantum we are not quantum experts
+
+
+at all but is that something that could
+
+
+make these things like exponential
+
+
+potentially more efficient. Um,
+
+
+>> how does that realization change how you
+
+
+invest? I completely hear you and I
+
+
+agree. I think we still dramatically
+
+
+underestimate the capability of China or
+
+
+just choose not to think about it or
+
+
+push it to one side. But if that is the
+
+
+realization, how does that impact your
+
+
+go forward mindset on investing?
+
+
+>> But that's why we own a lot of ch that's
+
+
+why we own a lot of bite dance. Um, but
+
+
+it's not like winner take all. It's not
+
+
+that bite dance wins and like Google and
+
+
+Facebook and you know loses. A year ago
+
+
+when I was probably on the show, I don't
+
+
+I don't know if we had talked about like
+
+
+Google. Everybody thought Google was
+
+
+going to lose. They're like, "Ah,
+
+
+Google's dead. It's done." Like,
+
+
+"Nobody's gonna search it." Seen the
+
+
+stock in the last year. Stocks like
+
+
+doubled. Now it's going to win
+
+
+everything. Now it's going to beat
+
+
+OpenAI and all these other things. No.
+
+
+Like they're both they're both going to
+
+
+be fine. The the biggest question for us
+
+
+on these LLM model companies is can they
+
+
+ever turn like a real can they ever
+
+
+return like a real profit? Like I just
+
+
+don't know the answer. Uh and I don't
+
+
+think anybody really does right now. Um,
+
+
+but again, I think another thing you're
+
+
+going to see in the United States as it
+
+
+relates back to power and you really
+
+
+haven't seen much of it yet is local
+
+
+communities getting like really upset.
+
+
+Like you're the you're the small local
+
+
+town in Iowa or the small town in, you
+
+
+know, Kansas or Ohio or wherever in
+
+
+Virginia and, you know, they built this
+
+
+giant data center. They employed all
+
+
+your people. They employed a ton of
+
+
+people locally to build it. They then
+
+
+built it. now it sits there and has 50
+
+
+local people that work there and your
+
+
+power your power local power prices have
+
+
+tripled and like is it polluting the
+
+
+environment and things like that. It's
+
+
+just this big ugly building. I think
+
+
+you're going to see real local push back
+
+
+and I don't think it's only the United
+
+
+States. I think it's probably Europe as
+
+
+well. Um and it's like hey you know
+
+
+these people that are are not better off
+
+
+today than 20 years ago and these things
+
+
+are in their backyard and you know
+
+
+people in Silicon Valley and the coast
+
+
+are making tens of billions of hundred
+
+
+billions hundreds of billions of dollars
+
+
+off. I'm like I think there's going to
+
+
+be like real push back and there needs
+
+
+to be regulation on it.
+
+
+>> Do you not think climate is a luxury
+
+
+problem? We were also worried about it
+
+
+in the last 3 to 5 years and now no one
+
+
+gives a [ __ ] about it. Climate investing
+
+
+is in the drains.
+
+
+>> We should be worried about it. Like um
+
+
+it's it's probably important. Look, it's
+
+
+we've always struggled with how to
+
+
+invest there because of how capital
+
+
+inefficient a lot of those businesses
+
+
+are. Yeah. Um, but I mean like and and
+
+
+I think like just China has some
+
+
+advantages in that respect. Whether it's
+
+
+like so giant solar farms they can build
+
+
+or whether they they can just they can
+
+
+do things that we we can't do. But I
+
+
+would expect
+
+
+look if you look at the internet the the
+
+
+biggest innovation in internet has
+
+
+usually is over the last decade or 15
+
+
+years has come out of China. Like if you
+
+
+actually want to look where like
+
+
+e-commerce is going and like social
+
+
+media is going is go look at China. like
+
+
+that could happen in um
+
+
+you know it was not a surprise to me
+
+
+when Deep Sea came out but don't don't
+
+
+um underestimate like Chinese uh
+
+
+creativeness and like ingiduity um to
+
+
+like figure out how to like reverse
+
+
+engineer and engineer things in much
+
+
+cheaper ways than Americans can do. Can
+
+
+I ask you going back to the not
+
+
+specifically on the bite dance but I
+
+
+actually really want your advice on the
+
+
+sell side which is like when you look at
+
+
+a bite dance there's many opportunities
+
+
+to sell in in a lot of these names so
+
+
+not taking it by dance specifically how
+
+
+do you think about uh you know what
+
+
+we're 3x up on where we are we've been
+
+
+in it for 4 years let's take chips off
+
+
+the table how do you think about sizing
+
+
+positions over time and have you got any
+
+
+big lessons or advice for me on that
+
+
+>> buying is glamorous
+
+
+selling is the job. Constantly under
+
+
+reunderwite that is actually what it
+
+
+really is. And we're trying to make 2 to
+
+
+5x in 3 to seven years. If you put that
+
+
+in to a on a curve that's a 25 IR curve,
+
+
+put it into a fund to make a two to two
+
+
+and a halfx net fund. That's what we're
+
+
+trying to do. Like that's what we tell
+
+
+our investors. So, we're constantly just
+
+
+rewriting to saying like, okay, like if
+
+
+we were going to sell a bunch of uh bite
+
+
+dance today at 550, which is, you know,
+
+
+where it's been reported that like
+
+
+General Lanic is selling a bunch and
+
+
+there's other people we've been offered
+
+
+higher than that. And so, I think it's
+
+
+always like what is the probability it
+
+
+can double and and then we to invite
+
+
+Dance, we look at like what fundamental
+
+
+earnings are and we're like, okay, this
+
+
+is doubling, no problem. Now, if
+
+
+somebody came to us today and said,
+
+
+"Hey, I'll offer you $1.3 trillion."
+
+
+We'd sell a bunch. No, because it's not
+
+
+that I don't think the I think the
+
+
+company will do a hundred billion of
+
+
+earnings in the next five years and
+
+
+that's at 20 times that's worth$2
+
+
+trillion dollars but like there's a risk
+
+
+what does it trade out on a multiple
+
+
+basis what what would we be on our total
+
+
+investment at that price
+
+
+>> Sean how far ahead are you paying for
+
+
+growth and at a point there's a really
+
+
+valuable moment to go yes you're paying
+
+
+four years out
+
+
+>> we like to oh yes correct what we like
+
+
+to say is is I think this has actually
+
+
+kept us out a lot of trouble too which
+
+
+is like are we in the money 18 months
+
+
+out like that's how we think with a
+
+
+reasonable multiple are in the money 18
+
+
+months out and you know
+
+
+>> can you like unpack that? What what do
+
+
+you really mean?
+
+
+>> So like if we invest today and revenues
+
+
+are $20 million with a reasonable model.
+
+
+Yeah,
+
+
+>> at 18 months out
+
+
+are we in the money like with a
+
+
+reasonable multiple not 50 times
+
+
+revenues
+
+
+>> but do you why with your companies like
+
+
+the pacemaker company I don't want to
+
+
+pick on them so like 20 to 45 million
+
+
+which is great phenomenal fantastic but
+
+
+like who's going to buy that company
+
+
+>> I mean there's a line of strategics that
+
+
+would buy it there's private equity
+
+
+firms that would buy it um
+
+
+>> at a good multiple
+
+
+>> yeah we'd make great money by the way
+
+
+you know we forgot what I what did I pay
+
+
+for it Like, you know, we we good
+
+
+investment and good company are two very
+
+
+fundamentally different things, too. And
+
+
+you're trying to like get the union of
+
+
+both of them. Like, there's a lot of A+
+
+
+companies at Dminus prices. Yeah.
+
+
+>> Nor do I also want to buy a D-minus
+
+
+company at A+ price.
+
+
+>> Do you want to buy Do you not want to
+
+
+make that investment? You know, I'm
+
+
+always taught by most people on the show
+
+
+that I've never made money with a good
+
+
+deal.
+
+
+>> See, like I would strongly disagree with
+
+
+that statement. Like there are a lot of
+
+
+people that invested in good companies
+
+
+or great companies in 2020 and 2021 at
+
+
+really stupid prices and didn't make
+
+
+money. So it's like it's the
+
+
+intersection of both. It's not like
+
+
+you're not trying to buy a D asset at an
+
+
+A+ price that's like zero. But like if
+
+
+you can buy a B+ company at an A+ price,
+
+
+we have over the last 20 years, you can
+
+
+make like amazing riskadjusted returns.
+
+
+But we also buy A+ companies too. And
+
+
+you can buy like the the great thing is
+
+
+is can you do like structured
+
+
+secondaries or can you do like really
+
+
+unique things like some of the stuff
+
+
+Larry will do and will do. And can you
+
+
+buy an A+ company or an A company at
+
+
+like a a B a B minus C plus price? Those
+
+
+are like incredible deals. Um can you
+
+
+get in like cheap through buying out old
+
+
+LPs out of an old fund that need
+
+
+liquidity? Um by the way we're you know
+
+
+I joke that we're an Nvidia earnings
+
+
+miss away from like a recession. By the
+
+
+way, if you get that a bunch of old
+
+
+funds are going to be like, you know,
+
+
+they have horrible DPIs. You're gonna
+
+
+have all these LPs that are like, you
+
+
+know what, I'll sell an interest in my
+
+
+this 2013 fund or this 2015 fund and be
+
+
+able to buy stuff, you know, super
+
+
+cheap. But like, look, um, there are
+
+
+there also different beliefs. People are
+
+
+just like, oh, look, there are a lot of
+
+
+people in the venture business that are
+
+
+just like, I will pay anything because
+
+
+I'm trying to get like the power law and
+
+
+I'm trying to find the next Google.
+
+
+Would you not advise me though that
+
+
+actually when when you have a world
+
+
+where upside is relatively uncapped and
+
+
+you have trillion dollar companies or at
+
+
+least many more hundred billion dollar
+
+
+companies, I should be so much more
+
+
+elastic on my pre-billion dollar entry
+
+
+price and paying 300 or 600. I know.
+
+
+>> No, because most companies don't become
+
+
+that. Like the vast majority of it just
+
+
+depends what you tell your LPs. By the
+
+
+way, we tell our LPs make 2 to 5x in
+
+
+three to seven years. Rinse and repeat.
+
+
+generate two to two and a quarter x two
+
+
+to two and a halfx net funds with 29 RS
+
+
+and it turns out if you can do that over
+
+
+like a 20-year period of time you are
+
+
+like the best of the best
+
+
+>> dude I I I'm very good friends with
+
+
+Jason Lankin from SAS who on on a show
+
+
+with me very recently said oh [ __ ] this
+
+
+picking winners early stage stuff I just
+
+
+want to do an anthropic SPV it's much
+
+
+easier it's not easy to do this stuff um
+
+
+the uh I think there I think 50% of
+
+
+people in the venture business should
+
+
+not actually be in the business there's
+
+
+50% too many VCs. Maybe more. There
+
+
+might be 70. Actually, it's not only
+
+
+VCs. It's private equity alternative
+
+
+access.
+
+
+>> What makes you say that?
+
+
+>> There's there's too much money and
+
+
+there's like too many tourists and
+
+
+there's people that don't show like
+
+
+investing. You need to show discipline
+
+
+on price. Like go talk to the greatest
+
+
+venture investors in the planet and
+
+
+they'll be like um like price matters at
+
+
+the end of the day. Again, let's see
+
+
+what all these companies get out at at
+
+
+the end of the day that are valued in
+
+
+the trillions of dollars. There aren't
+
+
+that many of them to be clear. Um,
+
+
+right. And look how much earnings a
+
+
+company like Facebook and Google and
+
+
+Microsoft and Amazon and Nvidia generate
+
+
+like profits. I think there's a lot of
+
+
+companies that are way ahead of
+
+
+themselves in terms of like valuations
+
+
+and what their profit numbers will be at
+
+
+the end of the day.
+
+
+>> Do you think we will have more or less
+
+
+money in venture in three years time
+
+
+though?
+
+
+>> Probably less. I don't know in some
+
+
+point I don't know if it's 3 years or 5
+
+
+years or seven years for sure people are
+
+
+going to wake up in 20 in 2030 in 2032
+
+
+and realize it's oh my god they're still
+
+
+all in this stuff from 2012 and 2015
+
+
+like if you weren't selling when are you
+
+
+going to sell that's actually the best
+
+
+advice I would give to to to young fund
+
+
+managers and like people starting funds
+
+
+is liquidity windows open and close and
+
+
+when they are open take advantage of
+
+
+them like you should be selling even if
+
+
+you're winners. Sell 20%, sell 30%, sell
+
+
+5%. And like continue to get again your
+
+
+job is to return money like you know um
+
+
+>> companies are bought not sold.
+
+
+>> Yeah. Like I guess marks are opinions.
+
+
+DPI is math and so like you can no
+
+
+companies are bought not sold. That's
+
+
+not true. But you don't have to sell the
+
+
+whole company. If there's a round being
+
+
+done in a company that you're investors
+
+
+in, especially if you're if you're if
+
+
+you're a small new fund, you can go to
+
+
+the founder and be like, "Oh, founder,
+
+
+you've taken some money off the table.
+
+
+Like, I won't be in business in five
+
+
+years if you know if I can't get some
+
+
+liquidity back to our back to your
+
+
+company." By the way, you can do the
+
+
+math if if you build the next giant
+
+
+company and you you sell some at 500
+
+
+million or a billion, like who cares?
+
+
+Like, you still own 80 90% of your whole
+
+
+thing. But like LPs want money back and
+
+
+the people that stay in that are going
+
+
+to be in business 10, 15, 20 years from
+
+
+now are people that will continue to
+
+
+give money back to their investors.
+
+
+>> Are you seeing LP sentiment change today
+
+
+around what they care about? Do you
+
+
+think?
+
+
+>> Absolutely. I think you've started
+
+
+already seeing so we've always cared
+
+
+about DPI but um I think that the you
+
+
+know we've we've always been really
+
+
+disciplined 2 to 5x 3 to 7 years like
+
+
+hit it move on. You know, probably a
+
+
+third of our deals have been secondary
+
+
+sales. So, people have accused us of
+
+
+being traders. That's fine. Like, I
+
+
+guess I'm a trader, but you know what? I
+
+
+gave money back to my investors. And
+
+
+guess what? The investor like is my
+
+
+client. Like, they they you know, I have
+
+
+two clients, entrepreneurs and
+
+
+investors. Without investors, I don't
+
+
+have any money. I don't have a business.
+
+
+And so, like I think people need to re
+
+
+remember like who pays the bills. Um and
+
+
+I and I and I I do think that investors
+
+
+are very very very focused on DPI now
+
+
+and I think if you are and and it is
+
+
+possible with a small early stage fund
+
+
+as a new relative upcomer in the first
+
+
+couple funds you can actually generate
+
+
+amazing KPIs. It's a game you can play.
+
+
+I don't know if you've ever had like for
+
+
+Bris Grindon here or Jose Marin from
+
+
+from like FJ Labs. Those guys are like
+
+
+10 15 year LPs of ours friends. Those
+
+
+guys have played the game extremely
+
+
+well. They understand that not every
+
+
+company goes to the moon. Take some
+
+
+chips off the table, give it back to
+
+
+your investors, rinse and repeat.
+
+
+>> I think the advantage that a lot of
+
+
+these small funds have that most people
+
+
+don't consider is they're able to sell
+
+
+so much easier without really disturbing
+
+
+customers at all. If you're if respect
+
+
+to him, he can sell very easily and it's
+
+
+not a big problem. If you are Sequoia,
+
+
+>> correct? It's hard. It's like negative
+
+
+signaling 100%. Versus that's why I'm
+
+
+telling younger funds. It's you can be
+
+
+like to the entrepreneur, hey, you're
+
+
+selling some stock. I really need to
+
+
+sell some stock here. Why? Because if I
+
+
+don't return money back to my investors,
+
+
+like I won't we won't be talking in
+
+
+three years because I'll need to find a
+
+
+new job because I won't have I won't
+
+
+have my second fund.
+
+
+>> Do you worry about being a trader and
+
+
+that not being an attractive investor to
+
+
+founders?
+
+
+>> Nope. Because I believe if you uh help
+
+
+founders and do what you say you're
+
+
+going to do, now a lot of investors
+
+
+don't do that either. I I think there's
+
+
+50 60% of people in this industry that
+
+
+actually probably add negative value to
+
+
+companies. Um, but if you I the simplest
+
+
+lesson I think entrepreneurs anybody can
+
+
+learn and I learned it early in life is
+
+
+just if you say you're going to do
+
+
+something actually do it. Like the
+
+
+number of people that promise like
+
+
+overpromise and you know and underdel
+
+
+like be the reverse underpromise overd
+
+
+deliver. And so like if you've been
+
+
+really helpful to an entrepreneur,
+
+
+helped them recruit, helped them like,
+
+
+you know, uh helped them recruit, helped
+
+
+them like with customers, you sell 20%
+
+
+of your old endings, like who cares?
+
+
+Keep helping them. I mean, we have we
+
+
+have companies we've sold 100% of that
+
+
+we still help drive customers to. Like
+
+
+it's like great, by the way, great. You
+
+
+help me make like five times my money.
+
+
+Nobody else on the cap table is liquid.
+
+
+We sold all of our stock. I keep helping
+
+
+you, please. What are the most common
+
+
+ways you see investors provide negative
+
+
+value to companies for founders
+
+
+listening that they should watch out
+
+
+for? Burn money at all costs. Um,
+
+
+recruiting. They actually just act like
+
+
+they know how to run the business. By
+
+
+the way, I've never run a company in my
+
+
+life. By the way, I know have like 98%
+
+
+of venture investors or private equity
+
+
+investors get people around the table
+
+
+that have done what the entrepreneur is
+
+
+trying to do. So if like you're a $20
+
+
+million AI company or $20 million
+
+
+software company, find entrepreneurs
+
+
+around the table. Help the entre help
+
+
+the founder recruit people that have
+
+
+built businesses from 20 million to 200
+
+
+million and get them around the table
+
+
+and get out of the way is truly the
+
+
+advice that I I think and like I just
+
+
+think there's too many knuckleheads. You
+
+
+know, the worst is somebody, you know,
+
+
+who went to business Stanford business
+
+
+school, worked for 18 months at a
+
+
+startup and now comes in, you know, is a
+
+
+venture investor and now they're
+
+
+experts, right? Like I just think it's
+
+
+be humble and don't act like you know
+
+
+because most these myself included have
+
+
+never actually run up. I mean if you
+
+
+want to start a venture fund or growth
+
+
+equity fund I've done that I can give
+
+
+people advice on that but like if you're
+
+
+trying to figure out how to build out a
+
+
+great sales team go talk to great sales
+
+
+leaders and get advice from that. I
+
+
+actually think that's the best way that
+
+
+VCs and private equity people can help
+
+
+founders and entrepreneurs is connect
+
+
+them with people who have done it before
+
+
+and help them recruit. I truly think
+
+
+that's why SEOA and Benchmark are great
+
+
+and index are great because they help
+
+
+founders and entrepreneurs recruit
+
+
+amazing talent and and and people want
+
+
+to work for those funds portfolio
+
+
+companies.
+
+
+>> Dude, I just say I'm a switchboard. I
+
+
+honestly just feel like the women in the
+
+
+1960s, you know, connecting people all
+
+
+day cuz I'm like no idea how to do that.
+
+
+speak to my friend down CPO
+
+
+>> 100% great
+
+
+>> but no idea
+
+
+>> and I think that's what the best
+
+
+entrepreneurs actually want to
+
+
+>> 100%. Uh here's my mid view from seeing
+
+
+a load of companies. Uh no, don't want
+
+
+that. You you said there like oh a
+
+
+negative is like hey burn money burn
+
+
+money. They say burn money burn money
+
+
+cuz they need to see growth and they are
+
+
+looking at markets today going for me to
+
+
+get my next round of funding. The game's
+
+
+changed. It's no longer triple triple
+
+
+double double. It's I need you to go
+
+
+from zero to honestly 3040 for this to
+
+
+be interesting.
+
+
+>> Well that's about because that's because
+
+
+that's the price that they paid in the
+
+
+deal. like if you if you paid these
+
+
+asinine prices on the way in. By the
+
+
+way, what's what's really interesting to
+
+
+me in the market right now and we don't
+
+
+even see any of these deals cuz it's not
+
+
+what we do is it's like people that spin
+
+
+out of like are like leave anthropic or
+
+
+open AI and raise money at like $2
+
+
+billion or a billion dollars for a
+
+
+freaking idea. Like there's nothing more
+
+
+than an idea in a napkin. To us that
+
+
+seems complete lunacy. What I actually
+
+
+want to know have any of those ever
+
+
+actually worked ever? Like has anybody
+
+
+ever raised at some crazy price
+
+
+initially just like on an idea on a
+
+
+napkin like billions of dollars or $500
+
+
+million and if any of those things
+
+
+actually ever worked? I don't know
+
+
+>> anthropic.
+
+
+>> What was their first I don't know what
+
+
+the when did like Dustin Moscapus
+
+
+invest? I think it was pretty small.
+
+
+>> I it was like billions.
+
+
+>> No. No. I think the original seed deal
+
+
+was was like much lower than that.
+
+
+>> I don't know is the short answer but I
+
+
+thought like when Dustin and some of
+
+
+these guys invested like the seed it was
+
+
+like much lower. But I don't know. I
+
+
+mean the astonishing is Dustin will make
+
+
+more money from his anthropic investment
+
+
+than he will from definitely from
+
+
+>> definitely from I don't want to be
+
+
+>> on Facebook though I'm not sure
+
+
+>> yeah I'm not sure about that um we we
+
+
+said about kind of burn money and they
+
+
+want the growth is the triple triple
+
+
+double double debt there's so many SAS
+
+
+founders who ping me every day and
+
+
+they're like I've been told for 10 years
+
+
+you know triple triple double double and
+
+
+then we'll be in a good place to raise
+
+
+our next round I'm in that third year
+
+
+where I've doubled and I'm now gone from
+
+
+10 to 20 and no investor wants me. I
+
+
+think it's by the way that we by the way
+
+
+call us. We think those things are
+
+
+interesting because we can get them at
+
+
+potentially good prices. That's where it
+
+
+matters. Like what is your gross dollar
+
+
+retention? So we like here's the deal.
+
+
+That's the most important number in in
+
+
+tech companies, gross dollar retention.
+
+
+What I mean by gross dollar retention
+
+
+too, because everybody wants to quote
+
+
+nets is gross hour. You ended 24 with,
+
+
+you know, 2024 with
+
+
+20 million of revenue.
+
+
+What did those same what did you end at
+
+
+2025 with just those same customers?
+
+
+No upsells, just downells.
+
+
+You know,
+
+
+18 is good. Like you want like 90%.
+
+
+Um, anything less than 18 we won't
+
+
+touch. great is 19, incredible is 195.
+
+
+Like you're looking for 90% gross is
+
+
+good, 95% is great, 98 is amazing. Now
+
+
+the problem is a and by the way the
+
+
+reason why there's so much dead wood in
+
+
+venture and like all these living dead.
+
+
+There are so many companies with like 60
+
+
+70 80% gross dollar retention. Yeah,
+
+
+good luck. I don't and the problem. It's
+
+
+not when you're 10 million revenue
+
+
+that's the problem. It's when you get to
+
+
+like 150 million in revenue and you're
+
+
+like have 70% gross dollar attention.
+
+
+they're just like churning through. And
+
+
+so that's why like the company that's
+
+
+got 95 gross dollar attention can grow
+
+
+really fast and not burn much money
+
+
+because they're not spending money on
+
+
+sales marketing to fill up the bucket.
+
+
+If you're a Toma Bravo
+
+
+>> and you've got your Coopers and your
+
+
+Anna plans where the companies are kind
+
+
+of growing at best mid- teens,
+
+
+what what happens to this generation of
+
+
+growth equity PE investors in tech?
+
+
+>> So I look I think growth equity and like
+
+
+buyouts are very different. I think even
+
+
+buyouts are very okay. Like I think like
+
+
+people like Helman and Fre like if you
+
+
+want to go to the large cap people like
+
+
+Helman and Freriedman and um people like
+
+
+Promera are probably slightly more
+
+
+growth oriented and there are probably
+
+
+there are other firms that are probably
+
+
+more like margin focused. I think it's
+
+
+probably a function of how much debt
+
+
+they have on their companies. To be
+
+
+honest, I have not looked and spent tons
+
+
+of time like studying the the financials
+
+
+of Koopa software or you know Anoplan
+
+
+and things like that.
+
+
+If I was them like I know that all these
+
+
+companies they drive margins from 5% to
+
+
+40%. The question is how are they doing
+
+
+it which I actually don't know. I um I
+
+
+would hope that they've done it mainly
+
+
+through like cutting really inefficient
+
+
+go to market and sales marketing and
+
+
+GNA. I would hope they haven't taken the
+
+
+engineering sales headcount from 200 to
+
+
+20. I suspect they have not, but like
+
+
+that would worry me if if they had done
+
+
+that, but I suspect they have not. Like
+
+
+by the way, these people are really
+
+
+smart people. Like and the question is
+
+
+if those companies have been bought with
+
+
+no debt, then they they would be
+
+
+investing hugely, I'm sure, in AI stuff
+
+
+like that. They probably already are.
+
+
+But like for me, that's why what I said
+
+
+at the beginning, we worry
+
+
+about any company and any big
+
+
+technological disruption that is levered
+
+
+with a lot of debt on it. Regardless if
+
+
+it's a software company or a
+
+
+manufacturing company or an accounting
+
+
+services firm or an industrial services
+
+
+firm, whatever, like with debt, you're
+
+
+just like hamstrung with how much you
+
+
+can do because you have massive interest
+
+
+payments to buy. Do you not worry that
+
+
+given the casinoization of public
+
+
+markets and the volatility that ensues
+
+
+from a Figma where it rides up to where
+
+
+it is today in the gutter and Atlassian
+
+
+which is posting accelerating numbers
+
+
+and it's down 76%.
+
+
+>> You buy you buy a company like
+
+
+Atlassian. That would be my argument.
+
+
+>> Okay, fantastic. I agree. I think Mike's
+
+
+amazing. I think also founder like
+
+
+company
+
+
+>> if I'm Canva I'm looking at this going
+
+
+there's no [ __ ] way I'm going out if
+
+
+I'm Stripe I'm going thank you I feel
+
+
+very vindicated in my decision to stay
+
+
+private does this memeified stock market
+
+
+not just
+
+
+>> it's not good for LPS
+
+
+>> makes the liquidity problem worse
+
+
+>> correct so what will change it when LPs
+
+
+go to the biggest venture funds in the
+
+
+world and private equity funds and say
+
+
+we're not investing in your next fund
+
+
+until you get liquidity in these names.
+
+
+I mean that that's the reality of it. Um
+
+
+but I I don't I agree with founders by
+
+
+the way too. Um I do think there are
+
+
+look there are companies there is
+
+
+something to be said for a company going
+
+
+public. I'm friends with a bunch of guys
+
+
+that run big public.
+
+
+>> You just had equipment check.
+
+
+>> Yeah. And by the way they went public by
+
+
+the way stocks actually done quite well
+
+
+like um and actually it's like a
+
+
+derivative play. So it was our
+
+
+derivative play on AI because build data
+
+
+centers, right? You got to like get a
+
+
+shovel and you got to get like a dump
+
+
+truck. Um, but again, that was a company
+
+
+in 2020 and 21 that everybody thought
+
+
+was like a tech company. It's not a tech
+
+
+company. It's like an equipment rentals
+
+
+business run by a couple awesome
+
+
+founders that are like that are studs
+
+
+and like killers and you know, we were
+
+
+able to partner with them to buy a bunch
+
+
+of secondary from people that were like
+
+
+desperate to sell and like it's been an
+
+
+awesome
+
+
+>> So that's how you got into that
+
+
+business?
+
+
+>> Yeah. Bought a ton of secondary.
+
+
+>> You bought a ton of secondary from
+
+
+people who wanted to sell.
+
+
+>> Yeah. They were like, "Oh, this is a
+
+
+tech company." No, no, this is an
+
+
+equipment rentals business that uses
+
+
+some technology. It will have, you know,
+
+
+drive higher ebida margins and better
+
+
+utilization rates. And by the way, they
+
+
+went public because they want to like
+
+
+they they want to like get their brand
+
+
+well known. There are a bunch of
+
+
+companies out there, you know, like the
+
+
+Vivas of the world and data dogs and why
+
+
+those companies go public crowd strikes
+
+
+because big enterprise companies are
+
+
+like, "Hey, like are you know how big
+
+
+are you? Like are you are you like
+
+
+survivable?" Because you have the big
+
+
+public companies like being like, "Oh,
+
+
+Microsoft telling people like, "Oh, this
+
+
+company is going to go to business."
+
+
+You're like, "Not going to business.
+
+
+It's like a $30 billion company. And so
+
+
+like being public um being public helps
+
+
+I think with credibility on the flip
+
+
+side to the entrepreneur. I get why they
+
+
+don't go public. They got a billion
+
+
+dollars of cash or $2 billion of cash.
+
+
+But so I think it is so for us it's
+
+
+really about finding entrepreneurs that
+
+
+like we are very confident will be
+
+
+public company. Like we talk to them up
+
+
+front like listen if your plan is to try
+
+
+to stay private forever you're just not
+
+
+for us. Like we just don't want to
+
+
+invest in you. Not because we don't we
+
+
+don't disrespect you, but it's just like
+
+
+we need to get out of stuff. It's okay.
+
+
+>> Why? Given the fluidity of secondary
+
+
+markets, if you spoke to a Collison
+
+
+who's like, "Yeah, we absolutely want to
+
+
+stay private forever." And you're like,
+
+
+"Great, but I can there's very liquid
+
+
+secondary markets."
+
+
+>> Yeah, that's true. There is now. Um I
+
+
+just our view is we want to back
+
+
+entrepreneurs that if if we think the
+
+
+thing has a very good shot at going
+
+
+public, we want to hear from we want to
+
+
+hear from the entrepreneur. It's like
+
+
+look, I want to go public. By the way,
+
+
+you know how many more public companies
+
+
+there would be right now if these
+
+
+companies didn't have $600 million of
+
+
+cash in on the balance sheet or billion
+
+
+dollars of cash. If they only had 30
+
+
+million, they'd all be public companies.
+
+
+Um, just it's the amount of money that's
+
+
+available for these companies is
+
+
+incredible. Now, again, now who knows if
+
+
+I have legitimately no clue if like
+
+
+Stripe is trying to buy PayPal, but if
+
+
+they're trying to buy PayPal, they would
+
+
+probably rather be a public company
+
+
+right now to do it, unless they've got
+
+
+some sovereign wealth fund that's going
+
+
+to write them a $40 billion check. Like
+
+
+>> so just help me understand why would
+
+
+Stripe being public help them buy
+
+
+PayPal?
+
+
+>> Well, you I mean how are they going to
+
+
+pay for it now? I mean because if if
+
+
+Stripe wasund I don't know what I don't
+
+
+know what the market cap of
+
+
+>> $150 billion for Stripe.
+
+
+>> For if Stripe was worth 150 and PayPal's
+
+
+worth 50,
+
+
+>> well they'd have a liquid publicly
+
+
+traded stock that they could then merge
+
+
+together. They would be a cash offer and
+
+
+then they'd get the shareholders of
+
+
+PayPal get liquid stock and they would
+
+
+sell the stock. Like that that's a cash
+
+
+that's an all stock merger. That happens
+
+
+all the time as public companies. PayPal
+
+
+shareholders are not taking private
+
+
+stock in Stripe. Like that's not going
+
+
+to happen. Public companies don't do all
+
+
+cash offers. Now could they could they
+
+
+go public in a reverse in a reverse
+
+
+merger? Maybe that's the way. Maybe you
+
+
+reverse merger into um into PayPal
+
+
+again.
+
+
+>> There is no freaking way
+
+
+ever. The reality is is I think the only
+
+
+way it's a deal like that would happen
+
+
+then is like some sovereign wealth fund
+
+
+private equity funds don't have enough
+
+
+money to write like $40 billion checks
+
+
+in the in the companies. um into like
+
+
+the only so if Stripe if Stripe was
+
+
+really trying to buy PayPal again who
+
+
+knows it's even true um if they were if
+
+
+they were a public company right now and
+
+
+they were had $150 billion market cap it
+
+
+probably be less now because the stock
+
+
+market had gone down or whatever say it
+
+
+was 100 billion they would be able to do
+
+
+a like a public public merger like you
+
+
+could do one like it it gives them less
+
+
+flexibility to do big M&A like really
+
+
+big M&A obviously they have access to a
+
+
+lot of cash so they can go buy some like
+
+
+billion dollar company no problem
+
+
+>> do you think There is a massive
+
+
+disconnect between publics and privates
+
+
+when you look at a $150 billion stripe
+
+
+and a $45 billion aden and the same
+
+
+similarish transaction volume. I'm not
+
+
+using
+
+
+>> and those examples like I don't know um
+
+
+yes I mean we see rounds get done
+
+
+>> you know Wix is at 4.5 billion and
+
+
+raplets at 9 billion.
+
+
+>> Yes, correct. Exactly what you think. I
+
+
+mean it's kind of silly. It's like do
+
+
+these private market investors look at
+
+
+the public markets? Um,
+
+
+>> so should venture investors have more
+
+
+flexible mandates that allow them to
+
+
+adjust to asset classes where there is
+
+
+most opportunity at a given time?
+
+
+>> I think I think most um I think look it
+
+
+surprises me that more growth in private
+
+
+equity investors can't do publiclix
+
+
+inside their funds. I think he's
+
+
+opportunistically but like TCV can. I
+
+
+think Iconic can. Um I think GA probably
+
+
+can. So I guess probably people can. I
+
+
+might surprise a minute more people
+
+
+don't but I think like early stage
+
+
+venture is extremely different than
+
+
+going to back to going to buy Atlassian
+
+
+right now or going to buy workday or
+
+
+going to buy Salesforce or going to buy
+
+
+you know toast or something like that.
+
+
+But what surprises me is that more
+
+
+funds like you know if you were an early
+
+
+investor in Toast and you're fully out
+
+
+of it and you love the company and the
+
+
+stock's down like 60% like why not go
+
+
+buy it again? Like it surprises me more
+
+
+people don't do that.
+
+
+>> Totally get that. kind of going back to
+
+
+the equipment share style you said about
+
+
+that size of IPO a lot of people say the
+
+
+three to10 billion dollar IPO range is
+
+
+just you're too small for anyone to care
+
+
+it's not meaningful
+
+
+>> in terms of size to actual markets is
+
+
+that [ __ ] or is that fair in the
+
+
+world where like ETFs and passives have
+
+
+become huge and the number of
+
+
+fundamental investors is like shrinking
+
+
+I don't think you want to be a two to
+
+
+ideally you don't want to be like a 2
+
+
+to3 billion company but I don't think
+
+
+there's any reason you can be can't be a
+
+
+7 to10 billion company or 5 to10 billion
+
+
+company I Those are like legit. I think
+
+
+when you get like sub billion or two
+
+
+billion, it's like it's kind of just
+
+
+like a pain in the ass to be a public
+
+
+public company investor. But you can do
+
+
+it. Like who says you can't do it? Uh I
+
+
+actually we wish probably more would.
+
+
+Why? Because they'd be great small cap
+
+
+stocks and they could actually you can
+
+
+hold them for 10 years and make a ton of
+
+
+money. Like look at that folio. Like the
+
+
+thing was like I think like a billion
+
+
+two billion. I think it was last 700
+
+
+million mark capital went public and I
+
+
+don't know what it's done the last month
+
+
+or two but like it was like a 10x. You
+
+
+look at Shopify,
+
+
+>> correct? It's a $2 billion public
+
+
+company.
+
+
+>> Exactly. And by the way, that's that's
+
+
+what we would hope for. Like you want to
+
+
+find those next companies. You're
+
+
+>> saying you have to be a certain size in
+
+
+terms of publics. If you apply that to
+
+
+funds, we see $15 billion Andre and $10
+
+
+billion Thrive.
+
+
+>> I think it's insane. I think these funds
+
+
+are way too and like just do the math
+
+
+the fun math on like how they're clearly
+
+
+you you have to have the next open you
+
+
+have to have the next Google effectively
+
+
+or the math doesn't work I don't think
+
+
+and by the way you can I've even heard
+
+
+people say like you don't even have to
+
+
+have one of them you have had like two
+
+
+or three of them um the amount of money
+
+
+being thrown at some of these funds and
+
+
+like the size of the funds is
+
+
+astonishing to me I I hope they prove me
+
+
+wrong because it's like good for me too
+
+
+if these funs get so big, these
+
+
+companies get so big that they can buy a
+
+
+bunch of our companies like that. But um
+
+
+you know I respect people like benchmark
+
+
+or index like index is growing but it's
+
+
+still index can raise as much money as
+
+
+it wants.
+
+
+>> Yeah. And it's actually relative a bit
+
+
+billion five or whatever it is.
+
+
+>> Index is tiny compared to these other
+
+
+ones like and by the way those guys are
+
+
+the best in the world like uh and so you
+
+
+know it's just like I think it just gets
+
+
+really hard like it's crazy like I
+
+
+>> wh why let me push back on you there.
+
+
+There's 9 billion in Thrive's growth
+
+
+fund. If they aren't able to put two3
+
+
+billion into cursor or into data bricks,
+
+
+you can break.
+
+
+>> Yeah, but you're just you have to run to
+
+
+write like a $150 billion companies.
+
+
+Like that's really freaking big. By the
+
+
+way, it's steady state companies trade
+
+
+at 10 times earnings. Like I mean that's
+
+
+just what historically we can argue. Is
+
+
+it 12? Is it eight? Like at steady state
+
+
+when they don't really grow they trade
+
+
+at 10 times earnings. If you invest in
+
+
+something that's worth like it's worth a
+
+
+hundred billion, you're effectively
+
+
+saying to make a double with delution,
+
+
+it's probably $250 billion. Like that's
+
+
+making the bet it's going to do $2
+
+
+billion of earnings. There aren't that
+
+
+many companies that do $25 billion of
+
+
+earnings. Like it's freaking hard. Like
+
+
+it's um so I I now again that doesn't
+
+
+mean you can't make a lot of money
+
+
+between then and the steady state. Um
+
+
+you know if they go out and it's grown
+
+
+50% a year, but again I would say
+
+
+there's too much money chasing too few
+
+
+things. But again, AI is gonna create a
+
+
+bunch of great new companies. And so
+
+
+like again, and these guys probably will
+
+
+go find, if anybody's going to be on the
+
+
+bandwagon to find the next giant
+
+
+company, the you know, the social media
+
+
+equivalent in the next 5 years, it will
+
+
+probably be one of these funds. And so
+
+
+like I see I can see the argument as
+
+
+well.
+
+
+>> Everyone says that you need to be big or
+
+
+boutique. So does that do you agree that
+
+
+you die in the middle?
+
+
+>> No, I don't think so. I wouldn't bet
+
+
+against people like benchmark or index
+
+
+at all. I think you can stay you can
+
+
+stay nimble. um they will just those
+
+
+funds will invest earlier and they you
+
+
+know they probably won't obviously their
+
+
+their percentage ownership along the way
+
+
+will just get diluted over time but like
+
+
+if anybody's going to find the next I
+
+
+would I would give index or benchmark
+
+
+just as much probability to find the
+
+
+next open AI or anthropic is as Thrive
+
+
+or um you know anybody else. I you seem
+
+
+very focused on praising index which I
+
+
+love that I have no idea. No, I love
+
+
+Danny and Danny's friend.
+
+
+>> What specifically about index is
+
+
+impressive.
+
+
+>> I just think like watching just looking
+
+
+at the returns like it's just the
+
+
+returns in the funds like it's math like
+
+
+look at their DPIs they are amazing
+
+
+investors and like there's a lot of
+
+
+people that get lucky like one or two
+
+
+funds but if you can do this over like a
+
+
+20 30 year period and consistently put
+
+
+up like worldclass returns you're doing
+
+
+something like very unique. Does
+
+
+kingmaking exist? Kingmaking is when you
+
+
+get Sequoa and Andre and then Benchmark
+
+
+and then D and the names are so good and
+
+
+the money is so much that you make the
+
+
+winner in the market. No one else wants
+
+
+to go in because there's the Sequoia
+
+
+funded company which then got iconic and
+
+
+then got
+
+
+>> and got everything else. But then yeah,
+
+
+what you're seeing now is there's like
+
+
+so much money. There'll be like multiple
+
+
+players in that space. Um, but anth I
+
+
+give the guys at Menllo a huge I give
+
+
+like Matt Murphy's a buddy of mine a
+
+
+huge amount of credit. Like when they
+
+
+did anthropic, it was not obvious. Like
+
+
+it was highly it was like are you nuts?
+
+
+Like um and look I mean he's right. So
+
+
+>> totally agree. Let's do a quick fire
+
+
+around. My friend, what have you changed
+
+
+your mind on in the last 12 months?
+
+
+>> That I think AI is even going to be
+
+
+bigger than we thought it would be. like
+
+
+it's it's going to change the world in
+
+
+like so many more areas that we're not
+
+
+even like thinking about.
+
+
+>> What's the single most memorable first
+
+
+founder meeting you've had?
+
+
+>> Nat Freeman, founder of Zamron. We ne we
+
+
+uh we we whiteboarded how to save money
+
+
+with Starwood Airline Points and like uh
+
+
+and sorry, Starwood Hotel points and
+
+
+Delta Airline Points. Like he's just
+
+
+like a great humble guy like normal guy
+
+
+like and he runs obviously AI at
+
+
+Facebook. You can invest in one seed
+
+
+firm, one series A firm, and one growth
+
+
+firm. Which do you choose?
+
+
+>> A series A fund would probably be
+
+
+benchmark.
+
+
+Um,
+
+
+growth fund
+
+
+would be myself because that mean that's
+
+
+what I invest in. I have a huge amount
+
+
+of respect for the guys at Iconic,
+
+
+though. We don't really compete against
+
+
+them because they're more Silicon
+
+
+Valley. We're outside Silicon Valley
+
+
+>> seed fund.
+
+
+I don't know. on the seed fund stuff.
+
+
+It's it's like oh another one we don't
+
+
+have much experience with them but I
+
+
+think the found I mean the founder fund
+
+
+guys have like the returns are totally
+
+
+nuts. Um so that would be another really
+
+
+good fun as well.
+
+
+>> What's been the hardest decision you've
+
+
+made in your career? The
+
+
+>> hardest decision has been
+
+
+to to hire people that have the kind of
+
+
+same
+
+
+um view on how to generate returns. And
+
+
+so it's like you're a cohesive group. I
+
+
+think that's like just like the hardest
+
+
+like you can
+
+
+>> because yours isn't the sexy way.
+
+
+>> It's not the sexy way. Correct. And so
+
+
+for young people the hardest decision is
+
+
+actually the hardest decision was did we
+
+
+should should we have in like n 2017 and
+
+
+18 like and 16 like pay like when
+
+
+everybody when we were paying five to
+
+
+seven times revenues for software
+
+
+companies and Iconic came in and started
+
+
+paying 10 times and just like winning
+
+
+the best deals and prices. We're like,
+
+
+we know these are the best companies.
+
+
+Should we do these deals? We did not. We
+
+
+were wrong.
+
+
+>> What was the biggest miss and how did
+
+
+that change your mindset?
+
+
+>> Oh, I mean like uh I mean Procore, we
+
+
+were in it tiny amount. We did the deal
+
+
+with Bessmer, put a tiny amount of money
+
+
+in and like we were in a position to
+
+
+lead the next round that I kind of did
+
+
+and then two rounds later we sold to
+
+
+him. Now again, this the decision to
+
+
+sell actually wasn't that big a deal
+
+
+because it wasn't that big a position.
+
+
+No, I mean the stake was not actually
+
+
+investing. Oh, I don't know. We also got
+
+
+$2 million in the Shopify IPO because we
+
+
+knew the founders and um that would have
+
+
+returned our second fund like 2x had we
+
+
+just not sold the stock like didn't have
+
+
+to do anything.
+
+
+>> What investor do you most respect who
+
+
+does not get spotlight? Probably my
+
+
+partner Nect actually. Um I just think
+
+
+he's like insanely disciplined. His like
+
+
+you know like the like loss ratios. I I
+
+
+mean maybe lost I don't think he's ever
+
+
+lost money. Maybe he's lost money in one
+
+
+deal ever. Um no. Okay. He's never had
+
+
+10 X's or 20 X's either. Probably my
+
+
+part anyway.
+
+
+>> Final one. What are you most excited for
+
+
+when you think about the next 10 years?
+
+
+>> Actually, what I'm the most excited
+
+
+about is there's going to be a really
+
+
+bad downturn. It's going to be, you
+
+
+know, it's different than 99 and 2000,
+
+
+but there's going to be a really big big
+
+
+downturn. And like markets just don't go
+
+
+up forever. Economies just don't go up
+
+
+forever. Uh I think there's a lot of
+
+
+policies in the government in the world
+
+
+like right now that might end really
+
+
+bad. That'll be and I think it's going
+
+
+to happen in the next 10 years. That'll
+
+
+be the best time ever to invest. And
+
+
+with combined like the productivity
+
+
+booms like that you're gonna have with
+
+
+AI, it's like you avoid the gen one AI
+
+
+companies just like you know if you had
+
+
+avoided the you know internet 1.0
+
+
+companies and then think about all the
+
+
+internet the the internet companies that
+
+
+were started in like 03 to like 06 and
+
+
+like I think the same thing could happen
+
+
+with AI which again could benefit like
+
+
+an anthro like a thrive or a Andre who
+
+
+are raising these new giant funds and
+
+
+they could potentially invest it during
+
+
+those periods as well. always have money
+
+
+to play the game.
+
+
+>> Correct. If Yeah. If you don't have
+
+
+money, you're out of the game. So,
+
+
+>> dude, this has been such a pleasure.
+
+
+Thank you so much.
+
+
+>> Thanks for having me in.

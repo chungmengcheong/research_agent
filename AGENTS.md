@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository tracks business-, capability-, and market-focused intelligence from Techmeme.
+This repository tracks business-, capability-, and market-focused intelligence from recurring source inputs.
 
 The goal is not to summarize news for its own sake. The goal is to build and maintain a small set of sharp, testable views that matter for:
 - investing
@@ -15,10 +15,12 @@ The goal is not to summarize news for its own sake. The goal is to build and mai
 
 - Daily notes: `notes/`
 - Durable synthesis: `notes/synthesized_implications.md`
+- New curated transcripts to process: `transcripts/new/`
+- Archived processed transcripts: `transcripts/archived/`
 
 ## System
 
-This repository has two layers:
+This repository has three layers:
 
 1. **Daily notes**
    - additive
@@ -32,7 +34,13 @@ This repository has two layers:
    - track candidate hypotheses not yet promoted
    - should change only when repeated evidence or a clearly important development justifies it
 
-Daily notes should inform the synthesis. The synthesis should inform how daily items are classified.
+3. **Curated transcript inputs**
+   - operator essays, podcast transcripts, and other manually curated interpretive sources
+   - used primarily at synthesis time, not as a default part of the daily-news flow
+   - can surface missing hypotheses, sharpen existing views, and contribute concrete datapoints
+   - should not be treated as equivalent to ordinary reported-news evidence
+
+Daily notes should inform the synthesis. Curated transcripts should help interpret, challenge, and extend the synthesis. The synthesis should inform how daily items are classified.
 
 The system should be conservative about promotion, but not conservative about noticing.
 
@@ -40,6 +48,83 @@ If `notes/synthesized_implications.md` does not yet exist or is materially thin:
 - compare primarily against recent daily notes
 - use `Watch` more often
 - avoid pretending a durable synthesis already exists
+
+## Source registry and default flow
+
+See `SOURCES.md` for the canonical list of named sources, source types, quality levels, and how each source should be used.
+
+Default workflow:
+- Daily notes use the default daily-news source(s) listed in `SOURCES.md`
+- Synthesis uses recent daily notes, `notes/synthesized_implications.md`, and additional synthesis inputs listed in `SOURCES.md`
+
+### How to use source types
+
+- **Reported news** and **primary sources** should do most of the work in daily notes and in 'current evidence' / 'evidence against'.
+- **Curated interpretive sources** should mostly help with:
+  - 'why we believe this'
+  - surfacing missing hypotheses
+  - sharpening implications
+  - adding concrete datapoints not already captured elsewhere
+- **Speculative sources** should not drive active hypotheses by themselves.
+
+A curated transcript can introduce a hypothesis faster than it can confirm one.
+
+## Source quality
+
+Assume curated transcripts are manually selected for quality, but still distinguish:
+- **high-confidence datapoints**
+- **first-hand operator observations**
+- **interpretations**
+- **speculation**
+
+Do not collapse those into one blob.
+
+### Source weighting
+
+Use source type and source quality to determine how much weight to place on a source.
+
+#### By source type
+
+- **Reported news**
+  - Best for: observed developments, external reactions, launches, partnerships, funding, regulation, market signals
+  - Can support: daily notes, `current evidence`, `evidence against`
+  - Should not by itself define `why we believe this` unless the pattern repeats
+
+- **Primary sources**
+  - Best for: concrete company, product, pricing, launch, filing, or executive claims
+  - Can support: daily notes, `current evidence`, `evidence against`
+  - Treat company claims as strong on facts about what the company says or launched, but not automatically as proof of market impact
+
+- **Curated interpretive sources**
+  - Best for: `why we believe this`, sharpening implications, surfacing missing hypotheses, and extracting occasional concrete datapoints
+  - Usually should not be the main basis for `current evidence` or `evidence against` unless the source provides unusually strong first-hand operator evidence or a highly material datapoint
+  - A curated interpretive source can justify a candidate hypothesis faster than an active hypothesis
+
+- **Speculative sources**
+  - Best for: watchlist only
+  - Should not drive active hypotheses by themselves
+
+#### By quality level
+
+- **High**
+  - Can materially shape synthesis if the source role fits
+  - Still respect source type limits
+
+- **Medium**
+  - Useful for sharpening interpretation and surfacing candidate hypotheses
+  - Prefer confirmation from daily notes or primary sources before promotion to an active hypothesis
+
+- **Low**
+  - Use mainly for watchlist items, weak signals, or low-confidence interpretation
+  - Do not let these sources drive active hypotheses by themselves
+
+
+#### Tie-break rules
+
+- If reported news / primary sources and curated interpretation disagree, prefer the reported or primary evidence unless the curated source has unusually strong first-hand information.
+- If a source is strong on interpretation but weak on facts, use it to sharpen `why we believe this`, not to populate `current evidence`.
+- If multiple curated sources repeat the same idea, do not treat that as equivalent to repeated independent evidence from the world.
+- Preserve provenance. Do not let opinion-derived interpretation quietly turn into fact.
 
 ## Core judgment rules
 
@@ -53,6 +138,8 @@ If `notes/synthesized_implications.md` does not yet exist or is materially thin:
 - Do not force a startup, product, or market implication unless it is reasonably supported.
 - Important but not yet interpretable developments are allowed. Capture them as `Watch` bullets instead of forcing a stronger read than the evidence supports.
 - Do not force all meaningful developments into the existing hypothesis set. Preserve repeated or surprising signals even when they do not fit the current map.
+- Do not treat curated transcripts as equivalent to daily reported news. Use them to sharpen interpretation, not to blur provenance.
+
 
 ## Style
 
@@ -211,6 +298,26 @@ When a development seems important but the readthrough is still unclear:
 - briefly note why it may matter
 - avoid forcing a stronger interpretation than the evidence supports
 
+### Transcript datapoint writeback rule
+
+Curated transcripts are not part of the default daily-notes pass.
+
+However, the synthesis step may write back a small number of concrete datapoints from curated transcripts into the current monthly daily note file when all of the following are true:
+- the datapoint is factual, not just interpretive
+- it is material enough to matter later
+- it is not already captured in the daily notes
+- provenance remains visible
+
+When writing back a datapoint from a transcript:
+- place it in the most relevant existing daily-notes section
+- begin with `Curated-source datapoint:`
+- state the source briefly
+- do not rewrite the whole daily note
+- do not write back pure opinion or speculative interpretation
+
+Example:
+- Curated-source datapoint: In a 2026-03-27 All-In transcript, panelists claimed Anthropic added roughly $6B of annual run-rate revenue in February alone. If true, that would materially strengthen the enterprise-coding adoption thesis. [Watch]
+
 ## Better idea generation
 
 The goal is not to generate the first obvious adjacent idea. The goal is to generate a small number of ideas that are non-obvious, plausible, and valuable.
@@ -262,6 +369,12 @@ Daily notes should be treated as evidence that:
 - creates a new active hypothesis
 - or points to a potentially important missing hypothesis
 
+Curated transcripts should be treated as:
+- interpretation inputs
+- hypothesis seeds
+- challenge inputs
+- and occasional sources of concrete datapoints
+
 A good synthesis review should ask:
 - What active views were reinforced?
 - What active views were challenged?
@@ -312,6 +425,8 @@ Each candidate hypothesis should include:
 - Keep the synthesis evidence-centric.
 - `Current evidence` should be drawn from recent daily notes and should contain concrete observed support for the hypothesis.
 - `Evidence against` should also be drawn from recent daily notes and should contain concrete observed signals that cut against the hypothesis.
+- Curated transcripts may contribute to `why we believe this`, sharpen implications, and surface candidate hypotheses.
+- Curated transcripts may also contribute concrete datapoints, but provenance should remain visible.
 - Do not fill either section with generic theory, hypothetical signposts, or abstract “things to watch.”
 - Use `Business / product strategy` to discuss operating tensions, adoption friction, or strategic tradeoffs that matter if the hypothesis is true.
 - Keep each view sharp enough to drive investment, strategy, or operating edge.
@@ -320,7 +435,12 @@ Each candidate hypothesis should include:
 ### Evidence discipline
 
 - Current evidence should include actual observed facts, patterns, or developments that support the view.
-- Evidence against should include actual observed facts or patterns from daily notes that cut against the view.
+- Evidence against should include actual observed facts or patterns that cut against the view.
+- When evidence comes from curated transcripts, distinguish between:
+  - factual datapoints
+  - first-hand operator observations
+  - interpretation
+  - speculation
 - Do not create fake certainty out of sparse evidence.
 - If evidence is mixed, say so plainly.
 
@@ -339,18 +459,21 @@ Use different evidence windows for different synthesis tasks.
 - When deciding whether to create or promote a **new hypothesis**, focus mainly on whether a theme appears repeatedly and meaningfully within the last **6–12 weeks**
 - When deciding whether to **strengthen or challenge** an existing hypothesis, consider the last **6–12 weeks** of daily notes, along with the current synthesis entry
 - A single development may justify immediate promotion if it is clearly a step-change event with durable strategic significance
+- A curated transcript may justify a new candidate hypothesis faster than it can justify a promoted active hypothesis
 
 ### Promotion rule
 
 A new theme should usually be promoted into an active hypothesis only when:
-- it appears meaningfully on at least **3 separate days within roughly 3–6 weeks**, or
-- a single development is clearly a **step-change event** with durable strategic significance
+- it appears meaningfully on at least **3 separate days within roughly 3–6 weeks**
+- or a single development is clearly a **step-change event** with durable strategic significance
+- or a curated source contains unusually strong first-hand evidence that materially changes the map
 
 ### Search discipline
 
 - Do not scan the entire daily-note history indiscriminately for every synthesis run.
 - Avoid stitching together sparse mentions across distant periods and calling them a durable trend.
 - Use recent daily notes to assess what is happening now.
+- Use curated transcripts to sharpen interpretation, not to replace observation.
 - Use the synthesis document to preserve longer-term memory of prior views.
 
 ### Practical default
@@ -359,7 +482,7 @@ Unless there is a reason to go further back, a synthesis run should usually revi
 - the current monthly daily file
 - the prior monthly daily file if needed
 - the full `notes/synthesized_implications.md` document
-
+- every file in `transcripts/new/`
 
 ## Hard caps
 
@@ -373,6 +496,31 @@ Ideas:
 - Investment ideas: max 3
 - Startup ideas: max 3
 - Product ideas: max 3
+
+
+## Change management
+
+At the end of each run, provide a short changelog stating:
+- what was added
+- whether the synthesis changed
+- what was strengthened, challenged, promoted, merged, split, or left unchanged
+- any candidate hypotheses added or reviewed
+- which curated transcripts were processed
+- whether any curated-source datapoints were written back into daily notes
+- any notable uncertainty
+
+## Monthly file rollover for daily notes
+
+Daily notes are stored in one file per calendar month in `notes/`, using the filename format: `YYYY-MM.md`
+
+When updating daily notes:
+- determine today's date first
+- use the file for the current calendar month
+- if that file does not exist, create it
+- if creating a new monthly file, initialize it with a top-level title: `# YYYY-MM Daily Notes`
+- then append the new dated entry under that file
+
+Never append a new month's dated entries to the prior month's file.
 
 ## Writing examples
 
@@ -400,24 +548,3 @@ Bad:
 Better:
 - Build features that return something usable, like a chart, a step-by-step flow, or a draft the user can act on.
 
-## Change management
-
-At the end of each run, provide a short changelog stating:
-- what was added
-- whether the synthesis changed
-- what was strengthened, challenged, promoted, merged, split, or left unchanged
-- any candidate hypotheses added or reviewed
-- any notable uncertainty
-
-## Monthly file rollover for daily notes
-
-Daily notes are stored in one file per calendar month in `notes/`, using the filename format: `YYYY-MM.md`
-
-When updating daily notes:
-- determine today's date first
-- use the file for the current calendar month
-- if that file does not exist, create it
-- if creating a new monthly file, initialize it with a top-level title: `# YYYY-MM Daily Notes`
-- then append the new dated entry under that file
-
-Never append a new month's dated entries to the prior month's file.

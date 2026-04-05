@@ -1,20 +1,21 @@
 ---
 name: daily-notes
-description: Update the current monthly Techmeme daily notes file. Use this when the task is to review the current Techmeme front page and append one selective, business- and capability-focused daily entry to 'notes/'. Do not use this skill for updating the synthesized implications document.
+description: Update the current monthly daily notes file from Reported News and Primary Source developments. Do not use this skill for transcript interpretation or synthesis updates.
 ---
 
 Read:
 - AGENTS.md
 - notes/synthesized_implications.md, if it exists
-- the current monthly file in notes/daily/
+- the current monthly file in `notes/`
 - recent adjacent daily notes files if useful
 
-Then review the current Techmeme front page.
+Then review the **Reported News** and any closely linked primary-source items needed to interpret the day’s developments.
 
 Task:
-- append one new dated entry to the current monthly file in notes/daily/
+- append one new dated entry to the current monthly file in `notes/`
 - do not rewrite prior entries except to fix an obvious formatting issue
 - do not update notes/synthesized_implications.md
+- do not process curated transcripts in transcripts/new/
 
 Follow AGENTS.md for:
 - structure
@@ -37,6 +38,7 @@ Run-specific reminders:
 - Do not force every important development into an existing house view.
 - Preserve signals that may point to a missing hypothesis, especially if they are repeated, surprising, or not well explained by the current synthesis.
 - Prefer bullets that help test or update an active or candidate hypothesis.
+- Keep this skill focused on observed developments, not curated opinion sources.
 
 At the end, provide a short changelog:
 - what was added
