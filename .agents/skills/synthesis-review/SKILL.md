@@ -29,6 +29,11 @@ Follow AGENTS.md for:
 - merge / split / challenge logic
 - transcript source handling
 
+Follow SOURCES.md for:
+- source type
+- source quality
+- intended use of each named source
+
 Run-specific reminders:
 - No change is a normal outcome.
 - Most runs should result in no edit or only a small targeted edit.
@@ -36,6 +41,8 @@ Run-specific reminders:
 - Maintain a small number of sharp house views, not a broad catalog.
 - Also look for important hypotheses the current synthesis may be missing.
 - Do not force new evidence into an existing hypothesis if it fits poorly.
+- Avoid worldview lock-in. Use transcripts not just to confirm existing hypotheses, but to detect ideas the current map may miss.
+- Discovery should come before targeted confirmation.
 - Weight sources using `SOURCES.md` and AGENTS.md source-weighting rules.
 - Reported news and primary sources should do most of the work in `current evidence` and `evidence against`.
 - Curated interpretive sources should do most of the work in `why we believe this`, candidate hypotheses, and sharpening implications.
@@ -63,6 +70,22 @@ Run-specific reminders:
 Transcript-processing review:
 - For each transcript in `transcripts/new/`:
   - identify the source and date
+  - check `SOURCES.md` for source type, quality, and intended use
+  - start with a brief open-ended scan before any targeted search
+  - identify:
+    - the main themes discussed
+    - surprising claims
+    - repeated claims
+    - ideas that do not fit the current active or candidate hypotheses
+    - second-order effects that may matter
+  - explicitly ask:
+    - What is in this transcript that is not well explained by the current worldview?
+    - What would I miss if I only searched for current hypothesis keywords?
+  - only after the open-ended scan, use targeted search to pull the exact sections needed for:
+    - synthesis updates
+    - candidate hypotheses
+    - sharper implications
+    - daily-note writeback datapoints
   - extract the strongest non-obvious implications or hypothesis seeds
   - extract any material factual datapoints
   - classify each extracted item as datapoint, operator observation, interpretation, or speculation
@@ -72,7 +95,18 @@ Transcript-processing review:
     - supports a candidate hypothesis
     - suggests a missing hypothesis
     - merits a daily-notes writeback datapoint
-  - if fully processed, move it to transcripts/archived/
+  - use curated interpretive sources not just to test hypotheses, but also to sharpen the implications of those hypotheses
+  - in particular, look for whether a transcript improves the specificity of:
+    - likely longs
+    - likely shorts
+    - business / product strategy moves
+    - startup ideas
+  - a transcript is fully processed only when:
+    - the strongest implications or hypothesis seeds have been extracted
+    - any material datapoints have been extracted
+    - the synthesis has been updated if warranted
+    - any justified daily-note writeback datapoints have been added
+  - if fully processed, move it to `transcripts/archived/`
 
 Missing-hypothesis review:
 - After reviewing the evidence, explicitly ask:

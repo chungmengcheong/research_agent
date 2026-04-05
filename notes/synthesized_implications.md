@@ -271,6 +271,54 @@ This view also has a darker implication. Strategic infrastructure becomes a targ
 
 ---
 
+### 6. The first big AI revenue pools are likely to form in heavy-use enterprise workflows before broad assistant seats
+
+**Status:** New  
+
+**Why we believe this**
+
+Broad assistant seats spread usage, but they do not reliably turn into paid pull.
+
+The clearer early monetization pattern is showing up in places where AI does expensive work again and again, touches a real operating budget, and can be judged by completed output.
+
+Coding is the clearest example so far. It sits close to enterprise IT budgets, burns enough usage to matter, and produces output teams can review and ship.
+
+This also changes pricing. Flat-rate plans look most fragile where users run agentic workflows hard. Vendors should move faster toward usage-tied, workflow-tied, or outcome-tied pricing than many software buyers still expect.
+
+Curated-source operator observation: In a 2026-03-27 All-In transcript, panelists argued that coding opened enterprise IT budgets faster than broad assistant use. They also claimed Anthropic added about $6 billion of annual run-rate revenue in February alone. That claim still needs independent confirmation, but the framing fits the broader daily-note pattern.
+
+**Current evidence**
+- Bloomberg reported Microsoft hit internal Copilot sales goals after shifting its sales strategy, but only 3% of customers were paying for Copilot as of January. That suggests broad assistant distribution does not automatically create paid pull.
+- Anthropic said Claude subscriptions will stop covering third-party harnesses like OpenClaw because those usage patterns were not what the plans were built for. That suggests heavy-use agent workflows break flat-rate pricing faster than casual assistant use does.
+- OpenAI shut down Sora and its API after usage fell and the product kept burning expensive compute. That suggests high-compute AI products can still lose resources if they do not attach to a repeated workflow or a real revenue line.
+- PwC said it plans to turn services into AI-powered tools while moving away from pure hourly billing. That points toward AI monetization being tied more tightly to delivered work than to broad seat expansion.
+
+**Evidence against**
+- OpenAI plans to merge ChatGPT, Codex, and its browser into a desktop superapp. That suggests a broad or mixed-use assistant surface could still become a very large business if one product captures the full work loop.
+- Microsoft is still pushing Copilot through large suite distribution and Google keeps adding AI into products with repeated daily use. Broad assistant behavior may still turn into a meaningful revenue pool later even if current paid pull looks mixed.
+
+**Implications**
+
+- **Investments**
+  - **Longs:** workflow owners and AI products tied to repeated expensive work, plus vendors that can meter, route, and govern heavy use
+    Representative public proxies: Microsoft (MSFT), ServiceNow (NOW), and Intuit (INTU).
+    These sit close to coding, enterprise workflow, and financial work where AI can attach to a real budget faster than a general assistant seat can.
+  - **Shorts:** there is no clean direct public short yet
+    The better underweights are software names leaning on generic assistant-seat upsell without a repeated workflow or a stable heavy-use pricing model.
+
+- **Business / product strategy**
+  - Start with repeated expensive work, not a general assistant surface.
+  - Price AI by completed work, high-use quota, or measured throughput when possible.
+  - Expect heavy users to break flat-rate plans. Build usage controls, routing, and review loops early.
+  - Consumer reach can still help with acquisition, but enterprise revenue needs admin controls, integration, and a clear buyer budget.
+
+- **Startup ideas**
+  - Build AI products around repeated expensive workflows where spend can be tied to delivered work.
+  - Build billing and cost-control layers for agentic products that need to move beyond flat-rate plans.
+  - Build workflow-native AI for service firms or internal teams that want AI to complete auditable work, not just draft it.
+
+---
+
 
 ## Candidate hypotheses not yet promoted
 
@@ -313,30 +361,3 @@ That would shift advantage toward products that can prove where data goes, what 
 
 **Why it is not promoted yet**
 - The pattern is real across several March entries, but the notes still show design pressure more than proven market structure. It looks early to call this a durable winner-selection mechanism rather than an emerging requirement.
-
----
-
-### C. The first big AI revenue pools may be heavy-use enterprise workflows, not broad assistant seats
-
-**Why it might matter**
-
-AI demand may show up first where users run expensive workflows again and again, can tie spend to delivered work, and already sit inside real budgets.
-
-That would favor coding, enterprise execution, and outcome-tied products over broad assistant seats sold mostly on general usefulness.
-
-It would also push vendors toward metered, workflow-tied, or outcome-tied pricing faster than many software buyers expect.
-
-**Current evidence**
-- Bloomberg reported Microsoft hit internal Copilot sales goals after shifting its sales strategy, but only 3% of customers were paying for Copilot as of January. That suggests broad assistant distribution does not automatically create paid pull.
-- Anthropic said Claude subscriptions will stop covering third-party harnesses like OpenClaw because those usage patterns were not what the plans were built for. That suggests flat-rate AI pricing gets unstable once agents loop heavily.
-- OpenAI shut down Sora and its API after usage fell and the product kept burning expensive compute. That suggests high-compute AI products can still lose resources if they do not attach to a strong workflow or revenue line.
-- PwC said it plans to turn services into AI-powered tools while moving away from pure hourly billing. That points toward AI monetization being tied more tightly to delivered work than to legacy pricing models.
-- Curated-source datapoint: In a 2026-03-27 All-In transcript, panelists claimed Anthropic added about $6 billion of annual run-rate revenue in February alone and framed coding as the gateway into enterprise IT budgets. If directionally right, that suggests enterprise coding may be one of the first AI categories with truly large revenue pull.
-
-**What is still missing**
-- Independent confirmation on Anthropic's reported revenue burst and clearer proof it reflects durable usage rather than one-off contracting or recognition differences.
-- More examples across categories showing the same pattern outside coding and a handful of frontier vendors.
-- Proof that metered or outcome-tied pricing can hold margins once competition and model costs normalize.
-
-**Why it is not promoted yet**
-- The pattern is visible, but it is still concentrated in a few products and business models. It looks more like an emerging monetization split than a settled market structure.

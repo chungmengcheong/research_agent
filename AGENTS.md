@@ -63,7 +63,10 @@ Default workflow:
 - **Curated interpretive sources** should mostly help with:
   - 'why we believe this'
   - surfacing missing hypotheses
-  - sharpening implications
+  - refining implications
+    - investment ideas
+    - business / product strategy
+    - startup ideas
   - adding concrete datapoints not already captured elsewhere
 - **Speculative sources** should not drive active hypotheses by themselves.
 
@@ -431,6 +434,13 @@ Each candidate hypothesis should include:
 - Use `Business / product strategy` to discuss operating tensions, adoption friction, or strategic tradeoffs that matter if the hypothesis is true.
 - Keep each view sharp enough to drive investment, strategy, or operating edge.
 - The point is not to be neutral. The point is to be clear, grounded, and testable.
+- Curated interpretive sources may be used to refine implications, especially:
+  - investment ideas (including likely longs and shorts)
+  - business / product strategy implications
+  - startup ideas
+- Use these sources to sharpen the logic, not to replace observed evidence.
+- Do not let a strong opinion source create a specific long, short, or startup idea without enough grounding in the observed evidence.
+
 
 ### Evidence discipline
 
