@@ -1,5 +1,5 @@
 # Synthesized Implications
-_Last updated: 2026-03-30_
+_Last updated: 2026-04-05_
 
 ## How to read this document
 
@@ -64,7 +64,7 @@ The core point is not just that AI helps software. It is that software is enteri
 
 ---
 
-### 2. AI transitions over-reward implementation first for about five years, then shift value to firms that own business outcomes. There is also a buy-and-transform opportunity in labor-heavy service businesses.
+### 2. AI transitions over-reward implementation first for about five years, then shift value to firms that own business outcomes. As a corollary, there is also a buy-and-transform opportunity in labor-heavy service businesses for the medium-term.
 
 **Status:** Strengthening  
 
@@ -78,7 +78,7 @@ But implementation is not the end state. Over time, more value should move to fi
 
 That creates two linked opportunities:
 1. implementation-heavy firms can see a strong but time-bounded revenue window
-2. labor-heavy service businesses can be bought and turned into AI-powered outcome businesses
+2. labor-heavy service businesses can be bought and turned into AI-powered outcome businesses in the medium term
 
 In fragmented categories like tax prep, bookkeeping, compliance support, paralegal support, insurance admin, and similar back-office work, there may be a PE-style roll-up opportunity: buy human-powered firms, consolidate them, and then use AI to change the operating model.
 
@@ -139,13 +139,13 @@ This view also has a darker implication. Strategic infrastructure becomes a targ
 
 **Current evidence**
 - Reports said drone attacks shut a major Qatari helium production hub. That reinforces that compute bottlenecks are broader than GPUs and include non-obvious upstream inputs.
-- Multiple reports highlighted that AI demand is crowding TSMC’s advanced-node capacity and widening its lead. That reinforces foundry concentration.
-- Reuters reported Meta may cut around 20% of staff while AI infrastructure costs rise. That suggests scarce compute has real economic tradeoffs, even at large tech companies.
-- AWS’s willingness to mix first-party and third-party silicon also points to a world where compute has to be actively allocated and routed, not simply bought in a frictionless market.
+- Reuters said Chinese GPU and AI chipmakers captured about 41% of China’s AI accelerator server market in 2025. That suggests export controls and industrial policy are already reallocating share toward domestic compute stacks.
+- CoreWeave’s $8.5 billion GPU-backed financing and Mistral’s debt-funded European data center plans suggest frontier AI capacity is getting financed more like infrastructure than like normal software growth.
+- The Financial Times reported Britain is trying to lure Anthropic to expand in London and even consider a dual listing. That suggests frontier labs are starting to look more like national assets to anchor than ordinary software companies.
 
 **Evidence against**
-- The current daily notes do not yet show strong direct evidence that compute allocation is being shaped by politics as much as by economics, even if the logic is compelling.
-- There is not yet repeated direct evidence in the notes of sabotage or physical attacks specifically aimed at degrading AI compute infrastructure.
+- The recent notes now show politics shaping access and alignment more directly, but they still do not show which firms will convert political backing or regional alignment into durable economic advantage.
+- The notes still do not show repeated evidence of attacks aimed specifically at AI compute sites rather than at broader regional infrastructure.
 
 
 **Implications**
@@ -219,6 +219,62 @@ This matters more as AI stops being just a chat layer and starts acting inside r
 
 ---
 
+### 5. Writing software is getting cheap and fast. The real bottlenecks move to strategic fit, distribution, and change absorption.
+
+**Status:** New  
+
+**Why we believe this**
+
+AI coding tools are cutting the time and cost required to turn an idea into working software.
+
+That does not mean software stops mattering. It means teams can now create more software than they should ship.
+
+If more teams can make working software quickly, the harder problems shift to three questions:
+- what to build, and what not to build, so the product stays aligned with the business strategy instead of drifting into random feature motion
+- how to get the new capability in front of users cheaply and repeatedly
+- how fast users and organizations can absorb more change without confusion, distrust, workflow breakage, or retraining fatigue
+
+This should change how software companies compete. Faster creation helps everyone. The bigger advantage should move to firms that can tie product work to a clear business strategy, ship through an existing distribution channel, and pace change at a rate their customers can actually absorb.
+
+This also suggests AI disruption in software may run slower than many boosters expect. Shipping gets easier faster than user behavior and organizational behavior change.
+
+**Current evidence**
+- OpenAI plans to merge ChatGPT, Codex, and its browser into a desktop superapp and acquire Astral. That suggests the fight is moving toward owning the developer work loop and distribution surface, not just writing code faster.
+- Cursor launched Cursor 3 as a unified workspace for running local and cloud coding agents across repos. That suggests building software is becoming more of an orchestration problem inside one work surface than a scarce craft step by step.
+- Cloudflare launched EmDash and said AI coding agents helped it rebuild Next.js in a week. That suggests full application stacks can now be produced fast enough that product selection and go-to-market matter more.
+- Google added free Veo 3.1 clip generation to Vids inside Workspace. That suggests suites with existing distribution can absorb adjacent creation features quickly and push them to users at low marginal cost.
+- Bloomberg reported Microsoft hit internal Copilot sales goals after shifting its sales strategy, but only 3% of customers were paying for Copilot as of January. That suggests shipping new AI capability is easier than getting users to adopt it and pay for it.
+
+**Evidence against**
+- TrueUp data showed software engineering openings at tech companies are still rising. That suggests faster software creation has not yet reduced demand for people who can deploy, supervise, and integrate systems.
+- Anthropic said a Claude Code release exposed internal source code because of a packaging error, and Socket reported a malicious dependency in Axios releases. That suggests release discipline, security, and trust still slow down production software even when writing code gets faster.
+- The current notes show the strongest evidence in coding and adjacent creation tools, not yet across all software categories or enterprise buyers.
+
+**Implications**
+
+- **Investments**
+  - **Longs:** workflow owners, software suites, developer platforms, and app ecosystems that can ship new capability into an existing user base without paying full distribution cost each time
+    Representative public proxies: Microsoft (MSFT), ServiceNow (NOW), and Intuit (INTU).
+    These own work surfaces, admin channels, or trusted operating workflows that make it easier to distribute change and pace adoption once software creation speeds up.
+  - **Shorts:** point tools whose main edge is shipping features faster, or products that can generate lots of functionality but still have to buy distribution and retrain users from scratch
+    Representative public proxies: Asana (ASAN) and Dropbox (DBX).
+    These are better seen as “thin distribution” proxies than as clean direct shorts. The stronger expression of the view may still be owning distribution and change control rather than betting against any one feature vendor.
+
+- **Business / product strategy**
+  - Treat code as cheap and strategic coherence as scarce.
+  - Say no more often. When software gets cheap to produce, it gets easier to create noise that does not strengthen the business.
+  - Roadmaps should start with the business model, channel, and user behavior you want to change, not with what the coding agent can generate quickly.
+  - Build distribution into the product. Defaults, channels, admin surfaces, templates, and workflow embed matter more when competitors can clone features quickly.
+  - Plan around human and organizational adoption. Training, support, approvals, and workflow redesign may slow rollout more than engineering does.
+  - Measure adoption speed and workflow change, not just shipping speed. The real test is whether users and teams actually absorb the new capability.
+
+- **Startup ideas**
+  - Build product-prioritization systems that connect roadmap choices to user behavior, support pain, sales context, and margin impact. Knowing what not to build gets more valuable as coding gets cheaper.
+  - Build feature rollout and change-absorption infrastructure that segments users, paces releases, generates in-product education, and flags when teams or admins are overloaded by change.
+  - Build distribution layers for AI-generated functionality inside systems of record or software suites, where the edge is landing the feature in the workflow rather than writing it.
+
+---
+
 ## Candidate hypotheses not yet promoted
 
 ### A. Clearer crypto rules may create real product and market openings, but it is still too early to call the winners
@@ -251,6 +307,8 @@ That would shift advantage toward products that can prove where data goes, what 
 - The Wall Street Journal reported Meta employees are using internal agents with access to chat logs and work files, and some can contact colleagues on the user’s behalf. That makes permissions and replayability more central.
 - Anthropic shipped computer use in paid desktop products. That reinforces that agent value is increasingly tied to permission scope, review loops, and what happens on the actual work surface.
 - GitHub said it will start using Copilot interaction data for training unless users opt out. That is a concrete reminder that data-boundary terms may become a buying and deployment issue, not just a policy detail.
+- Bloomberg Law reported Perplexity was sued over allegations that trackers gave Meta and Google access to user conversations. That is a concrete reminder that invisible data flows can become a buyer-trust problem quickly.
+- Google released Gemma 4 to run privately across phones, edge devices, and workstations, and Meta paused work with Mercor after a LiteLLM-linked breach. Together, those signals suggest deployment boundary and vendor boundary are becoming product decisions, not just infrastructure details.
 
 **What is still missing**
 - More proof that buyers will switch vendors, pay more, or standardize on products mainly because of stronger training boundaries, audit trails, or permission controls.
