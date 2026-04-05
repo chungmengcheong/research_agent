@@ -1,5 +1,3 @@
-# Tech Intelligence Notes
-
 # Sense-making Agent Notes
 
 This repository is an experiment in building an AI-assisted sense-making system that does more than summarize information.
